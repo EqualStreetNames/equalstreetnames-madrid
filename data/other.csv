@@ -17,8 +17,16 @@ name,source,gender,wikidata,type
 "Calle Quebec",wikidata,,Q9950,way
 "Calle de Betancunia",wikidata,,Q830969,way
 "Calle de Cádiz",wikidata,,Q15682,way
+"Calle de Lepanto",wikidata,,Q165425,way
 "Calle de Madrid",wikidata,,Q2807,way
+"Calle de Montevideo",wikidata,,Q1335,way
+"Calle de Pavía",wikidata,,Q63468,way
+"Calle de Vergara",wikidata,,Q2996259,way
+"Calle de la Victoria",wikidata,,Q5785667,way
 "Calle del Río Ebro",wikidata,,Q14367,way
+"Plaza de Callao",wikidata,,Q2394918,way
+"Plaza de Santa Catalina de los Donados",wikidata,,Q16576203,way
+"Plaza de los Carros",wikidata,,Q234668,relation+way
 "Acceso Anillo Distribuidor Cuatro Torres",,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
@@ -3033,7 +3041,6 @@ Bus/VAO,,,,way
 "Calle de Arrastaria",,,,relation+way
 "Calle de Arregui y Aruej",,,,way
 "Calle de Arriaza",,,,way
-"Calle de Arrieta",,,,way
 "Calle de Arroyo del Charco del Pescador",,,,way
 "Calle de Arroyofresno",,,,way
 "Calle de Arroyomolino",,,,way
@@ -3470,7 +3477,6 @@ Bus/VAO,,,,way
 "Calle de Colón",,,,way
 "Calle de Colonia Occidente",,,,way
 "Calle de Coloreros",,,,way
-"Calle de Columela",,,,way
 "Calle de Concepción Ávila",,,,way
 "Calle de Concepción Bahamonde",,,,way
 "Calle de Conchita Montes",,,,way
@@ -4418,7 +4424,6 @@ Bus/VAO,,,,way
 "Calle de Leopoldo Alas ""Clarín""",,,,way
 "Calle de Leopoldo Calvo Sotelo",,,,way
 "Calle de Leovigildo",,,,way
-"Calle de Lepanto",,,,way
 "Calle de Lérida",,,,way
 "Calle de Lesaca",,,,way
 "Calle de Lezama",,,,way
@@ -4789,7 +4794,6 @@ Bus/VAO,,,,way
 "Calle de Montes Alberes",,,,way
 "Calle de Montesa",,,,way
 "Calle de Monteverde",,,,way
-"Calle de Montevideo",,,,way
 "Calle de Montoya",,,,way
 "Calle de Montpellier",,,,way
 "Calle de Montseny",,,,way
@@ -4990,7 +4994,6 @@ Bus/VAO,,,,way
 "Calle de Patrocinio Gómez",,,,way
 "Calle de Paul Guinard",,,,way
 "Calle de Paula de la Vega",,,,way
-"Calle de Pavía",,,,way
 "Calle de Pechuán",,,,way
 "Calle de Pedrafita do Cebreiro",,,,way
 "Calle de Pedrezuela",,,,way
@@ -5857,7 +5860,6 @@ Bus/VAO,,,,way
 "Calle de Veracruz",,,,way
 "Calle de Verdaguer y García",,,,way
 "Calle de Verde Viento",,,,way
-"Calle de Vergara",,,,way
 "Calle de Verona",,,,way
 "Calle de Versalles",,,,way
 "Calle de Vía Límite",,,,way
@@ -6485,7 +6487,6 @@ Bus/VAO,,,,way
 "Calle de la Vía",,,,way
 "Calle de la Vía Carpetana",,,,way
 "Calle de la Vía Láctea",,,,way
-"Calle de la Victoria",,,,way
 "Calle de la Vid",,,,way
 "Calle de la Vidauba",,,,way
 "Calle de la Vidriería",,,,way
@@ -7010,7 +7011,6 @@ Bus/VAO,,,,way
 "Calle del Chimbo",,,,way
 "Calle del Choco",,,,way
 "Calle del Ciclón",,,,way
-"Calle del Cid",,,,way
 "Calle del Cidro",,,,way
 "Calle del Cierzo",,,,way
 "Calle del Cinabrio",,,,way
@@ -7296,7 +7296,6 @@ Bus/VAO,,,,way
 "Calle del Maestro Ripoll",,,,way
 "Calle del Maestro Sorozábal",,,,way
 "Calle del Maestro Victoria",,,,way
-"Calle del Maestro Villa",,,,way
 "Calle del Maestro Vives",,,,way
 "Calle del Maíz",,,,way
 "Calle del Majuelo",,,,way
@@ -8496,7 +8495,6 @@ Moncloa,,,,way
 "Plaza de Antonio María Segovia",,,,way
 "Plaza de Aragón",,,,way
 "Plaza de Arteijo",,,,way
-"Plaza de Arturo Barea",,,,way
 "Plaza de Bami",,,,way
 "Plaza de Barbados",,,,way
 "Plaza de Barbatáin",,,,way
@@ -8504,7 +8502,6 @@ Moncloa,,,,way
 "Plaza de Basilea",,,,way
 "Plaza de Boston",,,,way
 "Plaza de Burdeos",,,,way
-"Plaza de Callao",,,,way
 "Plaza de Campo de Criptana",,,,way
 "Plaza de Canalejas",,,,way
 "Plaza de Cánovas del Castillo",,,,way
@@ -8512,7 +8509,6 @@ Moncloa,,,,way
 "Plaza de Carballo",,,,way
 "Plaza de Carbanchel",,,,way
 "Plaza de Carlos Cambronero",,,,way
-"Plaza de Carlos Trías Bertrán",,,,way
 "Plaza de Carmen Conde",,,,way
 "Plaza de Carmen del Río",,,,way
 "Plaza de Carmona",,,,way
@@ -8523,9 +8519,7 @@ Moncloa,,,,way
 "Plaza de Celenque",,,,way
 "Plaza de Ceres",,,,way
 "Plaza de Chamberí",,,,relation
-"Plaza de Chueca",,,,way
 "Plaza de Cibeles",,,,way
-"Plaza de Colón",,,,way
 "Plaza de Corcubión",,,,way
 "Plaza de Corpus Barga",,,,way
 "Plaza de Costa Rica",,,,way
@@ -8568,8 +8562,6 @@ Moncloa,,,,way
 "Plaza de Huarte de San Juan",,,,way
 "Plaza de Ignacio Villalonga",,,,way
 "Plaza de Irabia",,,,way
-"Plaza de Isabel II",,,,relation+way
-"Plaza de Jacinto Benavente",,,,way
 "Plaza de Jaizquíbel",,,,way
 "Plaza de Jesús",,,,way
 "Plaza de José Banús",,,,way
@@ -8578,7 +8570,6 @@ Moncloa,,,,way
 "Plaza de José María Soler",,,,way
 "Plaza de José de Villareal",,,,way
 "Plaza de Josemaría Escrivá de Balaguer",,,,way
-"Plaza de Juan Goytisolo",,,,way
 "Plaza de Juan Zorrilla",,,,way
 "Plaza de Juan de Malasaña",,,,way
 "Plaza de La Rendición de Breda",,,,way
@@ -8598,7 +8589,6 @@ Moncloa,,,,way
 "Plaza de Manuel Rodrigo",,,,way
 "Plaza de Manuel de la Quintana",,,,way
 "Plaza de Manuel marchamalo",,,,way
-"Plaza de Margaret Thatcher",,,,way
 "Plaza de María Guerrero",,,,way
 "Plaza de Mariana Pineda",,,,way
 "Plaza de Mariano Lanuza",,,,way
@@ -8614,7 +8604,6 @@ Moncloa,,,,way
 "Plaza de Montiel",,,,way
 "Plaza de Montilla",,,,way
 "Plaza de Munilla",,,,way
-"Plaza de Nelson Mandela",,,,way
 "Plaza de Nicaragua",,,,way
 "Plaza de Nuestra Señora del Buen Consejo",,,,way
 "Plaza de Nuestra Señora del Tránsito",,,,way
@@ -8626,12 +8615,10 @@ Moncloa,,,,way
 "Plaza de Padrón",,,,way
 "Plaza de Pajarones",,,,way
 "Plaza de Parvillas",,,,way
-"Plaza de Pedro Zerolo",,,,way
 "Plaza de Peña Horcajo",,,,way
 "Plaza de Peñuelas",,,,way
 "Plaza de Perseo",,,,way
 "Plaza de Platón",,,,way
-"Plaza de Pontejos",,,,way
 "Plaza de Puerta Cerrada",,,,way
 "Plaza de Puerto Rubio",,,,way
 "Plaza de Quito",,,,way
@@ -8645,7 +8632,6 @@ Moncloa,,,,way
 "Plaza de Roger de Flor",,,,way
 "Plaza de Rubén Darío",,,,way
 "Plaza de Salvador Crespo",,,,way
-"Plaza de Salvador Dalí",,,,way
 "Plaza de San Amaro",,,,way
 "Plaza de San Anacleto",,,,way
 "Plaza de San Andrés",,,,way
@@ -8663,11 +8649,9 @@ Moncloa,,,,way
 "Plaza de San Vicente de Paúl",,,,way
 "Plaza de Santa Ana",,,,relation+way
 "Plaza de Santa Bárbara",,,,relation+way
-"Plaza de Santa Catalina de los Donados",,,,way
 "Plaza de Santa Cristina",,,,way
 "Plaza de Santa Cruz",,,,way
 "Plaza de Santa Gema",,,,relation
-"Plaza de Santa María Soledad Torres Acosta",,,,way
 "Plaza de Santa Paula Montal",,,,way
 "Plaza de Santa Teresita",,,,way
 "Plaza de Santiago",,,,way
@@ -8681,7 +8665,6 @@ Moncloa,,,,way
 "Plaza de Somorrostro",,,,way
 "Plaza de Tarifa",,,,way
 "Plaza de Tauste",,,,way
-"Plaza de Tirso de Molina",,,,way
 "Plaza de Torcuato Fernández-Miranda",,,,way
 "Plaza de Tubilla",,,,way
 "Plaza de Tuy",,,,way
@@ -8764,7 +8747,6 @@ Moncloa,,,,way
 "Plaza de los Artesanos",,,,way
 "Plaza de los Astros",,,,way
 "Plaza de los Capuchinos",,,,way
-"Plaza de los Carros",,,,relation+way
 "Plaza de los Dávilas",,,,way
 "Plaza de los Emperadores",,,,way
 "Plaza de los Guardias de Corps",,,,way
@@ -8795,13 +8777,11 @@ Moncloa,,,,way
 "Plaza del Cazador",,,,way
 "Plaza del Cine",,,,way
 "Plaza del Colegio Ateneo Politécnico",,,,way
-"Plaza del Comandante Las Morenas",,,,way
 "Plaza del Conde de Barajas",,,,way
 "Plaza del Conde de Casal",,,,way
 "Plaza del Conde de Covatillas",,,,way
 "Plaza del Conde de Eleta",,,,way
 "Plaza del Conde de Miranda",,,,way
-"Plaza del Conde de Toreno",,,,way
 "Plaza del Conde del Valle Suchil",,,,way
 "Plaza del Conde del Valle de Suchil",,,,way
 "Plaza del Cordón",,,,relation
@@ -8849,7 +8829,6 @@ Moncloa,,,,way
 "Plaza del Puerto de Ibañeta",,,,way
 "Plaza del Puerto de Maspalomas",,,,way
 "Plaza del Puerto de la Cruz",,,,way
-"Plaza del Rastrillo",,,,way
 "Plaza del Recibimiento",,,,way
 "Plaza del Reloj",,,,way
 "Plaza del Rey",,,,way
@@ -8860,7 +8839,6 @@ Moncloa,,,,way
 "Plaza del alto de Extremadura",,,,way
 "Plazuela Virgen de la Estrella",,,,way
 "Plazuela de Ana Diosdado",,,,way
-"Plazuela de Antón Martín",,,,way
 "Plazuela de Antonio Vega",,,,way
 "Plazuela de San Javier",,,,way
 "Plazuela de la Memoria Trans",,,,way
@@ -8879,7 +8857,6 @@ Moncloa,,,,way
 "Prolongación de O'Donnell",,,,way
 "Provisional Cuña Latina 2",,,,way
 "Puente Calero",,,,way
-"Puente Enrique de la Mata Gorostizaga",,,,way
 "Puente Felipe Juvara",,,,way
 "Puente Monumental Parque Arganzuela",,,,way
 "Puente Oblicuo",,,,way

@@ -4,12 +4,17 @@ name,source,gender,wikidata,type
 "Calle Marie Curie",wikidata,F,Q7186,way
 "Calle de Concepción Arenal",wikidata,F,Q671852,way
 "Calle de María Blanchard",wikidata,F,Q443779,way
+"Plaza de Isabel II",wikidata,F,Q183085,relation+way
+"Plaza de Margaret Thatcher",wikidata,F,Q7416,way
+"Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
 "Calle Pizarro",wikidata,M,Q44741,way
 "Calle de Alcalá",wikidata,M,Q297,way
 "Calle de Alfonso X",wikidata,M,Q47595,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
+"Calle de Arrieta",wikidata,M,Q953785,way
 "Calle de Carlos III",wikidata,M,Q36234,way
+"Calle de Columela",wikidata,M,Q318317,way
 "Calle de Eduardo Benot",wikidata,M,Q1290837,way
 "Calle de Isaac Peral",wikidata,M,Q545065,way
 "Calle de León Felipe",wikidata,M,Q2076131,way
@@ -17,4 +22,22 @@ name,source,gender,wikidata,type
 "Calle de Méndez Núñez",wikidata,M,Q3394337,way
 "Calle de Velázquez",wikidata,M,Q297,way
 "Calle del Cardenal Cisneros",wikidata,M,Q342392,way
+"Calle del Cid",wikidata,M,Q43958,way
+"Calle del Maestro Villa",wikidata,M,Q3814672,way
 "Paseo de Carlos III",wikidata,M,Q36234,way
+"Plaza de Arturo Barea",wikidata,M,Q459293,way
+"Plaza de Carlos Trías Bertrán",wikidata,M,Q947754,way
+"Plaza de Chueca",wikidata,M,Q652534,way
+"Plaza de Colón",wikidata,M,Q7322,way
+"Plaza de Jacinto Benavente",wikidata,M,Q83184,way
+"Plaza de Juan Goytisolo",wikidata,M,Q353762,way
+"Plaza de Nelson Mandela",wikidata,M,Q8023,way
+"Plaza de Pedro Zerolo",wikidata,M,Q3111575,way
+"Plaza de Pontejos",wikidata,M,Q6452928,way
+"Plaza de Salvador Dalí",wikidata,M,Q5577,way
+"Plaza de Tirso de Molina",wikidata,M,Q295598,way
+"Plaza del Comandante Las Morenas",wikidata,M,Q5833988,way
+"Plaza del Conde de Toreno",wikidata,M,Q1377208,way
+"Plaza del Rastrillo",wikidata,M,Q9015898,way
+"Plazuela de Antón Martín",wikidata,M,Q5700573,way
+"Puente Enrique de la Mata Gorostizaga",wikidata,M,Q268599,way
