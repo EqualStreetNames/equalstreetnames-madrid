@@ -26,6 +26,7 @@ name,source,gender,wikidata,type
 "Calle del Río Ebro",wikidata,,Q14367,way
 "Plaza de Callao",wikidata,,Q2394918,way
 "Plaza de Santa Catalina de los Donados",wikidata,,Q16576203,way
+"Plaza de la República Argentina",wikidata,,Q414,way
 "Plaza de los Carros",wikidata,,Q234668,relation+way
 "Acceso Anillo Distribuidor Cuatro Torres",,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
@@ -35,6 +36,7 @@ name,source,gender,wikidata,type
 "Aeropuerto T2 Salidas",,,,way
 "Anillo Distribuidor Cuatro Torres",,,,way
 "Anillo Verde Ciclista",,,,way
+"Antigua Carretera de la Dehesa de la Villa",,,,way
 "Antigua carretera M-301",,,,way
 "Árbol de la Vida",,,,way
 "Arco de la Victoria",,,,way
@@ -8371,6 +8373,7 @@ Moncloa,,,,way
 "Paseo de los Pontones",,,,way
 "Paseo de los Recintos Feriales",,,,way
 "Paseo de los Talleres",,,,way
+"Paseo del Canalillo",,,,way
 "Paseo del Comandante Fortea",,,,way
 "Paseo del Embarcadero",,,,way
 "Paseo del General Martínez Campos",,,,way
@@ -8717,7 +8720,6 @@ Moncloa,,,,way
 "Plaza de la Puerta del Ángel",,,,way
 "Plaza de la Puerta del Sol",,,,way
 "Plaza de la Remonta",,,,relation
-"Plaza de la República Argentina",,,,way
 "Plaza de la República Dominicana",,,,way
 "Plaza de la República de Chile",,,,way
 "Plaza de la Reverencia",,,,relation
@@ -8928,6 +8930,7 @@ Moncloa,,,,way
 "San Millán de la Cogolla",,,,way
 "Santa Escolastica",,,,way
 "Santo Domingo de la Calzada",,,,way
+"Senda Real (GR-124)",,,,way
 "Senda de Casa Quemada",,,,way
 "Senda de los Panaderos",,,,way
 Sendero,,,,way
