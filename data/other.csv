@@ -611,7 +611,6 @@ Bus/VAO,,,,way
 "Calle Benamejí",,,,way
 "Calle Benarrabá",,,,way
 "Calle Bendición de Campos",,,,way
-"Calle Beneficia Belén",,,,way
 "Calle Benetuser",,,,way
 "Calle Beniferri",,,,way
 "Calle Benito Prieto",,,,way
@@ -800,7 +799,6 @@ Bus/VAO,,,,way
 "Calle Cava de San Miguel",,,,way
 "Calle Cazorla",,,,way
 "Calle Cedros",,,,way
-"Calle Cefeo",,,,way
 "Calle Ceferino Ávila",,,,way
 "Calle Celanova",,,,way
 "Calle Celindas",,,,way
@@ -3150,6 +3148,7 @@ Bus/VAO,,,,way
 "Calle de Belvís de la Jara",,,,way
 "Calle de Belzunegui",,,,way
 "Calle de Bembibre",,,,way
+"Calle de Beneficia Belén",,,,way
 "Calle de Benicarló",,,,way
 "Calle de Benicásim",,,,way
 "Calle de Benidorm",,,,way
@@ -3416,6 +3415,7 @@ Bus/VAO,,,,way
 "Calle de Cecilio Perucha",,,,way
 "Calle de Cedaceros",,,,way
 "Calle de Cedillo del Condado",,,,way
+"Calle de Cefeo",,,,way
 "Calle de Ceferino Rodríguez",,,,way
 "Calle de Celeste",,,,way
 "Calle de Cenicientos",,,,way
@@ -3466,6 +3466,7 @@ Bus/VAO,,,,way
 "Calle de Cochabamba",,,,way
 "Calle de Cocheros",,,,way
 "Calle de Cocuy",,,,way
+"Calle de Collado Bajo",,,,way
 "Calle de Collado Mediano",,,,way
 "Calle de Collado Mostajo",,,,way
 "Calle de Collado de Marichiva",,,,way
@@ -3619,7 +3620,6 @@ Bus/VAO,,,,way
 "Calle de El Vellón",,,,way
 "Calle de El Yesero",,,,way
 "Calle de Elba",,,,way
-"Calle de Elfo",,,,way
 "Calle de Elisa",,,,way
 "Calle de Elisa Ochoa",,,,way
 "Calle de Elizondo",,,,way
@@ -5651,7 +5651,6 @@ Bus/VAO,,,,way
 "Calle de Socuéllamos",,,,way
 "Calle de Sofía",,,,way
 "Calle de Sófora",,,,way
-"Calle de Sol Naciente",,,,way
 "Calle de Soledad Cazorla",,,,way
 "Calle de Soler y González",,,,way
 "Calle de Sombrerete",,,,way
@@ -5832,7 +5831,7 @@ Bus/VAO,,,,way
 "Calle de Valenzuela",,,,way
 "Calle de Valhondo",,,,way
 "Calle de Valle Guerra",,,,way
-"Calle de Valle Inclán",,,,way
+"Calle de Valle-Inclán",,,,way
 "Calle de Vallehermoso",,,,way
 "Calle de Valls Ferrera",,,,way
 "Calle de Vallter",,,,way
@@ -6716,6 +6715,7 @@ Bus/VAO,,,,way
 "Calle de los Hermanos Pinzón",,,,way
 "Calle de los Hermanos Ruiz",,,,way
 "Calle de los Hermanos Trueba",,,,way
+"Calle de los Hermanos de Pablo",,,,way
 "Calle de los Hermanos del Moral",,,,way
 "Calle de los Hexágonos",,,,way
 "Calle de los Hidratos",,,,way
@@ -7153,6 +7153,7 @@ Bus/VAO,,,,way
 "Calle del Duro",,,,way
 "Calle del Ébano",,,,way
 "Calle del Ega",,,,way
+"Calle del Elfo",,,,way
 "Calle del Embalse de El Vellón",,,,way
 "Calle del Embalse de La Jarosa",,,,way
 "Calle del Embalse de Navacerrada",,,,way
@@ -7212,6 +7213,7 @@ Bus/VAO,,,,way
 "Calle del General Margallo",,,,way
 "Calle del General Martín Cerezo",,,,way
 "Calle del General Marvá",,,,way
+"Calle del General Millán Astray",,,,way
 "Calle del General Mitre",,,,way
 "Calle del General Oráa",,,,way
 "Calle del General Palanca",,,,way
@@ -7631,6 +7633,7 @@ Bus/VAO,,,,way
 "Calle del Socorro",,,,way
 "Calle del Sodio",,,,way
 "Calle del Sol",,,,way
+"Calle del Sol Naciente",,,,way
 "Calle del Solano",,,,way
 "Calle del Solara",,,,way
 "Calle del Somormujo",,,,way
@@ -8612,12 +8615,13 @@ Moncloa,,,,way
 "Plaza de Nuestra Señora del Tránsito",,,,way
 "Plaza de Nueva Orleans",,,,way
 "Plaza de Olavide",,,,relation+way
-"Plaza de Oriente",,,,relation
+"Plaza de Oriente",,,,relation+way
 "Plaza de Ortega y Munilla",,,,way
 "Plaza de Oyarzun",,,,way
 "Plaza de Padrón",,,,way
 "Plaza de Pajarones",,,,way
 "Plaza de Parvillas",,,,way
+"Plaza de Pedro Zerolo",,,,way
 "Plaza de Peña Horcajo",,,,way
 "Plaza de Peñuelas",,,,way
 "Plaza de Perseo",,,,way
