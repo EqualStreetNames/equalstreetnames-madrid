@@ -2410,7 +2410,6 @@ Bus/VAO,,,,way
 "Calle Tauro",,,,way
 "Calle Tejadillo",,,,way
 "Calle Tejar de la Pastora",,,,way
-"Calle Tejo",,,,way
 "Calle Telares",,,,way
 "Calle Teleférico de las Canteras",,,,way
 "Calle Telémaco",,,,way
@@ -6751,6 +6750,7 @@ Bus/VAO,,,,way
 "Calle de los Ópticos",,,,way
 "Calle de los Padres Dominicos",,,,way
 "Calle de los Pedroches",,,,way
+"Calle de los Peñascales",,,,way
 "Calle de los Peones",,,,way
 "Calle de los Peruchos",,,,way
 "Calle de los Picos de Urbión",,,,way
@@ -7940,7 +7940,9 @@ Camarena,,,,way
 "Costanilla de los Desamparados",,,,way
 "Costanilla de los Olivos",,,,way
 "Costanilla del Patriarca",,,,way
+"Cresta del Cuervo",,,,way
 "Cruce Peatonal",,,,way
+"Cruce de peatones",,,,way
 "Cuesta de Castro de Vigo",,,,way
 "Cuesta de Javalquinto",,,,way
 "Cuesta de Moyano",,,,way
@@ -8115,6 +8117,7 @@ Camarena,,,,way
 "Gran Vía de San Francisco",,,,way
 "Gran Vía de Villaverde",,,,way
 "Gran Vía del Sureste",,,,way
+"Huerto del Retiro",,,,way
 "Instalación Deportiva Municipal Básica Circuito de Automodelismo",,,,way
 "Instalación Deportiva Municipal Básica Parque El Calero. Circuito de bicicletas",,,,way
 "Institicion Libre de enseñanza",,,,way
@@ -8150,7 +8153,9 @@ Moncloa,,,,way
 "Nudo de Manoteras",,,,way
 "Olimpio López",,,,way
 "Pablo Ortiz",,,,way
+"Parque Avenida de los Poblados",,,,way
 "Parque Pajaritos-Suárez",,,,way
+"Parque Santa Rita",,,,way
 "Pasadizo de San Ginés",,,,way
 "Pasadizo del Obispo",,,,way
 "Pasadizo del Panecillo",,,,way
@@ -8470,6 +8475,7 @@ Moncloa,,,,way
 "Plaza Santa Bárbara",,,,way
 "Plaza Segovia Nueva",,,,way
 "Plaza Seis De Diciembre",,,,way
+"Plaza Seis de Diciembre",,,,way
 "Plaza Teniente de Alcalde Pérez Pillado",,,,way
 "Plaza Tres Esquinas",,,,way
 "Plaza Valsaín",,,,way
@@ -8562,7 +8568,6 @@ Moncloa,,,,way
 "Plaza de Gilhou",,,,way
 "Plaza de Grecia",,,,way
 "Plaza de Guatemala",,,,way
-"Plaza de Hacienda",,,,way
 "Plaza de Herradores",,,,way
 "Plaza de Honduras",,,,way
 "Plaza de Huarte de San Juan",,,,way
@@ -8693,6 +8698,7 @@ Moncloa,,,,way
 "Plaza de la Cibeles",,,,way
 "Plaza de la Ciudad de Salta",,,,way
 "Plaza de la Condesa de Gavia",,,,way
+"Plaza de la Constitución",,,,way
 "Plaza de la Convivencia",,,,way
 "Plaza de la Corrala",,,,way
 "Plaza de la Emperatriz",,,,way
@@ -9091,6 +9097,7 @@ Tubo,,,,way
 "Túnel de Ríos Rosas",,,,way
 "Túnel de Ventisquero de la Condesa",,,,way
 "Túnel del Pardo",,,,way
+"Unidad Integral de Distrito Carabanchel",,,,way
 Valdecanillas,,,,way
 Valdemaqueda,,,,way
 "Valle del Silencio",,,,way
