@@ -4,27 +4,55 @@ name,source,gender,wikidata,type
 "Calle Marie Curie",wikidata,F,Q7186,way
 "Calle de Concepción Arenal",wikidata,F,Q671852,way
 "Calle de María Blanchard",wikidata,F,Q443779,way
+"Calle de María de Molina",wikidata,F,Q266025,way
+"Calle de Pastora Imperio",wikidata,F,Q3742020,way
 "Plaza de Isabel II",wikidata,F,Q183085,relation+way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
+"Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
+"Avenida de Pablo Iglesias",wikidata,M,Q450299,way
+"Avenida de Pío XII",wikidata,M,Q2604,relation+way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
 "Calle Pizarro",wikidata,M,Q44741,way
+"Calle de Agustín de Foxá",wikidata,M,Q2827365,way
+"Calle de Alberto Aguilera",wikidata,M,Q3773729,way
 "Calle de Alcalá",wikidata,M,Q297,way
 "Calle de Alfonso X",wikidata,M,Q47595,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
 "Calle de Arrieta",wikidata,M,Q953785,way
+"Calle de Bravo Murillo",wikidata,M,Q200476,way
 "Calle de Carlos III",wikidata,M,Q36234,way
+"Calle de Cea Bermúdez",wikidata,M,Q963367,way
 "Calle de Columela",wikidata,M,Q318317,way
+"Calle de Daniel Vázquez Díaz",wikidata,M,Q963123,way
+"Calle de Diego de León",wikidata,M,Q3027464,way
 "Calle de Eduardo Benot",wikidata,M,Q1290837,way
+"Calle de Enrique Larreta",wikidata,M,Q3054691,way
+"Calle de Esteban Terradas",wikidata,M,Q4894155,way
+"Calle de Fernández Silvestre",wikidata,M,Q3180734,way
+"Calle de Francisco Silvela",wikidata,M,Q1236383,relation+way
+"Calle de Goya",wikidata,M,Q5432,way
 "Calle de Isaac Peral",wikidata,M,Q545065,way
+"Calle de José Abascal",wikidata,M,Q9013476,way
+"Calle de José Vasconcelos",wikidata,M,Q1091141,way
+"Calle de Juan Bravo",wikidata,M,Q2742152,way
 "Calle de León Felipe",wikidata,M,Q2076131,way
 "Calle de Magallanes",wikidata,M,Q1496,way
+"Calle de Mateo Inurria",wikidata,M,Q9030461,way
+"Calle de Mauricio Legendre",wikidata,M,Q9030662,way
 "Calle de Méndez Núñez",wikidata,M,Q3394337,way
+"Calle de Núñez Morgado",wikidata,M,Q96182849,way
+"Calle de Pablo Luna",wikidata,M,Q2336713,way
+"Calle de Rodríguez Jaén",wikidata,M,Q11705060,way
+"Calle de Sagasta",wikidata,M,Q379779,way
 "Calle de Velázquez",wikidata,M,Q297,way
 "Calle del Cardenal Cisneros",wikidata,M,Q342392,way
+"Calle del Cardenal Marcelo Spínola",wikidata,M,Q710764,way
 "Calle del Cid",wikidata,M,Q43958,way
 "Calle del Maestro Villa",wikidata,M,Q3814672,way
+"Calle del Padre Francisco Palau y Quer",wikidata,M,Q921193,way
 "Paseo de Carlos III",wikidata,M,Q36234,way
+"Plaza de Andrés Manjón",wikidata,M,Q4760226,way
 "Plaza de Arturo Barea",wikidata,M,Q459293,way
 "Plaza de Carlos Trías Bertrán",wikidata,M,Q947754,way
 "Plaza de Chueca",wikidata,M,Q652534,way
