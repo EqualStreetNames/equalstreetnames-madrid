@@ -24,7 +24,7 @@ name,source,gender,wikidata,type
 "Calle de Vergara",wikidata,,Q2996259,way
 "Calle de la Victoria",wikidata,,Q5785667,way
 "Calle del Río Ebro",wikidata,,Q10965,way
-"Plaza de Callao",wikidata,,Q2394918,way
+"Plaza de Callao",wikidata,,Q2394918,relation
 "Plaza de Santa Catalina de los Donados",wikidata,,Q16576203,way
 "Plaza de la República Argentina",wikidata,,Q414,way
 "Plaza de los Carros",wikidata,,Q234668,relation+way
@@ -1891,7 +1891,6 @@ Bus/VAO,,,,way
 "Calle Pastor",,,,way
 "Calle Pastores",,,,way
 "Calle Pastrana",,,,way
-"Calle Patio de Servicio",,,,way
 "Calle Patriarca San José",,,,way
 "Calle Patrimonio de la Humanidad",,,,way
 "Calle Paulina Odiaga",,,,way
@@ -2640,7 +2639,6 @@ Bus/VAO,,,,way
 "Calle Zipaquira",,,,way
 "Calle Zubía",,,,way
 "Calle Zubieta",,,,way
-"Calle Zuera",,,,way
 "Calle Zugazarte",,,,way
 "Calle Zumárraga",,,,way
 "Calle Zumaya",,,,way
@@ -2933,7 +2931,7 @@ Bus/VAO,,,,way
 "Calle de Antonio Antoranz",,,,way
 "Calle de Antonio Arias",,,,way
 "Calle de Antonio Calvo",,,,way
-"Calle de Antonio Cantalejo",,,,relation
+"Calle de Antonio Cantalejo",,,,way
 "Calle de Antonio Casero",,,,way
 "Calle de Antonio Corpas",,,,way
 "Calle de Antonio Cumella",,,,way
@@ -3512,7 +3510,7 @@ Bus/VAO,,,,way
 "Calle de Darío Aparicio",,,,way
 "Calle de Darío Gazapo",,,,way
 "Calle de Darwin",,,,way
-"Calle de Demetrio López",,,,relation
+"Calle de Demetrio López",,,,way
 "Calle de Demetrio Sánchez",,,,way
 "Calle de Denia",,,,way
 "Calle de Deva",,,,way
@@ -4595,7 +4593,7 @@ Bus/VAO,,,,way
 "Calle de María Martínez Oviol",,,,way
 "Calle de María Moliner",,,,way
 "Calle de María Montessori",,,,way
-"Calle de María Nistal",,,,relation
+"Calle de María Nistal",,,,way
 "Calle de María Odiaga",,,,way
 "Calle de María Orué",,,,way
 "Calle de María Panés",,,,way
@@ -5641,7 +5639,6 @@ Bus/VAO,,,,way
 "Calle de Sotavento",,,,way
 "Calle de Sotillo",,,,way
 "Calle de Soto Hidalgo",,,,way
-"Calle de Soto Yoldi",,,,way
 "Calle de Soto del Real",,,,way
 "Calle de Sotomayor",,,,way
 "Calle de Soutelos de Montes",,,,way
@@ -5960,6 +5957,7 @@ Bus/VAO,,,,way
 "Calle de Zeus",,,,way
 "Calle de Zigia",,,,way
 "Calle de Zorrilla",,,,way
+"Calle de Zuera",,,,way
 "Calle de Zurbano",,,,way
 "Calle de Zurbarán",,,,way
 "Calle de Zurich",,,,way
@@ -6324,7 +6322,7 @@ Bus/VAO,,,,way
 "Calle de la Peña de Vargas",,,,way
 "Calle de la Peña del Cuervo",,,,way
 "Calle de la Perdiz",,,,way
-"Calle de la Persuasión",,,,relation
+"Calle de la Persuasión",,,,way
 "Calle de la Pimienta",,,,way
 "Calle de la Piña",,,,way
 "Calle de la Pinilla",,,,way
@@ -7216,6 +7214,7 @@ Bus/VAO,,,,way
 "Calle del Henares",,,,way
 "Calle del Heno",,,,way
 "Calle del Hierro",,,,way
+"Calle del Hinojo",,,,way
 "Calle del Horizon",,,,way
 "Calle del Hornero",,,,way
 "Calle del Horno de Labradores",,,,way
@@ -7722,7 +7721,6 @@ Bus/VAO,,,,way
 "Callejón del Trópico",,,,way
 "Calzada lateral M-30",,,,way
 Camarena,,,,way
-"Caminno del Cuartel",,,,way
 "Camino Aeropuerto",,,,way
 "Camino Alto de Hortaleza",,,,way
 "Camino Alto de San Isidro",,,,way
@@ -8067,9 +8065,12 @@ Camarena,,,,way
 "Glorieta de las Pirámides",,,,way
 "Glorieta de las Reales Academias",,,,way
 "Glorieta de las Siete Hermanas",,,,way
+"Glorieta de los Castaños",,,,way
 "Glorieta de los Patines",,,,way
+"Glorieta de los Plátanos",,,,way
 "Glorieta de los Sagrados Corazones",,,,way
 "Glorieta de los Tilos",,,,way
+"Glorieta de los Tilos Norte",,,,way
 "Glorieta de los Vientos",,,,way
 "Glorieta del Ángel Caído",,,,way
 "Glorieta del Campanar",,,,way
@@ -8609,6 +8610,7 @@ Moncloa,,,,way
 "Plaza de Platón",,,,way
 "Plaza de Puerta Cerrada",,,,way
 "Plaza de Puerto Rubio",,,,way
+"Plaza de Quintana",,,,way
 "Plaza de Quito",,,,way
 "Plaza de Raffaella Carrà",,,,way
 "Plaza de Ramales",,,,way
@@ -9091,7 +9093,6 @@ Valdemaqueda,,,,way
 "Vía de servicio Autovía de Colmenar",,,,way
 "Viaducto de Segovia",,,,way
 "Virgen de la Providencia",,,,way
-"acceso iglesia desde calle Toledo",,,,way
 "camino interior",,,,way
 "camino interior colonia",,,,way
 "camino privado de la colonia",,,,way
