@@ -23,6 +23,7 @@ name,source,gender,wikidata,type
 "Calle de Pavía",wikidata,,Q63468,way
 "Calle de Vergara",wikidata,,Q2996259,way
 "Calle de la Victoria",wikidata,,Q5785667,way
+"Calle de los Donados",wikidata,,Q16576203,way
 "Calle del Río Ebro",wikidata,,Q10965,way
 "Plaza de Callao",wikidata,,Q2394918,relation
 "Plaza de Santa Catalina de los Donados",wikidata,,Q16576203,way
@@ -77,7 +78,6 @@ name,source,gender,wikidata,type
 "Avenida Miguel Delibes",,,,way
 "Avenida Miguel Hernández",,,,way
 "Avenida Monasterio de Arlanza",,,,way
-"Avenida Monte Igueldo",,,,way
 "Avenida Montecillo",,,,way
 "Avenida Nuestra Señora de Fátima",,,,way
 "Avenida Nuestra Señora de la Luz",,,,way
@@ -415,7 +415,6 @@ Bus/VAO,,,,way
 "Calle Almenas",,,,way
 "Calle Almendralejo",,,,way
 "Calle Almogía",,,,way
-"Calle Almonacid",,,,way
 "Calle Almuradiel",,,,way
 "Calle Alonso Martos",,,,way
 "Calle Alonso Saavedra",,,,way
@@ -1519,7 +1518,7 @@ Bus/VAO,,,,way
 "Calle Lenceros",,,,way
 "Calle Leñeros",,,,way
 "Calle Leo",,,,way
-"Calle Léon Bonnat",,,,way
+"Calle León Bonnat",,,,way
 "Calle Leonor González",,,,way
 "Calle Leonor López de Córdoba",,,,way
 "Calle Lequeitio",,,,way
@@ -2281,7 +2280,6 @@ Bus/VAO,,,,way
 "Calle Santa Saturnina",,,,way
 "Calle Santa Teresa Jornet",,,,way
 "Calle Santanderina",,,,way
-"Calle Santiago Alio",,,,way
 "Calle Santiago Artigas",,,,way
 "Calle Santiago Bernabéu",,,,way
 "Calle Santiago Cuende",,,,way
@@ -2524,7 +2522,6 @@ Bus/VAO,,,,way
 "Calle Velacho Bajo",,,,way
 "Calle Vélez Blanco",,,,way
 "Calle Vélez-Málaga",,,,way
-"Calle Venancio Martín",,,,way
 "Calle Venta Vieja",,,,way
 "Calle Ventas",,,,way
 "Calle Ventosa",,,,way
@@ -2818,7 +2815,6 @@ Bus/VAO,,,,way
 "Calle de Alonso del Barco",,,,way
 "Calle de Alozaina",,,,way
 "Calle de Alsasua",,,,way
-"Calle de Alsásua",,,,way
 "Calle de Altair",,,,way
 "Calle de Altamira",,,,way
 "Calle de Altamirano",,,,way
@@ -3493,7 +3489,7 @@ Bus/VAO,,,,way
 "Calle de Cristo",,,,way
 "Calle de Cristóbal Aguilera",,,,way
 "Calle de Cristóbal Bordiú",,,,way
-"Calle de Cronos",,,,relation+way
+"Calle de Cronos",,,,way
 "Calle de Cuchilleros",,,,way
 "Calle de Cucuta",,,,way
 "Calle de Cuenca",,,,way
@@ -4431,7 +4427,6 @@ Bus/VAO,,,,way
 "Calle de Lope de Haro",,,,way
 "Calle de Lope de Rueda",,,,way
 "Calle de Lope de Vega",,,,way
-"Calle de López Grass",,,,way
 "Calle de López Mezquía",,,,way
 "Calle de López Puigcerver",,,,way
 "Calle de López Recuero",,,,way
@@ -4673,7 +4668,7 @@ Bus/VAO,,,,way
 "Calle de Mazarambroz",,,,way
 "Calle de Mazarredo",,,,way
 "Calle de Mazaterón",,,,way
-"Calle de Medea",,,,relation
+"Calle de Medea",,,,way
 "Calle de Medellín",,,,way
 "Calle de Medina Sidonia",,,,way
 "Calle de Medina del Campo",,,,way
@@ -5542,6 +5537,7 @@ Bus/VAO,,,,way
 "Calle de Santa Virgilia",,,,way
 "Calle de Santander",,,,way
 "Calle de Santiago",,,,way
+"Calle de Santiago Alío",,,,way
 "Calle de Santiago Amón",,,,way
 "Calle de Santiago Bernabéu",,,,way
 "Calle de Santiago Cordero",,,,way
@@ -6208,7 +6204,6 @@ Bus/VAO,,,,way
 "Calle de la Infanta María Teresa",,,,way
 "Calle de la Infanta Mercedes",,,,way
 "Calle de la Innovación",,,,way
-"Calle de la Institución Libre de Enseñanza",,,,way
 "Calle de la Ínsula Barataria",,,,way
 "Calle de la Isabela",,,,way
 "Calle de la Isla Formosa",,,,way
@@ -6657,7 +6652,6 @@ Bus/VAO,,,,way
 "Calle de los Derechos Humanos",,,,way
 "Calle de los Dibujantes",,,,way
 "Calle de los Diplomáticos",,,,way
-"Calle de los Donados",,,,way
 "Calle de los Dos Amigos",,,,way
 "Calle de los Drogueros",,,,way
 "Calle de los Electricistas",,,,way
@@ -6681,6 +6675,7 @@ Bus/VAO,,,,way
 "Calle de los Herbolarios",,,,way
 "Calle de los Hermanos Álvarez Quintero",,,,way
 "Calle de los Hermanos Bécquer",,,,way
+"Calle de los Hermanos García Noblejas",,,,way
 "Calle de los Hermanos Gascón",,,,way
 "Calle de los Hermanos Gómez",,,,way
 "Calle de los Hermanos Machado",,,,way
@@ -8094,10 +8089,8 @@ Camarena,,,,way
 "Gran Vía de San Francisco",,,,way
 "Gran Vía de Villaverde",,,,way
 "Gran Vía del Sureste",,,,way
-"Huerto del Retiro",,,,way
 "Instalación Deportiva Municipal Básica Circuito de Automodelismo",,,,way
 "Instalación Deportiva Municipal Básica Parque El Calero. Circuito de bicicletas",,,,way
-"Institicion Libre de enseñanza",,,,way
 "Intercambiador Casa de Campo",,,,way
 "Intercambiador de Pavones",,,,way
 "Intercambiador de Plaza de Castilla",,,,way
@@ -8806,7 +8799,7 @@ Moncloa,,,,way
 "Plaza del Navío",,,,way
 "Plaza del Niño Jesús",,,,way
 "Plaza del Oeste",,,,way
-"Plaza del Padre Llanos",,,,way
+"Plaza del Padre Llanos",,,,relation
 "Plaza del Parterre",,,,way
 "Plaza del Pensionista",,,,way
 "Plaza del Perú",,,,way
@@ -9006,7 +8999,7 @@ Sendero,,,,way
 "Travesía de San Mateo",,,,way
 "Travesía de San Telmo",,,,way
 "Travesía de Santa Cristina",,,,way
-"Travesía de Santiago Alio",,,,way
+"Travesía de Santiago Alío",,,,way
 "Travesía de Santiago Cordero",,,,way
 "Travesía de Santoña",,,,way
 "Travesía de Téllez",,,,way
