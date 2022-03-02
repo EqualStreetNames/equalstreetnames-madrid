@@ -47,6 +47,7 @@ name,source,gender,wikidata,type
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
 "Acceso a la Colonia Marconi",,,,way
+"Acceso provisional a estación Renfe",,,,way
 "Acera Bici Serrano",,,,way
 "Aeropuerto T2 Salidas",,,,way
 "Anillo Distribuidor Cuatro Torres",,,,way
@@ -54,6 +55,7 @@ name,source,gender,wikidata,type
 "Antigua Carretera de la Dehesa de la Villa",,,,way
 "Antigua carretera M-301",,,,way
 "Árbol de la Vida",,,,way
+"Arco Verde",,,,way
 "Arco de la Victoria",,,,way
 "Autopista Radial R-2",,,,way
 "Autovía de Colmenar",,,,way
@@ -254,6 +256,7 @@ name,source,gender,wikidata,type
 "Avenida de la Plaza de Toros",,,,way
 "Avenida de la Politécnica",,,,way
 "Avenida de la Princesa Juana de Austria",,,,way
+"Avenida de la VIctoria",,,,way
 "Avenida de la Victoria",,,,way
 "Avenida de la Villa de Vallecas",,,,way
 "Avenida de la Virgen del Carmen",,,,way
@@ -473,6 +476,7 @@ Bus/VAO,,,,way
 "Calle Antonio Aguilar",,,,way
 "Calle Antonio Bienvenida",,,,way
 "Calle Antonio Cavero",,,,way
+"Calle Antonio Durán Tovar",,,,way
 "Calle Antonio Folgueras",,,,way
 "Calle Antonio Gades",,,,way
 "Calle Antonio Gómez Galiana",,,,way
@@ -5580,6 +5584,7 @@ Bus/VAO,,,,way
 "Calle de Sequeros",,,,way
 "Calle de Sequillo",,,,way
 "Calle de Serafín de Asís",,,,way
+"Calle de Serradilla",,,,way
 "Calle de Serrallo",,,,way
 "Calle de Serramagna",,,,way
 "Calle de Serranía de Ronda",,,,way
@@ -5679,6 +5684,7 @@ Bus/VAO,,,,way
 "Calle de Teresa Maroto",,,,way
 "Calle de Teresa Orozco",,,,way
 "Calle de Teresita González Quevedo",,,,way
+"Calle de Terriente",,,,way
 "Calle de Teruel",,,,way
 "Calle de Teseo",,,,way
 "Calle de Tetuán",,,,way
@@ -7883,6 +7889,7 @@ Camarena,,,,way
 "Carril bici Santa Engracia",,,,way
 "Carril bici Vía Carpetana -Cuña Verde",,,,way
 "Carril bici calle O'Donnell",,,,way
+"Cauce Arroyo de la Chopera",,,,way
 "Cauce Arroyo de la Zarza",,,,way
 "Cauce Arroyo del Rey",,,,way
 "Cava de San Miguel",,,,way
@@ -8567,7 +8574,7 @@ Moncloa,,,,way
 "Plaza de Lima",,,,way
 "Plaza de López de la Plata",,,,way
 "Plaza de Los Franciscanos",,,,way
-"Plaza de Luca de Tena",,,,way
+"Plaza de Luca de Tena",,,,relation
 "Plaza de Lucena",,,,way
 "Plaza de Manuel Becerra",,,,way
 "Plaza de Manuel Gómez-Moreno",,,,way
