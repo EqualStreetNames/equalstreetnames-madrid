@@ -6,13 +6,14 @@ name,source,gender,wikidata,type
 "Calle de María Blanchard",wikidata,F,Q443779,way
 "Calle de María de Molina",wikidata,F,Q266025,way
 "Calle de Pastora Imperio",wikidata,F,Q3742020,way
-"Plaza de Isabel II",wikidata,F,Q183085,relation+way
+"Plaza de Isabel II",wikidata,F,Q183085,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
 "Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
 "Avenida de Pablo Iglesias",wikidata,M,Q450299,way
 "Avenida de Pío XII",wikidata,M,Q2604,relation+way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
+"Calle Bretón de los Herreros",wikidata,M,Q3774440,way
 "Calle Pizarro",wikidata,M,Q44741,way
 "Calle de Agustín de Foxá",wikidata,M,Q2827365,way
 "Calle de Alberto Aguilera",wikidata,M,Q3773729,way
@@ -28,6 +29,7 @@ name,source,gender,wikidata,type
 "Calle de Diego de León",wikidata,M,Q3027464,way
 "Calle de Eduardo Benot",wikidata,M,Q1290837,way
 "Calle de Enrique Larreta",wikidata,M,Q3054691,way
+"Calle de Espronceda",wikidata,M,Q209077,way
 "Calle de Esteban Terradas",wikidata,M,Q4894155,way
 "Calle de Fernández Silvestre",wikidata,M,Q3180734,way
 "Calle de Francisco Silvela",wikidata,M,Q1236383,relation+way
