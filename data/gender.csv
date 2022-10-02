@@ -19,6 +19,7 @@ name,source,gender,wikidata,type
 "Calle de Alberto Aguilera",wikidata,M,Q3773729,way
 "Calle de Alcalá",wikidata,M,Q297,way
 "Calle de Alfonso X",wikidata,M,Q47595,way
+"Calle de Alfredo Di Stéfano",wikidata,M,Q164546,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
 "Calle de Arrieta",wikidata,M,Q953785,way
 "Calle de Bravo Murillo",wikidata,M,Q200476,way
@@ -45,6 +46,7 @@ name,source,gender,wikidata,type
 "Calle de Méndez Núñez",wikidata,M,Q3394337,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
 "Calle de Pablo Luna",wikidata,M,Q2336713,way
+"Calle de Raimundo Fernández Villaverde",wikidata,M,Q959509,relation+way
 "Calle de Rodríguez Jaén",wikidata,M,Q11705060,way
 "Calle de Sagasta",wikidata,M,Q379779,way
 "Calle de Velázquez",wikidata,M,Q297,way
