@@ -1188,7 +1188,6 @@ Bus/VAO,,,,way
 "Calle Fuente de Lima",,,,way
 "Calle Fuente de Piedra",,,,way
 "Calle Fuente de San Juan",,,,way
-"Calle Fuente de Tiro",,,,way
 "Calle Fuente de la Capona",,,,way
 "Calle Fuente de la Cuesta",,,,way
 "Calle Fuente del Berro",,,,way
@@ -8454,7 +8453,6 @@ Moncloa,,,,way
 "Plaza Valsaín",,,,way
 "Plaza Valvanera",,,,way
 "Plaza Verano",,,,way
-"Plaza Vicus Alvar",,,,way
 "Plaza Villalcázar de Sirga",,,,way
 "Plaza Virgen de la Capilla",,,,way
 "Plaza Virgen de la Paloma",,,,way
@@ -8518,7 +8516,7 @@ Moncloa,,,,way
 "Plaza de Don Antonio de Andrés",,,,way
 "Plaza de Donoso",,,,way
 "Plaza de Eisenhower",,,,way
-"Plaza de El Pardo",,,,relation
+"Plaza de El Pardo",,,,way
 "Plaza de El Paular",,,,way
 "Plaza de El Salvador",,,,way
 "Plaza de Elciego",,,,way
