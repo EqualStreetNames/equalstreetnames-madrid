@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Avenida de la Reina Victoria",wikidata,F,Q160001,way
 "Calle Marie Curie",wikidata,F,Q7186,way
 "Calle de Concepción Arenal",wikidata,F,Q671852,way
+"Calle de Gabriela Mistral",wikidata,F,Q80871,way
 "Calle de María Blanchard",wikidata,F,Q443779,way
 "Calle de María de Molina",wikidata,F,Q266025,way
 "Calle de Pastora Imperio",wikidata,F,Q3742020,way
@@ -13,11 +14,16 @@ name,source,gender,wikidata,type
 "Avenida de Pablo Iglesias",wikidata,M,Q450299,way
 "Avenida de Pío XII",wikidata,M,Q2604,relation+way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
+"Avenida del Comandante Franco",wikidata,M,Q29179,way
 "Calle Bretón de los Herreros",wikidata,M,Q3774440,way
+"Calle Enrique de Aldama",wikidata,M,Q11919404,way
+"Calle José Lázaro Galdiano",wikidata,M,Q4888662,way
+"Calle Miguel Fisac",wikidata,M,Q3314962,way
 "Calle Pizarro",wikidata,M,Q44741,way
+"Calle San Martín de Porres",wikidata,M,Q313293,way
 "Calle de Agustín de Foxá",wikidata,M,Q2827365,way
 "Calle de Alberto Aguilera",wikidata,M,Q3773729,way
-"Calle de Alcalá",wikidata,M,Q297,way
+"Calle de Alberto Insúa",wikidata,M,Q1311305,way
 "Calle de Alfonso X",wikidata,M,Q47595,way
 "Calle de Alfredo Di Stéfano",wikidata,M,Q164546,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
@@ -34,25 +40,33 @@ name,source,gender,wikidata,type
 "Calle de Esteban Terradas",wikidata,M,Q4894155,way
 "Calle de Fernández Silvestre",wikidata,M,Q3180734,way
 "Calle de Francisco Silvela",wikidata,M,Q1236383,relation+way
+"Calle de Francisco de Goya",wikidata,M,Q5432,way
+"Calle de Fray Bernardino Sahagún",wikidata,M,Q379972,way
 "Calle de Goya",wikidata,M,Q5432,way
+"Calle de Henri Dunant",wikidata,M,Q12091,way
 "Calle de Isaac Peral",wikidata,M,Q545065,way
 "Calle de José Abascal",wikidata,M,Q9013476,way
 "Calle de José Vasconcelos",wikidata,M,Q1091141,way
 "Calle de Juan Bravo",wikidata,M,Q2742152,way
 "Calle de León Felipe",wikidata,M,Q2076131,way
 "Calle de Magallanes",wikidata,M,Q1496,way
+"Calle de Manuel Garrido",wikidata,M,Q5993110,way
+"Calle de Manuel Montilla",wikidata,M,Q100233965,way
 "Calle de Mateo Inurria",wikidata,M,Q9030461,way
 "Calle de Mauricio Legendre",wikidata,M,Q9030662,way
 "Calle de Méndez Núñez",wikidata,M,Q3394337,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
+"Calle de Pablo Gargallo",wikidata,M,Q456991,way
 "Calle de Pablo Luna",wikidata,M,Q2336713,way
 "Calle de Raimundo Fernández Villaverde",wikidata,M,Q959509,relation+way
 "Calle de Rodríguez Jaén",wikidata,M,Q11705060,way
+"Calle de Romero Girón",wikidata,M,Q6161322,way
 "Calle de Sagasta",wikidata,M,Q379779,way
 "Calle de Velázquez",wikidata,M,Q297,way
 "Calle del Cardenal Cisneros",wikidata,M,Q342392,way
 "Calle del Cardenal Marcelo Spínola",wikidata,M,Q710764,way
 "Calle del Cid",wikidata,M,Q43958,way
+"Calle del Doctor Juan José López Ibor",wikidata,M,Q9015676,way
 "Calle del Maestro Villa",wikidata,M,Q3814672,way
 "Calle del Padre Francisco Palau y Quer",wikidata,M,Q921193,way
 "Paseo de Carlos III",wikidata,M,Q36234,way

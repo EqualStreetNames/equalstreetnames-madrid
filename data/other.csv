@@ -29,6 +29,7 @@ name,source,gender,wikidata,type
 "Calle de Betancunia",wikidata,,Q830969,way
 "Calle de Cádiz",wikidata,,Q15682,way
 "Calle de Cazorla",wikidata,,Q518339,way
+"Calle de Honduras",wikidata,,Q783,way
 "Calle de Lepanto",wikidata,,Q165425,way
 "Calle de Madrid",wikidata,,Q2807,way
 "Calle de Montevideo",wikidata,,Q1335,way
@@ -36,7 +37,9 @@ name,source,gender,wikidata,type
 "Calle de Tíscar",wikidata,,Q6154577,way
 "Calle de Torreperogil",wikidata,,Q1642300,way
 "Calle de Vergara",wikidata,,Q2996259,way
+"Calle de la Madre de Dios",wikidata,,Q849693,way
 "Calle de la Victoria",wikidata,,Q5785667,way
+"Calle de las Islas de Cabo Verde",wikidata,,Q1011,way
 "Calle de los Donados",wikidata,,Q16576203,way
 "Calle del Río Ebro",wikidata,,Q10965,way
 "Plaza de Callao",wikidata,,Q2394918,relation+way
@@ -288,7 +291,6 @@ name,source,gender,wikidata,type
 "Avenida del Cardenal Herrera Oria",,,,way
 "Avenida del Cerro Milano",,,,way
 "Avenida del Cerro de los Ángeles",,,,way
-"Avenida del Comandante Franco",,,,way
 "Avenida del Consejo de Europa",,,,way
 "Avenida del Doctor Arce",,,,way
 "Avenida del Doctor Federico Rubio y Galí",,,,way
@@ -1061,7 +1063,6 @@ Bus/VAO,,,,way
 "Calle Enrique Lafuente Ferrari",,,,way
 "Calle Enrique Martínez",,,,way
 "Calle Enrique Moyano",,,,way
-"Calle Enrique de Aldama",,,,way
 "Calle Entre Arroyos",,,,way
 "Calle Epifanía",,,,way
 "Calle Eras",,,,way
@@ -1425,7 +1426,6 @@ Bus/VAO,,,,way
 "Calle José García Granda",,,,way
 "Calle José Inzenga",,,,way
 "Calle José Jordán",,,,way
-"Calle José Lázaro Galdiano",,,,way
 "Calle José María Cavero",,,,way
 "Calle José María Galván",,,,way
 "Calle José María Morelos",,,,way
@@ -1728,7 +1728,6 @@ Bus/VAO,,,,way
 "Calle Mieres",,,,way
 "Calle Miguel Aracil",,,,way
 "Calle Miguel Arredondo",,,,way
-"Calle Miguel Fisac",,,,way
 "Calle Miguel Hidalgo",,,,way
 "Calle Miguel San Narciso",,,,way
 "Calle Miguel Sarrión",,,,way
@@ -2082,6 +2081,7 @@ Bus/VAO,,,,way
 "Calle Quintanapalla",,,,way
 "Calle Quintanavides",,,,way
 "Calle Quinto",,,,way
+"Calle Rafael Bergamín",,,,way
 "Calle Rafael Finat",,,,way
 "Calle Rafael Herrero",,,,way
 "Calle Rafael Marcote",,,,way
@@ -2234,7 +2234,6 @@ Bus/VAO,,,,way
 "Calle San Macario",,,,way
 "Calle San Mamés",,,,way
 "Calle San Mansueto",,,,way
-"Calle San Martín de Porres",,,,way
 "Calle San Miguel",,,,way
 "Calle San Nazario",,,,way
 "Calle San Paciano",,,,way
@@ -2716,7 +2715,6 @@ Bus/VAO,,,,way
 "Calle de Alberdi",,,,way
 "Calle de Alberique",,,,way
 "Calle de Albert Camus",,,,way
-"Calle de Alberto Insúa",,,,way
 "Calle de Alberto León Peralta",,,,way
 "Calle de Alberto Palacios",,,,way
 "Calle de Alberto Sánchez",,,,way
@@ -2726,6 +2724,7 @@ Bus/VAO,,,,way
 "Calle de Albuñuelas",,,,way
 "Calle de Alburquerque",,,,way
 "Calle de Alcácer Tejares",,,,way
+"Calle de Alcalá",,,,way
 "Calle de Alcalá Galiano",,,,way
 "Calle de Alcalde Conde de Mirasol",,,,way
 "Calle de Alcañiz",,,,way
@@ -3848,7 +3847,6 @@ Bus/VAO,,,,way
 "Calle de Francisco Vivancos",,,,way
 "Calle de Francisco Zea",,,,way
 "Calle de Francisco de Asís Méndez Casariego",,,,way
-"Calle de Francisco de Goya",,,,way
 "Calle de Francisco de Guzmán",,,,way
 "Calle de Francisco de Icaza",,,,way
 "Calle de Francisco de Rojas",,,,way
@@ -3857,7 +3855,6 @@ Bus/VAO,,,,way
 "Calle de Francisco y Jacinto Alcántara",,,,way
 "Calle de Francos Rodríguez",,,,way
 "Calle de Frascuelo",,,,way
-"Calle de Fray Bernardino Sahagún",,,,way
 "Calle de Fray José Cerdeiriña",,,,way
 "Calle de Fray Junípero Serra",,,,way
 "Calle de Fresnedillas",,,,way
@@ -3899,7 +3896,6 @@ Bus/VAO,,,,way
 "Calle de Gabriel Ruiz",,,,way
 "Calle de Gabriel Usera",,,,way
 "Calle de Gabriel y Galán",,,,way
-"Calle de Gabriela Mistral",,,,way
 "Calle de Gainza",,,,way
 "Calle de Galapa",,,,way
 "Calle de Galatea",,,,way
@@ -4017,7 +4013,6 @@ Bus/VAO,,,,way
 "Calle de Hartzenbusch",,,,way
 "Calle de Heliófilo",,,,way
 "Calle de Helsinki",,,,way
-"Calle de Henri Dunant",,,,way
 "Calle de Herce",,,,way
 "Calle de Hermanos García Noblejas",,,,way
 "Calle de Herminio Puertas",,,,way
@@ -4043,7 +4038,6 @@ Bus/VAO,,,,way
 "Calle de Hobbes",,,,way
 "Calle de Hoces de la Hermida",,,,way
 "Calle de Homero",,,,way
-"Calle de Honduras",,,,way
 "Calle de Honrubia",,,,way
 "Calle de Hontanares",,,,way
 "Calle de Hontanás",,,,way
@@ -4526,7 +4520,6 @@ Bus/VAO,,,,way
 "Calle de Manuel Fernández y González",,,,way
 "Calle de Manuel Ferrero",,,,way
 "Calle de Manuel Galindo",,,,way
-"Calle de Manuel Garrido",,,,way
 "Calle de Manuel González Longoria",,,,way
 "Calle de Manuel Gutiérrez Mellado",,,,way
 "Calle de Manuel Laborda",,,,way
@@ -4537,7 +4530,6 @@ Bus/VAO,,,,way
 "Calle de Manuel María Arrillaga",,,,way
 "Calle de Manuel Maroto",,,,way
 "Calle de Manuel Montero Vallejo",,,,way
-"Calle de Manuel Montilla",,,,way
 "Calle de Manuel Muíño Arroyo",,,,way
 "Calle de Manuel Muñoz",,,,way
 "Calle de Manuel Noya",,,,way
@@ -4915,7 +4907,6 @@ Bus/VAO,,,,way
 "Calle de Oviedo",,,,way
 "Calle de Pablo Aranda",,,,way
 "Calle de Pablo Casals",,,,way
-"Calle de Pablo Gargallo",,,,way
 "Calle de Pablo Jiménez Cano",,,,way
 "Calle de Pablo Lafargue",,,,way
 "Calle de Pablo Neruda",,,,way
@@ -5214,7 +5205,6 @@ Bus/VAO,,,,way
 "Calle de Roma",,,,way
 "Calle de Román Alonso",,,,way
 "Calle de Romeo y Julieta",,,,way
-"Calle de Romero Girón",,,,way
 "Calle de Romero Robledo",,,,way
 "Calle de Roncesvalles",,,,way
 "Calle de Roquetas de Mar",,,,way
@@ -6256,7 +6246,6 @@ Bus/VAO,,,,way
 "Calle de la Madre Carmen del Niño Jesús",,,,way
 "Calle de la Madre Celeste",,,,way
 "Calle de la Madre Nazaria",,,,way
-"Calle de la Madre de Dios",,,,way
 "Calle de la Maestra Felisa Lozano",,,,way
 "Calle de la Maestra Justa Freire",,,,way
 "Calle de la Magdalena",,,,way
@@ -6557,7 +6546,6 @@ Bus/VAO,,,,way
 "Calle de las Islas Palaos",,,,way
 "Calle de las Islas Samoa",,,,way
 "Calle de las Islas Vírgenes",,,,way
-"Calle de las Islas de Cabo Verde",,,,way
 "Calle de las Lagunas de Neila",,,,way
 "Calle de las Lenguas",,,,way
 "Calle de las Lilas",,,,way
@@ -7080,7 +7068,6 @@ Bus/VAO,,,,way
 "Calle del Doctor Huertas",,,,way
 "Calle del Doctor Iglesias Fernández",,,,way
 "Calle del Doctor Jerónimo Iborra",,,,way
-"Calle del Doctor Juan José López Ibor",,,,way
 "Calle del Doctor Juan Pedro Moreno González",,,,way
 "Calle del Doctor Laguna",,,,way
 "Calle del Doctor Lozano",,,,way
@@ -7112,7 +7099,6 @@ Bus/VAO,,,,way
 "Calle del Duque de Fernán Núñez",,,,way
 "Calle del Duque de Liria",,,,way
 "Calle del Duque de Medinaceli",,,,way
-"Calle del Duque de Medinacelli",,,,way
 "Calle del Duque de Nájera",,,,way
 "Calle del Duque de Osuna",,,,way
 "Calle del Duque de Rivas",,,,way
@@ -7645,6 +7631,7 @@ Bus/VAO,,,,way
 "Calle del Toro",,,,way
 "Calle del Torpedero Tucumán",,,,way
 "Calle del Tranvía Blanco",,,,way
+"Calle del Tranvía a las Canteras de Monte Viejo",,,,way
 "Calle del Tranvía de Arganda",,,,way
 "Calle del Trébol",,,,way
 "Calle del Tremis",,,,way
@@ -8123,6 +8110,7 @@ Moncloa,,,,way
 "Pablo Ortiz",,,,way
 "Parque Avenida de los Poblados",,,,way
 "Parque Daniel Zuazo",,,,way
+"Parque Eugenia del Montijo",,,,way
 "Parque Pajaritos-Suárez",,,,way
 "Parque Santa Rita",,,,way
 "Parque Vista Alegre",,,,way
