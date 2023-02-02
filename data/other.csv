@@ -224,6 +224,7 @@ name,source,gender,wikidata,type
 "Avenida de Sotopalacios",,,,way
 "Avenida de Trajano",,,,way
 "Avenida de Trueba",,,,way
+"Avenida de Valdeculebras",,,,way
 "Avenida de Valdelatas",,,,way
 "Avenida de Valdemarín",,,,way
 "Avenida de Viñuelas",,,,way
@@ -607,7 +608,6 @@ Bus/VAO,,,,way
 "Calle Batalla de Tesalia",,,,way
 "Calle Batalla de las Termópilas",,,,way
 "Calle Batalla del Salado",,,,way
-"Calle Batallón",,,,way
 "Calle Bausa",,,,way
 "Calle Bayunca",,,,way
 "Calle Beatriz de Bobadilla",,,,way
@@ -4065,7 +4065,6 @@ Bus/VAO,,,,way
 "Calle de Ildefonso González Valencia",,,,way
 "Calle de Illescas",,,,way
 "Calle de Illora",,,,way
-"Calle de Ilustración",,,,way
 "Calle de Imperio Argentina",,,,way
 "Calle de Indalecio Fernández",,,,way
 "Calle de Independencia",,,,way
@@ -6191,6 +6190,7 @@ Bus/VAO,,,,way
 "Calle de la Iglesia",,,,way
 "Calle de la Igualdad",,,,way
 "Calle de la Ilíada",,,,way
+"Calle de la Ilustración",,,,way
 "Calle de la Indulgencia",,,,way
 "Calle de la Industria",,,,way
 "Calle de la Infanta María Teresa",,,,way
@@ -7997,6 +7997,7 @@ Camarena,,,,way
 "Glorieta de López de Hoyos",,,,way
 "Glorieta de Los Cármenes",,,,way
 "Glorieta de Lozares",,,,way
+"Glorieta de Lucrecia Pérez Matos",,,,way
 "Glorieta de Luis Blanco Soler",,,,way
 "Glorieta de Luis Cubillo",,,,way
 "Glorieta de Luis García Berlanga",,,,way
@@ -8085,6 +8086,7 @@ Camarena,,,,way
 "Intercambiador de Plaza de Castilla",,,,way
 "Isidro Fernández",,,,way
 "Jaraíz de la Vera",,,,way
+"Jardín Espíritu de Ermua",,,,way
 "Jardín Privado Isla de Chamartín",,,,way
 "Jardín de Portugalete",,,,way
 "Jardín de San Miguel",,,,way
@@ -8176,7 +8178,6 @@ Moncloa,,,,way
 "Pasaje de Maestros Ladrilleros",,,,way
 "Pasaje de Mangirón",,,,way
 "Pasaje de Matheu",,,,way
-"Pasaje de Modesto Martínez",,,,way
 "Pasaje de Moraleja de Enmedio",,,,way
 "Pasaje de Navalcarnero",,,,way
 "Pasaje de Orusco",,,,way
@@ -8187,6 +8188,7 @@ Moncloa,,,,way
 "Pasaje de Santa Felicidad",,,,way
 "Pasaje de Tielmes",,,,way
 "Pasaje de Tierruca",,,,way
+"Pasaje de Tony Leblanc",,,,way
 "Pasaje de Tortosa",,,,way
 "Pasaje de Valdemaqueda",,,,way
 "Pasaje de Valdilecha",,,,way
@@ -8538,6 +8540,7 @@ Moncloa,,,,way
 "Plaza de José María Soler",,,,way
 "Plaza de José de Villareal",,,,way
 "Plaza de Josemaría Escrivá de Balaguer",,,,way
+"Plaza de Juan Benet",,,,way
 "Plaza de Juan Carlos Argüello Muelle",,,,way
 "Plaza de Juan Zorrilla",,,,way
 "Plaza de Juan de Malasaña",,,,way
