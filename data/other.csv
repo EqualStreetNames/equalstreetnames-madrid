@@ -34,6 +34,8 @@ name,source,gender,wikidata,type
 "Calle de Madrid",wikidata,,Q2807,way
 "Calle de Montevideo",wikidata,,Q1335,way
 "Calle de Pavía",wikidata,,Q63468,way
+"Calle de Saavedra Fajardo",wikidata,,Q2807,way
+"Calle de Segovia",wikidata,,Q2807,way
 "Calle de Tíscar",wikidata,,Q6154577,way
 "Calle de Torreperogil",wikidata,,Q1642300,way
 "Calle de Vergara",wikidata,,Q2996259,way
@@ -42,11 +44,14 @@ name,source,gender,wikidata,type
 "Calle de las Islas de Cabo Verde",wikidata,,Q1011,way
 "Calle de los Donados",wikidata,,Q16576203,way
 "Calle del Río Ebro",wikidata,,Q10965,way
+"Glorieta del Puente de Segovia",wikidata,,Q2807,way
 "Plaza de Callao",wikidata,,Q2394918,relation+way
 "Plaza de Santa Catalina de los Donados",wikidata,,Q16576203,way
 "Plaza de la República Argentina",wikidata,,Q414,way
 "Plaza de los Carros",wikidata,,Q234668,relation+way
 "Plaza del Dos de Mayo",wikidata,,Q181146,way
+"Puente de Segovia",wikidata,,Q2807,way
+"Ronda de Segovia",wikidata,,Q2807,way
 "Acceso Anillo Distribuidor Cuatro Torres",,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
@@ -326,6 +331,7 @@ name,source,gender,wikidata,type
 "Avenida del Valle",,,,way
 "Avenida del Ventisquero de la Condesa",,,,way
 "Avenida del padre Huidobro",,,,way
+"Bajos de Argüelles",,,,way
 Bucarest,,,,way
 "Bulevar Indalecio Prieto",,,,way
 "Bulevar Norte",,,,way
@@ -5233,7 +5239,6 @@ Bus/VAO,,,,way
 "Calle de Ruy González de Clavijo",,,,way
 "Calle de Ruzafa",,,,way
 "Calle de S'Agaró",,,,way
-"Calle de Saavedra Fajardo",,,,way
 "Calle de Sabadell",,,,way
 "Calle de Sabino Fernández Campos",,,,way
 "Calle de Sabrina",,,,way
@@ -5333,6 +5338,7 @@ Bus/VAO,,,,way
 "Calle de San Filemón",,,,way
 "Calle de San Florencio",,,,way
 "Calle de San Fortunato",,,,way
+"Calle de San Francisco el Grande",,,,way
 "Calle de San Fulgencio",,,,way
 "Calle de San Gabriel",,,,way
 "Calle de San Galo",,,,way
@@ -5553,7 +5559,6 @@ Bus/VAO,,,,way
 "Calle de Sebastián Elcano",,,,way
 "Calle de Sebastián Francisco",,,,way
 "Calle de Sebastián Herrera",,,,way
-"Calle de Segovia",,,,way
 "Calle de Segundo Anca",,,,way
 "Calle de Selaya",,,,way
 "Calle de Selma Lagerloff",,,,way
@@ -7928,6 +7933,7 @@ Camarena,,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
 "Explanada Multiusos Madrid Río",,,,way
+"Explanada de El Pardo",,,,way
 "Federico García Sanchiz",,,,way
 "Fuente de la Mora",,,,way
 "GR-124 Senda Real",,,,way
@@ -8067,7 +8073,6 @@ Camarena,,,,way
 "Glorieta del Monte del Gozo",,,,way
 "Glorieta del Pintor Sorolla",,,,way
 "Glorieta del Presidente García Moreno",,,,way
-"Glorieta del Puente de Segovia",,,,way
 "Glorieta del Rio Urubamba",,,,way
 "Glorieta del Río Záncara",,,,way
 "Glorieta del Santuario de Tíscar",,,,way
@@ -8218,6 +8223,7 @@ Moncloa,,,,way
 "Pasarela Sur Puente de la Princesa",,,,way
 "Pasarela de Almuñécar",,,,way
 "Pasarela de La Bombilla",,,,way
+"Pasarela de Mingorrubio",,,,way
 "Pasarela de la Quinta de la Paloma",,,,way
 "Paseo Alabarderos",,,,way
 "Paseo Alto de Casimiro Gómez Ortega",,,,way
@@ -8853,7 +8859,6 @@ Moncloa,,,,way
 "Puente de Las Siete Rejas",,,,way
 "Puente de Praga",,,,way
 "Puente de San Isidro",,,,way
-"Puente de Segovia",,,,way
 "Puente de Segovia Norte",,,,way
 "Puente de Segovia Sur",,,,way
 "Puente de Toledo",,,,way
@@ -8881,7 +8886,6 @@ Moncloa,,,,way
 "Ronda de Don Bosco",,,,way
 "Ronda de La Libertad",,,,way
 "Ronda de Manuel Granero",,,,way
-"Ronda de Segovia",,,,way
 "Ronda de Sobradiel",,,,way
 "Ronda de Toledo",,,,way
 "Ronda de Valencia",,,,way
