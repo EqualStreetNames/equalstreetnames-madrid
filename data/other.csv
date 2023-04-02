@@ -419,7 +419,6 @@ Bus/VAO,,,,way
 "Calle Alemania",,,,way
 "Calle Alfarnate",,,,way
 "Calle Alférez Juan Usera",,,,way
-"Calle Alfonso Carbonell",,,,way
 "Calle Alfonso Fernández",,,,way
 "Calle Alfonso Fernández Clausells",,,,way
 "Calle Alfonso Martínez Conde",,,,way
@@ -442,6 +441,7 @@ Bus/VAO,,,,way
 "Calle Almendralejo",,,,way
 "Calle Almogía",,,,way
 "Calle Almuradiel",,,,way
+"Calle Alonso Carbonell",,,,way
 "Calle Alonso Martos",,,,way
 "Calle Alonso Saavedra",,,,way
 "Calle Alonso de Contreras",,,,way
@@ -518,7 +518,6 @@ Bus/VAO,,,,way
 "Calle Arcángel San Rafael",,,,way
 "Calle Archanda",,,,way
 "Calle Arciniega",,,,way
-"Calle Arenal",,,,way
 "Calle Arenal de Maudes",,,,way
 "Calle Arenas de Iguña",,,,way
 "Calle Arenas del Rey",,,,way
@@ -1034,7 +1033,7 @@ Bus/VAO,,,,way
 "Calle Edison",,,,way
 "Calle Eduardo Maristany",,,,way
 "Calle Eduardo Palacios",,,,way
-"Calle Eduardo Requena",,,,way
+"Calle Eduardo Requenas",,,,way
 "Calle Eduardo Rojo",,,,way
 "Calle Eduardo Vicente",,,,way
 "Calle Egipto",,,,way
@@ -1075,7 +1074,6 @@ Bus/VAO,,,,way
 "Calle Erasmo de Rotterdam",,,,way
 "Calle Ercilla",,,,way
 "Calle Erial de la Abuela",,,,way
-"Calle Erica",,,,way
 "Calle Ervigio",,,,way
 "Calle Escalonilla",,,,way
 "Calle Escorpión",,,,way
@@ -2166,7 +2164,6 @@ Bus/VAO,,,,way
 "Calle Robledillo",,,,way
 "Calle Robles",,,,way
 "Calle Robregordo",,,,way
-"Calle Rocafort",,,,way
 "Calle Roda de Bara",,,,way
 "Calle Rodas",,,,way
 "Calle Rodoendro",,,,way
@@ -6822,6 +6819,7 @@ Bus/VAO,,,,way
 "Calle del Arcipreste de Hita",,,,way
 "Calle del Arco del Triunfo",,,,way
 "Calle del Ardite",,,,way
+"Calle del Arenal",,,,way
 "Calle del Arga",,,,way
 "Calle del Arlanza",,,,way
 "Calle del Arquitecto Gaudí",,,,way
@@ -8122,11 +8120,13 @@ Moncloa,,,,way
 "Parque Pajaritos-Suárez",,,,way
 "Parque Santa Rita",,,,way
 "Parque Vista Alegre",,,,way
+"Parque de Buenavista",,,,way
+"Parque de Pan Bendito",,,,way
 "Pasadizo de San Ginés",,,,way
 "Pasadizo del Obispo",,,,way
 "Pasadizo del Panecillo",,,,way
 "Pasaje Alberche",,,,way
-"Pasaje Alfonso Carbonell",,,,way
+"Pasaje Alonso Carbonell",,,,way
 "Pasaje Can Mayor",,,,way
 "Pasaje Can Menor",,,,way
 "Pasaje Canal de Suez",,,,way
