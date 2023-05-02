@@ -1,88 +1,281 @@
 name,source,gender,wikidata,type
 "Avenida de Concha Espina",wikidata,F,Q3751269,way
 "Avenida de la Reina Victoria",wikidata,F,Q160001,way
+"Calle Isabel Tintero",wikidata,F,Q43673839,way
 "Calle Marie Curie",wikidata,F,Q7186,way
+"Calle de Agustina de Aragón",wikidata,F,Q718272,way
+"Calle de Beatriz Galindo",wikidata,F,Q1708316,way
 "Calle de Concepción Arenal",wikidata,F,Q671852,way
 "Calle de Gabriela Mistral",wikidata,F,Q80871,way
+"Calle de Isabel La Católica",wikidata,F,Q45859,way
+"Calle de Juana Doña",wikidata,F,Q2876086,way
+"Calle de Loreto Prado y Enrique Chicote",wikidata,F,Q5979168,way
 "Calle de María Blanchard",wikidata,F,Q443779,way
 "Calle de María de Molina",wikidata,F,Q266025,way
 "Calle de Pastora Imperio",wikidata,F,Q3742020,way
-"Plaza de Isabel II",wikidata,F,Q183085,way
+"Calle de Santa Casilda",wikidata,F,Q1236283,way
+"Calle de Santa Engracia",wikidata,F,Q18246552,way
+"Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
+"Paseo de la Reina Cristina",wikidata,F,Q538125,way
+"Plaza Santa Bárbara",wikidata,F,Q192816,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
+"Plaza de Raffaella Carrà",wikidata,F,Q266640,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
+"Plazuela de Ana Diosdado",wikidata,F,Q5673728,way
 "Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
+"Avenida de Felipe II",wikidata,M,Q34417,way
+"Avenida de Menéndez Pelayo",wikidata,M,Q716799,way
 "Avenida de Pablo Iglesias",wikidata,M,Q450299,way
 "Avenida de Pío XII",wikidata,M,Q2604,relation+way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
 "Avenida del Comandante Franco",wikidata,M,Q29179,way
+"Bulevar de Indalecio Prieto",wikidata,M,Q433615,way
+"Calle Agustín Querol",wikidata,M,Q4694649,way
+"Calle Alejandro Ferrant",wikidata,M,Q2595467,way
+"Calle Andrés de Urdaneta",wikidata,M,Q316780,way
+"Calle Bolívar",wikidata,M,Q8605,way
 "Calle Bretón de los Herreros",wikidata,M,Q3774440,way
+"Calle Casado del Alisal",wikidata,M,Q1403817,way
+"Calle Divino Vallés",wikidata,M,Q5484026,way
+"Calle El Bosco",wikidata,M,Q130531,way
 "Calle Enrique de Aldama",wikidata,M,Q11919404,way
+"Calle Ercilla",wikidata,M,Q357620,way
+"Calle Espalter",wikidata,M,Q4892844,way
+"Calle Fernán González",wikidata,M,Q443034,way
+"Calle Fray Ceferino González",wikidata,M,Q2712900,way
+"Calle Fray Luis de León",wikidata,M,Q450246,way
+"Calle General Álvarez de Castro",wikidata,M,Q2698525,way
+"Calle Gonzalo Jiménez de Quesada",wikidata,M,Q347688,way
 "Calle José Lázaro Galdiano",wikidata,M,Q4888662,way
+"Calle José María Roquero",wikidata,M,Q110733832,way
+"Calle José Miguel Gordoa",wikidata,M,Q5943958,way
+"Calle Juan Valera",wikidata,M,Q463630,way
+"Calle Juan de Mena",wikidata,M,Q388140,way
+"Calle Lope de Rueda",wikidata,M,Q52206,way
+"Calle Luis Paret",wikidata,M,Q283412,way
 "Calle Miguel Fisac",wikidata,M,Q3314962,way
 "Calle Pizarro",wikidata,M,Q44741,way
+"Calle Profesor Martín Almagro Basch",wikidata,M,Q3571486,way
+"Calle Ruiz de Alarcón",wikidata,M,Q356532,way
 "Calle San Martín de Porres",wikidata,M,Q313293,way
+"Calle Tomás Borrás",wikidata,M,Q9088237,way
+"Calle Watteau",wikidata,M,Q183221,way
+"Calle de Abdón Terradas",wikidata,M,Q3753351,way
 "Calle de Agustín de Foxá",wikidata,M,Q2827365,way
 "Calle de Alberto Aguilera",wikidata,M,Q3773729,way
 "Calle de Alberto Insúa",wikidata,M,Q1311305,way
+"Calle de Alcalá Galiano",wikidata,M,Q1626617,way
+"Calle de Alejandro Saint Aubin",wikidata,M,Q11679755,way
 "Calle de Alfonso X",wikidata,M,Q47595,way
+"Calle de Alfonso XI",wikidata,M,Q298808,way
+"Calle de Alfonso XII",wikidata,M,Q32347,way
 "Calle de Alfredo Di Stéfano",wikidata,M,Q164546,way
+"Calle de Alonso Cano",wikidata,M,Q378783,way
+"Calle de Amadeo I",wikidata,M,Q32432,way
+"Calle de Andrés Borrego",wikidata,M,Q5675607,way
+"Calle de Andrés Mellado",wikidata,M,Q5675946,way
+"Calle de Andrés Torrejón",wikidata,M,Q5695435,way
+"Calle de Andrés de Urdaneta",wikidata,M,Q316780,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
+"Calle de Antonio Nebrija",wikidata,M,Q380804,way
 "Calle de Arrieta",wikidata,M,Q953785,way
+"Calle de Augusto Figueroa",wikidata,M,Q16489206,way
+"Calle de Ayala",wikidata,M,Q354137,way
+"Calle de Baltasar Gracián",wikidata,M,Q360512,way
+"Calle de Blasco de Garay",wikidata,M,Q881771,way
 "Calle de Bravo Murillo",wikidata,M,Q200476,way
+"Calle de Carlos Arniches",wikidata,M,Q1042706,way
 "Calle de Carlos III",wikidata,M,Q36234,way
+"Calle de Carlos Maurrás",wikidata,M,Q3048,way
+"Calle de Castelló",wikidata,M,Q6068454,way
 "Calle de Cea Bermúdez",wikidata,M,Q963367,way
+"Calle de Claudio Coello",wikidata,M,Q332466,way
+"Calle de Colón",wikidata,M,Q7322,way
 "Calle de Columela",wikidata,M,Q318317,way
 "Calle de Daniel Vázquez Díaz",wikidata,M,Q963123,way
 "Calle de Diego de León",wikidata,M,Q3027464,way
+"Calle de Don Ramón de la Cruz",wikidata,M,Q920042,way
+"Calle de Donoso Cortés",wikidata,M,Q723141,way
 "Calle de Eduardo Benot",wikidata,M,Q1290837,way
+"Calle de Eloy Gonzalo",wikidata,M,Q1245933,way
+"Calle de Emilio Carrere",wikidata,M,Q266059,way
 "Calle de Enrique Larreta",wikidata,M,Q3054691,way
+"Calle de Ercilla",wikidata,M,Q357620,way
 "Calle de Espronceda",wikidata,M,Q209077,way
+"Calle de Estanislao Figueras",wikidata,M,Q553120,way
 "Calle de Esteban Terradas",wikidata,M,Q4894155,way
+"Calle de Eugenio Sellés",wikidata,M,Q5850584,way
+"Calle de Evaristo San Miguel",wikidata,M,Q3816067,way
+"Calle de Feijoo",wikidata,M,Q379753,way
+"Calle de Felipe III",wikidata,M,Q34464,way
+"Calle de Felipe IV",wikidata,M,Q691402,way
+"Calle de Felipe V",wikidata,M,Q170467,way
 "Calle de Fernández Silvestre",wikidata,M,Q3180734,way
+"Calle de Fernández de los Ríos",wikidata,M,Q6173153,way
+"Calle de Fernando El Santo",wikidata,M,Q243122,way
+"Calle de Fernando Poo",wikidata,M,Q649556,way
+"Calle de Fernando el Católico",wikidata,M,Q12860,way
+"Calle de Fernanflor",wikidata,M,Q5921192,way
+"Calle de Florestán Aguilar",wikidata,M,Q55229402,way
+"Calle de Fortuny",wikidata,M,Q380052,way
 "Calle de Francisco Silvela",wikidata,M,Q1236383,relation+way
 "Calle de Francisco de Goya",wikidata,M,Q5432,way
+"Calle de Francisco de Rojas",wikidata,M,Q1442310,way
 "Calle de Fray Bernardino Sahagún",wikidata,M,Q379972,way
+"Calle de Galileo",wikidata,M,Q307,way
+"Calle de Gaztambide",wikidata,M,Q3177239,way
 "Calle de Goya",wikidata,M,Q5432,way
+"Calle de Guillermo de Osma",wikidata,M,Q9001374,way
+"Calle de Guzmán el Bueno",wikidata,M,Q4734497,way
+"Calle de Hartzenbusch",wikidata,M,Q1377747,way
 "Calle de Henri Dunant",wikidata,M,Q12091,way
+"Calle de Hermosilla",wikidata,M,Q28052826;Q6292949,way
+"Calle de Hilarión Eslava",wikidata,M,Q3818102,way
 "Calle de Isaac Peral",wikidata,M,Q545065,way
+"Calle de Isidoro Álvarez Álvarez",wikidata,M,Q6449549,way
+"Calle de Jaime I El Conquistador",wikidata,M,Q212052,way
+"Calle de Jenner",wikidata,M,Q40852,way
+"Calle de Jorge Juan",wikidata,M,Q2085725,way
 "Calle de José Abascal",wikidata,M,Q9013476,way
+"Calle de José Antonio Armona",wikidata,M,Q5547499,way
+"Calle de José Gutiérrez Abascal",wikidata,M,Q17148207,way
+"Calle de José Ortega y Gasset",wikidata,M,Q153020,way
 "Calle de José Vasconcelos",wikidata,M,Q1091141,way
+"Calle de Juan Álvarez Mendizábal",wikidata,M,Q167743,way
 "Calle de Juan Bravo",wikidata,M,Q2742152,way
+"Calle de Juan Martín El Empecinado",wikidata,M,Q794779,way
+"Calle de Juan Ramón Jiménez",wikidata,M,Q131318,way
+"Calle de Juan de Austria",wikidata,M,Q157107,way
+"Calle de Juan de Mariana",wikidata,M,Q939889,way
+"Calle de Juan de Urbieta",wikidata,M,Q6301337,way
+"Calle de Julián Gayarre",wikidata,M,Q1366357,way
+"Calle de Julio Camba",wikidata,M,Q593405,way
+"Calle de Lagasca",wikidata,M,Q891966,way
 "Calle de León Felipe",wikidata,M,Q2076131,way
+"Calle de Linneo",wikidata,M,Q1043,way
+"Calle de Lombia",wikidata,M,Q5950703,way
+"Calle de Lope de Rueda",wikidata,M,Q52206,way
+"Calle de Luis Camoens",wikidata,M,Q590,way
+"Calle de Luis Vélez de Guevara",wikidata,M,Q1305828,way
 "Calle de Magallanes",wikidata,M,Q1496,way
+"Calle de Máiquez",wikidata,M,Q5921222,way
+"Calle de Maldonado",wikidata,M,Q2742352,way
+"Calle de Manuel Cortina",wikidata,M,Q5992686,way
 "Calle de Manuel Garrido",wikidata,M,Q5993110,way
+"Calle de Manuel González Longoria",wikidata,M,Q107178446,way
+"Calle de Manuel María Arrillaga",wikidata,M,Q110795001,way
 "Calle de Manuel Montilla",wikidata,M,Q100233965,way
+"Calle de Martín de Vargas",wikidata,M,Q2875927,way
+"Calle de Martín de los Heros",wikidata,M,Q9029845,way
 "Calle de Mateo Inurria",wikidata,M,Q9030461,way
 "Calle de Mauricio Legendre",wikidata,M,Q9030662,way
+"Calle de Mauricio Ravel",wikidata,M,Q1178,way
+"Calle de Meléndez Valdés",wikidata,M,Q2415144,way
 "Calle de Méndez Núñez",wikidata,M,Q3394337,way
+"Calle de Mesonero Romanos",wikidata,M,Q1545524,way
+"Calle de Miguel Ángel",wikidata,M,Q5592,way
+"Calle de Modesto Lafuente",wikidata,M,Q627987,way
+"Calle de Murillo",wikidata,M,Q192062,way
+"Calle de Narciso Serra",wikidata,M,Q15839216,way
+"Calle de Narváez",wikidata,M,Q185551,way
+"Calle de Nicasio Gallego",wikidata,M,Q720492,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
+"Calle de Núñez de Balboa",wikidata,M,Q19080,way
+"Calle de O'Donnell",wikidata,M,Q454265,way
 "Calle de Pablo Gargallo",wikidata,M,Q456991,way
 "Calle de Pablo Luna",wikidata,M,Q2336713,way
+"Calle de Padilla",wikidata,M,Q1339628,way
+"Calle de Palafox",wikidata,M,Q332481,way
+"Calle de Pedro Muñoz Seca",wikidata,M,Q3322907,way
+"Calle de Pedro de Muguruza",wikidata,M,Q3374095,way
+"Calle de Pelayo",wikidata,M,Q14655,way
+"Calle de Pérez Galdós",wikidata,M,Q189869,way
+"Calle de Pío Baroja",wikidata,M,Q220980,way
+"Calle de Prim",wikidata,M,Q379787,way
+"Calle de Rafael de Riego",wikidata,M,Q203036,way
 "Calle de Raimundo Fernández Villaverde",wikidata,M,Q959509,relation+way
+"Calle de Raimundo Lulio",wikidata,M,Q193660,way
+"Calle de Ramírez de Prado",wikidata,M,Q1870229,way
+"Calle de Ramón Areces",wikidata,M,Q3329044,way
+"Calle de Ricardo Goizueta",wikidata,M,Q23778347,way
 "Calle de Rodríguez Jaén",wikidata,M,Q11705060,way
+"Calle de Rodríguez San Pedro",wikidata,M,Q3821801,way
 "Calle de Romero Girón",wikidata,M,Q6161322,way
+"Calle de Romero Robledo",wikidata,M,Q2370852,way
+"Calle de Saavedra Fajardo",wikidata,M,Q2715411;Q2807,way
 "Calle de Sagasta",wikidata,M,Q379779,way
+"Calle de Salustiano Olózaga",wikidata,M,Q959518,way
+"Calle de San Bernardo",wikidata,M,Q188411;Q5740864,way
+"Calle de San Felipe Neri",wikidata,M,Q217791,way
+"Calle de San Isidoro de Sevilla",wikidata,M,Q166876,way
+"Calle de San Onofre",wikidata,M,Q464959,way
+"Calle de San Pedro Mártir",wikidata,M,Q238744,way
+"Calle de San Vicente Ferrer",wikidata,M,Q317131,way
+"Calle de Sebastián Elcano",wikidata,M,Q201510,way
+"Calle de Serrano",wikidata,M,Q515741,way
+"Calle de Tomás Bretón",wikidata,M,Q722623,way
+"Calle de Velarde",wikidata,M,Q718282,way
 "Calle de Velázquez",wikidata,M,Q297,way
+"Calle de Viriato",wikidata,M,Q331889,way
+"Calle de Vitruvio",wikidata,M,Q47163,way
+"Calle de Zurbano",wikidata,M,Q3295691,way
+"Calle de Zurbarán",wikidata,M,Q209615,way
+"Calle del Alcalde Sáinz de Baranda",wikidata,M,Q6070082,way
+"Calle del Arcipreste de Hita",wikidata,M,Q434597,way
+"Calle del Cardenal Belluga",wikidata,M,Q281528,way
 "Calle del Cardenal Cisneros",wikidata,M,Q342392,way
 "Calle del Cardenal Marcelo Spínola",wikidata,M,Q710764,way
 "Calle del Cid",wikidata,M,Q43958,way
+"Calle del Conde de Peñalver",wikidata,M,Q6042643,way
+"Calle del Conde de Romanones",wikidata,M,Q250975,way
+"Calle del Doctor Castelo",wikidata,M,Q57779199,way
+"Calle del Doctor Esquerdo",wikidata,M,Q9014392,way
+"Calle del Doctor Fleming",wikidata,M,Q37064,way
+"Calle del Doctor Gómez Ulla",wikidata,M,Q5997764,way
 "Calle del Doctor Juan José López Ibor",wikidata,M,Q9015676,way
+"Calle del Duque de Rivas",wikidata,M,Q155463,way
+"Calle del Duque de Sesto",wikidata,M,Q5940663,way
+"Calle del Españoleto",wikidata,M,Q297838,way
+"Calle del General Arrando",wikidata,M,Q9013676,way
+"Calle del General Díaz Porlier",wikidata,M,Q3077096,way
+"Calle del General Pardiñas",wikidata,M,Q6099921,way
 "Calle del Maestro Villa",wikidata,M,Q3814672,way
+"Calle del Marqués de Riscal",wikidata,M,Q5742129,way
+"Calle del Marqués de Santa Ana",wikidata,M,Q19458190,way
+"Calle del Marqués de Urquijo",wikidata,M,Q22926982,way
+"Calle del Marqués del Duero",wikidata,M,Q325762,way
+"Calle del Padre Damián",wikidata,M,Q232785,way
 "Calle del Padre Francisco Palau y Quer",wikidata,M,Q921193,way
+"Calle del Príncipe de Vergara",wikidata,M,Q434529,way
+"Calle del Teniente Coronel Noreña",wikidata,M,Q21971324,way
+"Glorieta de Quevedo",wikidata,M,Q201315,way
+"Paseo Alto de Casimiro Gómez Ortega",wikidata,M,Q957993,way
+"Paseo Bajo de Casimiro Gómez Ortega",wikidata,M,Q957993,way
 "Paseo de Carlos III",wikidata,M,Q36234,way
+"Paseo de Eduardo Dato",wikidata,M,Q365162,way
+"Paseo de José Celestino Mutis",wikidata,M,Q731937,way
+"Paseo de José Quer",wikidata,M,Q957879,way
+"Paseo de Mariano Lagasca",wikidata,M,Q891966,way
+"Paseo de Simón de Rojas Clemente",wikidata,M,Q2983280,way
+"Paseo del General Martínez Campos",wikidata,M,Q548543,way
+"Paseo del Pintor Rosales",wikidata,M,Q615701,way
+"Plaza Murillo",wikidata,M,Q192062,relation
+"Plaza de Alonso Martínez",wikidata,M,Q573875,way
 "Plaza de Andrés Manjón",wikidata,M,Q4760226,way
 "Plaza de Arturo Barea",wikidata,M,Q459293,way
 "Plaza de Carlos Trías Bertrán",wikidata,M,Q947754,way
-"Plaza de Chueca",wikidata,M,Q652534,way
 "Plaza de Colón",wikidata,M,Q7322,way
-"Plaza de Jacinto Benavente",wikidata,M,Q83184,way
+"Plaza de Francisco Morano",wikidata,M,Q8962505,way
+"Plaza de José de Villareal",wikidata,M,Q5946383,way
 "Plaza de Juan Goytisolo",wikidata,M,Q353762,way
+"Plaza de Manuel Becerra",wikidata,M,Q3393354,way
 "Plaza de Nelson Mandela",wikidata,M,Q8023,way
-"Plaza de Pontejos",wikidata,M,Q6452928,way
 "Plaza de Salvador Dalí",wikidata,M,Q5577,way
-"Plaza de Tirso de Molina",wikidata,M,Q295598,way
+"Plaza de San Juan de la Cruz",wikidata,M,Q190388,way
 "Plaza del Comandante Las Morenas",wikidata,M,Q5833988,way
 "Plaza del Conde de Toreno",wikidata,M,Q1377208,way
-"Plaza del Rastrillo",wikidata,M,Q9015898,way
+"Plaza del Doctor Marañón",wikidata,M,Q708559,way
 "Plazuela de Antón Martín",wikidata,M,Q5700573,way
 "Puente Enrique de la Mata Gorostizaga",wikidata,M,Q268599,way
+"Travesía de Andrés Mellado",wikidata,M,Q5675946,way
+"Túnel de O'Donnell",wikidata,M,Q454265,way
