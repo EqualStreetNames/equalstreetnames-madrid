@@ -336,6 +336,7 @@ name,source,gender,wikidata,type
 "Calle de Nicolás Salmerón",wikidata,M,Q742660,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
 "Calle de Núñez de Balboa",wikidata,M,Q19080,way
+"Calle de O'Donnell",wikidata,M,Q454265,way
 "Calle de Octavio Paz",wikidata,M,Q46739,way
 "Calle de Oudrid",wikidata,M,Q2679032,way
 "Calle de Pablo Gargallo",wikidata,M,Q456991,way
@@ -510,3 +511,4 @@ name,source,gender,wikidata,type
 "Travesía de Andrés Mellado",wikidata,M,Q5675946,way
 "Travesía de Felipe de Diego",wikidata,M,Q5441962,way
 "Travesía del Poeta Blas de Otero",wikidata,M,Q881756,way
+"Túnel de O'Donnell",wikidata,M,Q454265,way
