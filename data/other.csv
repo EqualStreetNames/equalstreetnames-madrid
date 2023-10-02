@@ -1093,7 +1093,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida del Cerro de los Ángeles",,,,way
 "Avenida del Consejo de Europa",,,,way
 "Avenida del Doctor Arce",,,,way
-"Avenida del Doctor García Tapia",,,,way
 "Avenida del Enebral",,,,way
 "Avenida del Euro",,,,way
 "Avenida del General Perón",,,,way
@@ -1486,6 +1485,7 @@ Bus/VAO,,,,way
 "Calle Carlos Bravo",,,,way
 "Calle Carlos Dabán",,,,way
 "Calle Carlos Gardel",,,,way
+"Calle Carlos Palomino",,,,way
 "Calle Carlos Pereyra",,,,way
 "Calle Carlos y Guillermo Fernández Shaw",,,,way
 "Calle Carmen López",,,,way
@@ -6276,6 +6276,7 @@ Bus/VAO,,,,way
 "Calle de la Siempreverde",,,,way
 "Calle de la Sierra Alta",,,,way
 "Calle de la Sierra Bullones",,,,way
+"Calle de la Sierra BullonesCalle del Mirto",,,,way
 "Calle de la Sierra Engarcerán",,,,way
 "Calle de la Sierra Espuña",,,,way
 "Calle de la Sierra Gádor",,,,way
@@ -7676,9 +7677,11 @@ Camarena,,,,way
 "Enlace Embajadores-Acacias",,,,way
 "Enlace con M-40",,,,way
 "Enlace de O'Donnell con R-3",,,,way
+"Entrada Sala de Estudio",,,,way
 "Entrada a la Sala de Exposiciones",,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
+"Estación de Servicio Elíptica",,,,way
 "Explanada Multiusos Madrid Río",,,,way
 "Explanada de El Pardo",,,,way
 "Federico García Sanchiz",,,,way
@@ -7930,6 +7933,7 @@ Moncloa,,,,way
 "Pasaje de la Poveda",,,,way
 "Pasaje de la Virgen de la Alegría",,,,way
 "Pasaje de la Virgen del Coro",,,,way
+"Pasaje del Áncora",,,,way
 "Pasaje del Comercio",,,,way
 "Pasaje del Conde de Belchite",,,,way
 "Pasaje del Doctor Esquerdo",,,,way
@@ -7984,6 +7988,7 @@ Moncloa,,,,way
 "Paseo de Garabitas",,,,way
 "Paseo de Gigantes y Cabezudos",,,,way
 "Paseo de Irlanda",,,,way
+"Paseo de José Ramón Monrobel",,,,way
 "Paseo de Juan XXIII",,,,way
 "Paseo de Juan de Minuart",,,,way
 "Paseo de Lagasca",,,,way
