@@ -889,6 +889,7 @@ M-45,wikidata,,Q3437370,way
 "Ronda de Valencia",wikidata,,Q16626200,way
 "Santo Domingo de la Calzada",wikidata,,Q646564,way
 "Travesía de Aquitania",wikidata,,Q1179,way
+"Travesía de Biosca",wikidata,,Q1901345,way
 "Travesía de Capri",wikidata,,Q173292,way
 "Travesía de los Cabestreros",wikidata,,Q20015474,way
 "Túnel de Ríos Rosas",wikidata,,Q27267331,way
@@ -2035,7 +2036,6 @@ Bus/VAO,,,,way
 "Calle Isla de Java",,,,way
 "Calle Isla de Nelson",,,,way
 "Calle Isla de Ons",,,,way
-"Calle Isla de Rodas",,,,way
 "Calle Isla de Sálvora",,,,way
 "Calle Isla de Sicilia",,,,way
 "Calle Isla de Tabarca",,,,way
@@ -5697,6 +5697,7 @@ Bus/VAO,,,,way
 "Calle de Torrecilla del Puerto",,,,way
 "Calle de Torredonjimeno",,,,way
 "Calle de Torregalindo",,,,way
+"Calle de Torregrosa",,,,way
 "Calle de Torrejón de la Calzada",,,,way
 "Calle de Torrelaguna",,,,relation+way
 "Calle de Torrelara",,,,way
@@ -6444,7 +6445,6 @@ Bus/VAO,,,,way
 "Calle de las Lilas",,,,way
 "Calle de las Lomas de Horcajo",,,,way
 "Calle de las Magnolias",,,,way
-"Calle de las Magnolías",,,,way
 "Calle de las Maldonadas",,,,way
 "Calle de las Mareas",,,,way
 "Calle de las Marismas",,,,way
@@ -7569,7 +7569,6 @@ Camarena,,,,way
 "Carretera Fuencarral-Hortaleza",,,,way
 "Carretera Leganés-La Fortuna",,,,way
 "Carretera Parque de Atracciones",,,,way
-"Carretera Particular de la Zarzuela",,,,way
 "Carretera Particular del Chalet",,,,way
 "Carretera Particular del Tiro de Pichón",,,,way
 "Carretera Plaza Elíptica",,,,way
@@ -7596,7 +7595,6 @@ Camarena,,,,way
 "Carretera de Garabitas",,,,way
 "Carretera de Húmera",,,,way
 "Carretera de Leganés",,,,way
-"Carretera de Puertas de las Columnas",,,,way
 "Carretera de Rodajos",,,,way
 "Carretera de San Fernando a Mejorada",,,,way
 "Carretera de Somontes al Palacio de la Real Quinta",,,,way
@@ -7613,7 +7611,6 @@ Camarena,,,,way
 "Carretera de la Ciudad Universitaria",,,,way
 "Carretera de la Dehesa de la Villa",,,,way
 "Carretera de la Fortuna",,,,way
-"Carretera de la Zarzuela",,,,way
 "Carretera del Albergue Juvenil",,,,way
 "Carretera del Barrio de la Fortuna",,,,way
 "Carretera del Cementerio Nuevo",,,,way
@@ -7964,6 +7961,7 @@ Moncloa,,,,way
 "Paseo Marqués de Monistrol",,,,way
 "Paseo Marqués de Zafra",,,,way
 "Paseo Piñonero",,,,way
+"Paseo Poetas",,,,way
 "Paseo Puerta del Ángel",,,,way
 "Paseo República de Cuba",,,,way
 "Paseo Senda del Rey",,,,way
@@ -8094,7 +8092,6 @@ Moncloa,,,,way
 "Plaza Huarte de San Juan",,,,way
 "Plaza Isla de Fuerteventura",,,,way
 "Plaza Isla de Lanzarote",,,,way
-"Plaza Islas Azores",,,,way
 "Plaza Italia",,,,way
 "Plaza Joan Miró",,,,way
 "Plaza Madre Molas",,,,way
@@ -8167,6 +8164,7 @@ Moncloa,,,,way
 "Plaza de Burdeos",,,,way
 "Plaza de Campo de Criptana",,,,way
 "Plaza de Carabanchel",,,,way
+"Plaza de Carabanchel Alto",,,,way
 "Plaza de Carlos Cambronero",,,,way
 "Plaza de Carmen Conde",,,,way
 "Plaza de Carmona",,,,way
@@ -8240,6 +8238,7 @@ Moncloa,,,,way
 "Plaza de Monterrey",,,,way
 "Plaza de Montilla",,,,way
 "Plaza de Munilla",,,,way
+"Plaza de Nalda",,,,way
 "Plaza de Nicaragua",,,,way
 "Plaza de Nuestra Señora del Buen Consejo",,,,way
 "Plaza de Nuestra Señora del Tránsito",,,,way
@@ -8348,6 +8347,7 @@ Moncloa,,,,way
 "Plaza de las Asambleas",,,,way
 "Plaza de las Ciencias",,,,way
 "Plaza de las Comendadoras",,,,way
+"Plaza de las Islas Azores",,,,way
 "Plaza de las Moreras",,,,way
 "Plaza de las Olivas",,,,way
 "Plaza de las Promesas",,,,way
@@ -8515,8 +8515,11 @@ Saconia,,,,way
 "San Millán de la Cogolla",,,,way
 "Santa Escolastica",,,,way
 "Senda Real (GR-124)",,,,way
+"Senda Real - Dehesa de la Villa",,,,way
 "Senda de Casa Quemada",,,,way
+"Senda de los Montes",,,,way
 "Senda de los Panaderos",,,,way
+"Senda del Paisaje",,,,way
 Sendero,,,,way
 "Sendero Arboreto Montes",,,,way
 "Subterráneo de Princesa a Santa Cruz de Marcenado",,,,way
