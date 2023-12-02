@@ -791,7 +791,7 @@ M-45,wikidata,,Q3437370,way
 "Paseo del Prado",wikidata,,Q2079615,way
 "Paseo del Uruguay",wikidata,,Q77,way
 "Plaza General Vara del Rey",wikidata,,Q6080424,way
-"Plaza Mayor",wikidata,,Q1123493,way
+"Plaza Mayor",wikidata,,Q1123493,relation
 "Plaza Puerta Cerrada",wikidata,,Q9060945,way
 "Plaza República del Ecuador",wikidata,,Q736,way
 "Plaza Villalcázar de Sirga",wikidata,,Q1010261,way
@@ -829,7 +829,7 @@ M-45,wikidata,,Q3437370,way
 "Plaza de Oyarzun",wikidata,,Q911092,way
 "Plaza de Padrón",wikidata,,Q500494,way
 "Plaza de Pedro Zerolo",wikidata,,Q6080146,way
-"Plaza de Pontejos",wikidata,,Q6080037,way
+"Plaza de Pontejos",wikidata,,Q6080037,relation
 "Plaza de Puerta Cerrada",wikidata,,Q9060945,way
 "Plaza de Quito",wikidata,,Q2900,way
 "Plaza de Ramales",wikidata,,Q2839150,way
@@ -845,7 +845,6 @@ M-45,wikidata,,Q3437370,way
 "Plaza de Santo Domingo",wikidata,,Q6080106,way
 "Plaza de Santos de la Humosa",wikidata,,Q1648733,way
 "Plaza de Sestao",wikidata,,Q909707,way
-"Plaza de Tirso de Molina",wikidata,,Q6080114,way
 "Plaza de Tuy",wikidata,,Q824122,way
 "Plaza de Verín",wikidata,,Q176504,way
 "Plaza de la Armería",wikidata,,Q16494360,way
@@ -874,10 +873,9 @@ M-45,wikidata,,Q3437370,way
 "Plaza del Conde de Miranda",wikidata,,Q52063001,way
 "Plaza del Conde del Valle de Suchil",wikidata,,Q27244013,way
 "Plaza del Dos de Mayo",wikidata,,Q1531008,way
-"Plaza del Emperador Carlos V",wikidata,,Q7203711,way
 "Plaza del Puerto Barazar",wikidata,,Q12254767,way
 "Plaza del Rastrillo",wikidata,,Q29834891,way
-"Plaza del Rey",wikidata,,Q16620311,way
+"Plaza del Rey",wikidata,,Q16620311,relation
 "Plazuela de San Javier",wikidata,,Q43008231,way
 "Puente de Segovia",wikidata,,Q2838423,way
 "Puente de Toledo",wikidata,,Q3845616,way
@@ -1129,6 +1127,7 @@ M-45,wikidata,,Q3437370,way
 Bus-VAO,,,,way
 Bus/VAO,,,,way
 "Bypass Sur",,,,way
+Calle,,,,way
 "Calle Abada",,,,way
 "Calle Abanico",,,,way
 "Calle Abantos",,,,way
@@ -1504,7 +1503,6 @@ Bus/VAO,,,,way
 "Calle Casabermeja",,,,way
 "Calle Casablanca",,,,way
 "Calle Casanare",,,,way
-"Calle Casar de Palomero",,,,way
 "Calle Castalia",,,,way
 "Calle Castellflorite",,,,way
 "Calle Castellón de la Plana",,,,way
@@ -1797,7 +1795,6 @@ Bus/VAO,,,,way
 "Calle Faraday",,,,way
 "Calle Faustina Mena",,,,way
 "Calle Faustino Cordón Bonet",,,,way
-"Calle Federica Montseny",,,,way
 "Calle Federico Carlos Sáinz de Robles",,,,way
 "Calle Federico Gutiérrez",,,,way
 "Calle Federico Moreno Torroba",,,,way
@@ -2053,7 +2050,6 @@ Bus/VAO,,,,way
 "Calle Iturbe",,,,way
 "Calle Iván Pavlov",,,,way
 "Calle Jacaranda",,,,way
-"Calle Jacobeo",,,,way
 "Calle Jacobinia",,,,way
 "Calle Jacobo de Armijo",,,,way
 "Calle Javier Tusell",,,,way
@@ -2438,8 +2434,8 @@ Bus/VAO,,,,way
 "Calle Noez",,,,way
 "Calle Nogal",,,,way
 "Calle Novena",,,,way
-"Calle Ntra. Sra. de Guadalupe",,,,way
 "Calle Nuestra Señora de Gracia",,,,way
+"Calle Nuestra Señora de Guadalupe",,,,way
 "Calle Nuestra Señora de la Antigua",,,,way
 "Calle Nuestra Señora de la Esperanza",,,,way
 "Calle Nuestra Señora de la Luz",,,,way
@@ -2620,6 +2616,9 @@ Bus/VAO,,,,way
 "Calle Principal de las Provincias",,,,way
 "Calle Príncipe de Asturias",,,,way
 "Calle Proción",,,,way
+"Calle Prov Los Berrocales 71",,,,way
+"Calle Prov Los Berrocales 72",,,,way
+"Calle Prov Los Berrocales 73",,,,way
 "Calle Provisional Cárcavas Oeste Uno",,,,way
 "Calle Puebla de Sanabria",,,,way
 "Calle Puente del Duero",,,,way
@@ -2800,6 +2799,7 @@ Bus/VAO,,,,way
 "Calle San Mamés",,,,way
 "Calle San Mansueto",,,,way
 "Calle San Miguel",,,,way
+"Calle San Modesto",,,,way
 "Calle San Nazario",,,,way
 "Calle San Paciano",,,,way
 "Calle San Pantaleón",,,,way
@@ -3371,7 +3371,6 @@ Bus/VAO,,,,way
 "Calle de Ankara",,,,way
 "Calle de Anna Frank",,,,way
 "Calle de Anoeta",,,,way
-"Calle de Anselmo Lorenzo",,,,way
 "Calle de Antares",,,,way
 "Calle de Antillón",,,,way
 "Calle de Antioquía",,,,way
@@ -6790,6 +6789,7 @@ Bus/VAO,,,,way
 "Calle del Cardenal Tavera",,,,way
 "Calle del Carpio y Torta",,,,way
 "Calle del Carril del Conde",,,,way
+"Calle del Casar de Palomero",,,,way
 "Calle del Casco Antiguo",,,,way
 "Calle del Casón de Comedias",,,,way
 "Calle del Castellano",,,,way
@@ -7817,7 +7817,6 @@ Camarena,,,,way
 "Instalación Deportiva Municipal Básica Parque El Calero. Circuito de bicicletas",,,,way
 "Intercambiador Casa de Campo",,,,way
 "Intercambiador de Pavones",,,,way
-"Isidro Fernández",,,,way
 "Jardín Espíritu de Ermua",,,,way
 "Jardín Privado Isla de Chamartín",,,,way
 "Jardín de Portugalete",,,,way
@@ -7961,7 +7960,6 @@ Moncloa,,,,way
 "Paseo Marqués de Monistrol",,,,way
 "Paseo Marqués de Zafra",,,,way
 "Paseo Piñonero",,,,way
-"Paseo Poetas",,,,way
 "Paseo Puerta del Ángel",,,,way
 "Paseo República de Cuba",,,,way
 "Paseo Senda del Rey",,,,way
@@ -8349,6 +8347,7 @@ Moncloa,,,,way
 "Plaza de las Comendadoras",,,,way
 "Plaza de las Islas Azores",,,,way
 "Plaza de las Moreras",,,,way
+"Plaza de las Mujeres",,,,way
 "Plaza de las Olivas",,,,way
 "Plaza de las Promesas",,,,way
 "Plaza de las Salesas",,,,way

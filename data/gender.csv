@@ -6,6 +6,7 @@ name,source,gender,wikidata,type
 "Calle Beatriz de Bobadilla",wikidata,F,Q20100559,way
 "Calle Coco Chanel",wikidata,F,Q45661,way
 "Calle Conchita Montenegro",wikidata,F,Q2991961,way
+"Calle Federica Montseny",wikidata,F,Q549307,way
 "Calle Infanta Catalina Micaela",wikidata,F,Q233187,way
 "Calle Isabel Tintero",wikidata,F,Q43673839,way
 "Calle Lorenza Correa",wikidata,F,Q1872294,way
@@ -154,7 +155,6 @@ name,source,gender,wikidata,type
 "Calle de Alfonso X",wikidata,M,Q47595,way
 "Calle de Alfonso XI",wikidata,M,Q298808,way
 "Calle de Alfonso XII",wikidata,M,Q32347,way
-"Calle de Alfredo Di Stéfano",wikidata,M,Q164546,way
 "Calle de Alonso Cano",wikidata,M,Q378783,way
 "Calle de Amadeo I",wikidata,M,Q32432,way
 "Calle de Ambrosio Vallejo",wikidata,M,Q64775438,way
@@ -164,6 +164,7 @@ name,source,gender,wikidata,type
 "Calle de Andrés Mellado",wikidata,M,Q5675946,way
 "Calle de Andrés Torrejón",wikidata,M,Q5695435,way
 "Calle de Andrés de Urdaneta",wikidata,M,Q316780,way
+"Calle de Anselmo Lorenzo",wikidata,M,Q174770,way
 "Calle de Antonio Gades",wikidata,M,Q561048,way
 "Calle de Antonio Maura",wikidata,M,Q562489,way
 "Calle de Antonio Nebrija",wikidata,M,Q380804,way
@@ -497,11 +498,13 @@ name,source,gender,wikidata,type
 "Plaza de Ramón y Cajal",wikidata,M,Q150526,way
 "Plaza de Salvador Dalí",wikidata,M,Q5577,way
 "Plaza de San Juan de la Cruz",wikidata,M,Q190388,way
+"Plaza de Tirso de Molina",wikidata,M,Q295598;Q6080114,relation+way
 "Plaza del Alcalde Moreno Torres",wikidata,M,Q9014613,way
 "Plaza del Comandante Las Morenas",wikidata,M,Q5833988,way
 "Plaza del Conde de Toreno",wikidata,M,Q1377208,way
 "Plaza del Doctor Laguna",wikidata,M,Q524380,way
 "Plaza del Doctor Marañón",wikidata,M,Q708559,way
+"Plaza del Emperador Carlos V",wikidata,M,Q32500;Q7203711,way
 "Plaza del Fotógrafo Robert Capa",wikidata,M,Q152524,way
 "Plaza del Niño Jesús",wikidata,M,Q942467,way
 "Plazuela de Antón Martín",wikidata,M,Q5700573,way
