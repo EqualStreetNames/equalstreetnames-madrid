@@ -58,6 +58,7 @@ name,source,gender,wikidata,type
 "Calle de la Princesa de Kapurtala",wikidata,F,Q3394222,way
 "Glorieta de Pilar Miró",wikidata,F,Q75004,way
 "Paseo de la Reina Cristina",wikidata,F,Q538125,way
+"Plaza María Pignatelli",wikidata,F,Q52271507,way
 "Plaza Santa Bárbara",wikidata,F,Q192816,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
 "Plaza de Raffaella Carrà",wikidata,F,Q266640,way
@@ -136,7 +137,6 @@ name,source,gender,wikidata,type
 "Calle Ruiz de Alarcón",wikidata,M,Q356532,way
 "Calle San Martín de Porres",wikidata,M,Q313293,way
 "Calle Santiago Bernabéu",wikidata,M,Q223156,way
-"Calle Serrano",wikidata,M,Q515741,way
 "Calle Tomás Borrás",wikidata,M,Q9088237,way
 "Calle Watteau",wikidata,M,Q183221,way
 "Calle de Abdón Terradas",wikidata,M,Q3753351,way
