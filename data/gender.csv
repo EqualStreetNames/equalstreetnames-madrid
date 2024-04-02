@@ -63,6 +63,7 @@ name,source,gender,wikidata,type
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
 "Plaza de Raffaella Carrà",wikidata,F,Q266640,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
+"Plaza de la Madre Molas",wikidata,F,Q445228,way
 "Plazuela de Ana Diosdado",wikidata,F,Q5673728,way
 "Avenida Blas de Lezo",wikidata,M,Q881760,way
 "Avenida Miguel Delibes",wikidata,M,Q157326,way
@@ -102,7 +103,6 @@ name,source,gender,wikidata,type
 "Calle Daniel Urrabieta",wikidata,M,Q627132,way
 "Calle Divino Vallés",wikidata,M,Q5484026,way
 "Calle Doctor Esquerdo",wikidata,M,Q9014392,way
-"Calle Doctor Fleming",wikidata,M,Q37064,way
 "Calle Doctor Ramón Castroviejo",wikidata,M,Q4216907,way
 "Calle El Bosco",wikidata,M,Q130531,way
 "Calle Enrique de Aldama",wikidata,M,Q11919404,way
@@ -381,6 +381,7 @@ name,source,gender,wikidata,type
 "Calle de San Hilario",wikidata,M,Q44344,way
 "Calle de San Isidoro de Sevilla",wikidata,M,Q166876,way
 "Calle de San Jorge",wikidata,M,Q48438,way
+"Calle de San Marcos",wikidata,M,Q31966,way
 "Calle de San Narciso",wikidata,M,Q828609,way
 "Calle de San Onofre",wikidata,M,Q464959,way
 "Calle de San Pedro Mártir",wikidata,M,Q238744,way
@@ -490,6 +491,7 @@ name,source,gender,wikidata,type
 "Plaza de Eurípides",wikidata,M,Q48305,way
 "Plaza de Francisco Morano",wikidata,M,Q8962505,way
 "Plaza de Ignacio Villalonga",wikidata,M,Q3148227,way
+"Plaza de José Moreno Villa",wikidata,M,Q981658,way
 "Plaza de José de Villareal",wikidata,M,Q5946383,way
 "Plaza de Juan Benet",wikidata,M,Q706516,way
 "Plaza de Juan Goytisolo",wikidata,M,Q353762,way
