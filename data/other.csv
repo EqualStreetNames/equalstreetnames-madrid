@@ -112,7 +112,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle Guadalcazar",wikidata,,Q854460,way
 "Calle Guarromán",wikidata,,Q1313369,way
 "Calle Guisona",wikidata,,Q984645,way
-"Calle Historias de la Radio",wikidata,,Q11682550,way
+"Calle Historias de la Radio",wikidata,,Q11682550;Q384397,way
 "Calle Hornachos",wikidata,,Q1446441,way
 "Calle Hotel",wikidata,,Q9914,way
 "Calle Huesa",wikidata,,Q961110,way
@@ -884,6 +884,7 @@ M-45,wikidata,,Q3437370,way
 "Plaza del Rastrillo",wikidata,,Q29834891,way
 "Plaza del Rey",wikidata,,Q16620311,relation
 "Plazuela de San Javier",wikidata,,Q43008231,way
+"Plazuela de las Sinsombrero",wikidata,,Q28474914,way
 "Puente de Segovia",wikidata,,Q2838423,way
 "Puente de Toledo",wikidata,,Q3845616,way
 "Puente del Principado de Andorra",wikidata,,Q228,way
@@ -3825,7 +3826,6 @@ Bus/VAO,,,,way
 "Calle de Concepción Bahamonde",,,,way
 "Calle de Conchita Montes",,,,way
 "Calle de Conde de Torralba",,,,way
-"Calle de Condes del Val",,,,way
 "Calle de Condesa Vega del Pozo",,,,way
 "Calle de Consuegra",,,,way
 "Calle de Consuelo Guzmán",,,,way
@@ -6517,6 +6517,7 @@ Bus/VAO,,,,way
 "Calle de los Clarinetes",,,,way
 "Calle de los Colios",,,,way
 "Calle de los Collados",,,,way
+"Calle de los Condes del Val",,,,way
 "Calle de los Conserveros",,,,way
 "Calle de los Contrabajos",,,,way
 "Calle de los Coraceros",,,,way
@@ -8691,7 +8692,6 @@ Valdemaqueda,,,,way
 "camino interior colonia",,,,way
 "camino privado de la colonia",,,,way
 "camino robado",,,,way
-"el atajo de los chinos",,,,way
 "enlace con M-40",,,,way
 entra,,,,way
 escalera_principal,,,,way
