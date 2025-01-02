@@ -48,9 +48,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle Almadén",wikidata,,Q465085,way
 "Calle Almarza",wikidata,,Q828668,way
 "Calle Almuradiel",wikidata,,Q1632554,way
-"Calle Amaltea",wikidata,,Q107785,way
 "Calle Amapola",wikidata,,Q146391,way
-"Calle Antracita",wikidata,,Q182458,way
 "Calle Anunciación",wikidata,,Q154326,way
 "Calle Aravaca",wikidata,,Q26203094,way
 "Calle Arciniega",wikidata,,Q587131,way
@@ -64,7 +62,6 @@ Bucarest,wikidata,,Q19660,way
 "Calle Baleares",wikidata,,Q5765,way
 "Calle Baños de Montemayor",wikidata,,Q1646296,way
 "Calle Baños de Valdearados",wikidata,,Q929461,way
-"Calle Batalla del Salado",wikidata,,Q1792643,way
 "Calle Belmez",wikidata,,Q970766,way
 "Calle Benamejí",wikidata,,Q975728,way
 "Calle Berenjena",wikidata,,Q24666817,way
@@ -81,7 +78,6 @@ Bucarest,wikidata,,Q19660,way
 "Calle Cardeña",wikidata,,Q1645727,way
 "Calle Castiello de Jaca",wikidata,,Q784295,way
 "Calle Catania",wikidata,,Q1903,way
-"Calle Cava de San Miguel",wikidata,,Q28051254,way
 "Calle Cazorla",wikidata,,Q518339,way
 "Calle Cervantes",wikidata,,Q20014008,way
 "Calle Cervera",wikidata,,Q847011,way
@@ -313,6 +309,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle de Caspe",wikidata,,Q64010,way
 "Calle de Castalia",wikidata,,Q170053,way
 "Calle de Cástor y Pólux",wikidata,,Q190103,way
+"Calle de Cavanilles",wikidata,,Q29051443,way
 "Calle de Cazorla",wikidata,,Q518339,way
 "Calle de Cedaceros",wikidata,,Q27051021,way
 "Calle de Cenicientos",wikidata,,Q685764,way
@@ -433,6 +430,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle de Marsella",wikidata,,Q23482,way
 "Calle de Matamorosa",wikidata,,Q6005712,way
 "Calle de Mazaterón",wikidata,,Q5805098,way
+"Calle de Medellín",wikidata,,Q668384,way
 "Calle de Melide",wikidata,,Q912514,way
 "Calle de Melilla",wikidata,,Q5831,way
 "Calle de Méndez Álvaro",wikidata,,Q5553104,way
@@ -560,11 +558,13 @@ Bucarest,wikidata,,Q19660,way
 "Calle de Turmalina",wikidata,,Q179911,way
 "Calle de Uruguay",wikidata,,Q77,way
 "Calle de Valcarlos",wikidata,,Q524479,way
+"Calle de Valderribas",wikidata,,Q29051503,way
 "Calle de Valderrobres",wikidata,,Q1641285,way
 "Calle de Valencia",wikidata,,Q26810468,way
 "Calle de Vallehermoso",wikidata,,Q6122685,way
 "Calle de Valonia",wikidata,,Q231,way
 "Calle de Vélez Rubio",wikidata,,Q1110343,way
+"Calle de Velilla",wikidata,,Q9019034,way
 "Calle de Vergara",wikidata,,Q2996259,way
 "Calle de Versalles",wikidata,,Q621,way
 "Calle de Vilar de Donas",wikidata,,Q18376057,way
@@ -589,11 +589,13 @@ Bucarest,wikidata,,Q19660,way
 "Calle de Zurich",wikidata,,Q72,way
 "Calle de Zurita",wikidata,,Q29051010,way
 "Calle de la Alameda",wikidata,,Q27224202,way
+"Calle de la Antracita",wikidata,,Q182458,way
 "Calle de la Arganzuela",wikidata,,Q16749876,way
 "Calle de la Batalla del Salado",wikidata,,Q1792643,way
 "Calle de la Cabeza",wikidata,,Q20908816,way
 "Calle de la Cava Alta",wikidata,,Q28051271,way
 "Calle de la Cava Baja",wikidata,,Q5740900,way
+"Calle de la Cava de San Miguel",wikidata,,Q28051254,way
 "Calle de la Colegiata",wikidata,,Q24702367,way
 "Calle de la Concepción Jerónima",wikidata,,Q21072221,way
 "Calle de la Cordillera de Cuera",wikidata,,Q5196829,way
@@ -605,7 +607,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle de la Espada",wikidata,,Q28006139,way
 "Calle de la Española",wikidata,,Q25277,way
 "Calle de la Estrella Naos",wikidata,,Q13200,way
-"Calle de la Fe",wikidata,,Q26810252,way
+"Calle de la Fé",wikidata,,Q26810252,way
 "Calle de la Flecha",wikidata,,Q23996014,way
 "Calle de la Fuente del Berro",wikidata,,Q5643968,way
 "Calle de la Giralda",wikidata,,Q834479,way
@@ -624,6 +626,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle de la Princesa",wikidata,,Q5740935,way
 "Calle de la Provenza",wikidata,,Q101081,way
 "Calle de la Riviera",wikidata,,Q917448,way
+"Calle de la Santísima Trinidad",wikidata,,Q615189,way
 "Calle de la Serena",wikidata,,Q2472448,way
 "Calle de la Sierra de La Sagra",wikidata,,Q8538308,way
 "Calle de la Sierra de Molina",wikidata,,Q23994773,way
@@ -638,7 +641,6 @@ Bucarest,wikidata,,Q19660,way
 "Calle de las Canarias",wikidata,,Q5813,way
 "Calle de las Coníferas",wikidata,,Q132825,way
 "Calle de las Huertas",wikidata,,Q2364997,way
-"Calle de las Islas Almirante",wikidata,,Q119230,way
 "Calle de las Islas Almirantes",wikidata,,Q119230,way
 "Calle de las Islas Marianas",wikidata,,Q153732,way
 "Calle de las Islas de Cabo Verde",wikidata,,Q1011,way
@@ -687,6 +689,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle del Darro",wikidata,,Q1166701,way
 "Calle del Discóbolo",wikidata,,Q133732,way
 "Calle del Doce de Octubre",wikidata,,Q2745862,way
+"Calle del Doctor Cortezo",wikidata,,Q28031508,way
 "Calle del Dodge",wikidata,,Q27564,way
 "Calle del Dos Caballos",wikidata,,Q326015,way
 "Calle del Dos de Mayo",wikidata,,Q181146,way
@@ -798,8 +801,7 @@ M-45,wikidata,,Q3437370,way
 "Paseo del Prado",wikidata,,Q2079615,way
 "Paseo del Uruguay",wikidata,,Q77,way
 "Plaza General Vara del Rey",wikidata,,Q6080424,way
-"Plaza Mayor",wikidata,,Q1123493,relation
-"Plaza Puerta Cerrada",wikidata,,Q9060945,way
+"Plaza Mayor",wikidata,,Q1123493,relation+way
 "Plaza República del Ecuador",wikidata,,Q736,way
 "Plaza Villalcázar de Sirga",wikidata,,Q1010261,way
 "Plaza de Alcira",wikidata,,Q931780,way
@@ -818,7 +820,6 @@ M-45,wikidata,,Q3437370,way
 "Plaza de Cupido",wikidata,,Q5011,way
 "Plaza de Cuzco",wikidata,,Q26833863,way
 "Plaza de Elciego",wikidata,,Q1368834,way
-"Plaza de Ermua",wikidata,,Q1242400,way
 "Plaza de España",wikidata,,Q1326261,way
 "Plaza de Fonsagrada",wikidata,,Q1465213,way
 "Plaza de Herradores",wikidata,,Q28534650,way
@@ -827,6 +828,7 @@ M-45,wikidata,,Q3437370,way
 "Plaza de Jaizquíbel",wikidata,,Q576888,way
 "Plaza de Jesús",wikidata,,Q26796200,way
 "Plaza de Lavapiés",wikidata,,Q6080017,relation+way
+"Plaza de Legazpi",wikidata,,Q5547886,way
 "Plaza de Lima",wikidata,,Q29647450,way
 "Plaza de Matute",wikidata,,Q6080024,relation+way
 "Plaza de Mondariz",wikidata,,Q639229,way
@@ -851,7 +853,6 @@ M-45,wikidata,,Q3437370,way
 "Plaza de Santa Cruz",wikidata,,Q6080086,way
 "Plaza de Santo Domingo",wikidata,,Q6080106,way
 "Plaza de Santos de la Humosa",wikidata,,Q1648733,way
-"Plaza de Sestao",wikidata,,Q909707,way
 "Plaza de Tuy",wikidata,,Q824122,way
 "Plaza de Verín",wikidata,,Q176504,way
 "Plaza de la Armería",wikidata,,Q16494360,way
@@ -880,14 +881,12 @@ M-45,wikidata,,Q3437370,way
 "Plaza del Conde de Miranda",wikidata,,Q52063001,way
 "Plaza del Conde del Valle de Suchil",wikidata,,Q27244013,way
 "Plaza del Dos de Mayo",wikidata,,Q1531008,way
-"Plaza del Puerto Barazar",wikidata,,Q12254767,way
 "Plaza del Rastrillo",wikidata,,Q29834891,way
 "Plaza del Rey",wikidata,,Q16620311,relation
 "Plazuela de San Javier",wikidata,,Q43008231,way
 "Plazuela de las Sinsombrero",wikidata,,Q28474914,way
 "Puente de Segovia",wikidata,,Q2838423,way
 "Puente de Toledo",wikidata,,Q3845616,way
-"Puente del Principado de Andorra",wikidata,,Q228,way
 "Puerta del Sol",wikidata,,Q427163,relation
 "Ronda de Atocha",wikidata,,Q26831149,way
 "Ronda de Segovia",wikidata,,Q27955399;Q2807,way
@@ -900,6 +899,7 @@ M-45,wikidata,,Q3437370,way
 "Túnel de Ríos Rosas",wikidata,,Q27267331,way
 "Viaducto de Segovia",wikidata,,Q6160850,way
 "(Arco Verde)",,,,way
+"A.S. Valdemingómez",,,,way
 "Acceso Anillo Distribuidor Cuatro Torres",,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
@@ -914,7 +914,6 @@ M-45,wikidata,,Q3437370,way
 "Arroyo Valpalomero",,,,way
 "Autopista Radial R-2",,,,way
 "Autovía de Colmenar",,,,way
-"Autovía del Este (Avenida del Mediterráneo)",,,,way
 "Autovía del Noroeste",,,,way
 "Autovía del Sur",,,,way
 "Avenida 26 de Abril",,,,way
@@ -928,7 +927,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida Cuarta",,,,way
 "Avenida Donostiarra",,,,way
 "Avenida Emperatriz Isabel",,,,way
-"Avenida Felipe II",,,,way
 "Avenida Fin de Semana",,,,way
 "Avenida Fuente de San Isidro",,,,way
 "Avenida General",,,,way
@@ -997,7 +995,9 @@ M-45,wikidata,,Q3437370,way
 "Avenida de Gumersindo Llorente",,,,way
 "Avenida de Hellín",,,,way
 "Avenida de Joaquín Garrigues Walker",,,,way
+"Avenida de Joaquín Walker Garriges",,,,way
 "Avenida de José Antonio Corrales",,,,way
+"Avenida de Juan Andrés",,,,way
 "Avenida de Juan Antonio Samaranch",,,,way
 "Avenida de La Salmedina",,,,way
 "Avenida de La Verbena de la Paloma",,,,way
@@ -1094,7 +1094,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida del Aster",,,,way
 "Avenida del Campo",,,,way
 "Avenida del Campus Sur",,,,way
-"Avenida del Cardenal Herrera Oria",,,,way
 "Avenida del Cerro Milano",,,,way
 "Avenida del Cerro de los Ángeles",,,,way
 "Avenida del Consejo de Europa",,,,way
@@ -1126,7 +1125,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida del Valle",,,,way
 "Avenida del Ventisquero de la Condesa",,,,way
 "Avenida del padre Huidobro",,,,way
-"Bravo Murillo",,,,way
 "Bulevar Norte",,,,way
 "Bulevar Sur",,,,way
 "Bulevar de José Prat",,,,way
@@ -1178,6 +1176,7 @@ Bus/VAO,,,,way
 "Calle Alberto Sánchez",,,,way
 "Calle Albino Hernández Lázaro",,,,way
 "Calle Alborea",,,,way
+"Calle Alcalá",,,,relation
 "Calle Alcalá de Guadaira",,,,way
 "Calle Alcalde Alfonso Vázquez",,,,way
 "Calle Alcalde Juan de Mata Sevillano",,,,way
@@ -1265,7 +1264,6 @@ Bus/VAO,,,,way
 "Calle Antonio Vicent",,,,way
 "Calle Antonio Zapata",,,,way
 "Calle Antonio de Nebrija",,,,way
-"Calle Anzuola",,,,way
 "Calle Apolo",,,,way
 "Calle Aralar",,,,way
 "Calle Aralia",,,,way
@@ -1278,6 +1276,7 @@ Bus/VAO,,,,way
 "Calle Arbucias",,,,way
 "Calle Arcángel San Rafael",,,,way
 "Calle Archanda",,,,way
+"Calle Arenal",,,,way
 "Calle Arenal de Maudes",,,,way
 "Calle Arenas de Iguña",,,,way
 "Calle Aretha Franklin",,,,way
@@ -1357,9 +1356,7 @@ Bus/VAO,,,,way
 "Calle Basilio Paraíso",,,,way
 "Calle Batalla de Mulgberg",,,,way
 "Calle Batalla de Salamina",,,,way
-"Calle Batalla de Tesalia",,,,way
-"Calle Batalla de las Termópilas",,,,way
-"Calle Bausa",,,,way
+"Calle Bausá",,,,way
 "Calle Bayunca",,,,way
 "Calle Becerril de la Sierra",,,,way
 "Calle Begoña",,,,way
@@ -1403,7 +1400,6 @@ Bus/VAO,,,,way
 "Calle Borja",,,,way
 "Calle Boston",,,,way
 "Calle Botánico Mutis",,,,way
-"Calle Botica",,,,way
 "Calle Boyer",,,,way
 "Calle Braceros",,,,way
 "Calle Bremen",,,,way
@@ -1434,7 +1430,6 @@ Bus/VAO,,,,way
 "Calle Cadete Julio Llompart",,,,way
 "Calle Calahorra",,,,way
 "Calle Calamón",,,,way
-"Calle Calatrava",,,,way
 "Calle Calcio",,,,way
 "Calle Calderera",,,,way
 "Calle Calella",,,,way
@@ -1462,7 +1457,6 @@ Bus/VAO,,,,way
 "Calle Cangas de Narcea",,,,way
 "Calle Cangas de Onís",,,,way
 "Calle Cangrejo",,,,way
-"Calle Caños Viejos",,,,way
 "Calle Caños de San Pedro",,,,way
 "Calle Cantalapiedra",,,,way
 "Calle Canteras de las Peñuelas",,,,way
@@ -1631,7 +1625,6 @@ Bus/VAO,,,,way
 "Calle Corumbá",,,,way
 "Calle Costa del Sol",,,,way
 "Calle Costanilla de San Andrés",,,,way
-"Calle Costanilla de San Pedro",,,,way
 "Calle Costureras",,,,way
 "Calle Cristo de Limpias",,,,way
 "Calle Cristo de la Fe",,,,way
@@ -1709,7 +1702,6 @@ Bus/VAO,,,,way
 "Calle Domingo de Alboraya",,,,way
 "Calle Don Álvaro de Bazán",,,,way
 "Calle Don Justo",,,,way
-"Calle Don Pedro",,,,way
 "Calle Donato Bañares",,,,way
 "Calle Dondiego",,,,way
 "Calle Dora",,,,way
@@ -1718,7 +1710,6 @@ Bus/VAO,,,,way
 "Calle Dos Ríos",,,,way
 "Calle Dr. Larra y Cerezo",,,,way
 "Calle Dulcinea",,,,way
-"Calle Duque Tovar",,,,way
 "Calle Duque de Tamames",,,,way
 "Calle Duquesa Castrejón",,,,way
 "Calle Durán",,,,way
@@ -1746,7 +1737,6 @@ Bus/VAO,,,,way
 "Calle Eloisa de la Hera",,,,way
 "Calle Elvas",,,,way
 "Calle Elvira",,,,way
-"Calle Embajadores",,,,way
 "Calle Emeterio Castaños",,,,way
 "Calle Emigrantes",,,,way
 "Calle Emilio Domínguez",,,,way
@@ -1781,7 +1771,6 @@ Bus/VAO,,,,way
 "Calle Estigia",,,,way
 "Calle Estrecho de Gibraltar",,,,way
 "Calle Estrecho de Torres",,,,way
-"Calle Estrella Polar",,,,way
 "Calle Estudiantes",,,,way
 "Calle Etna",,,,way
 "Calle Eugenio Zubia",,,,way
@@ -1933,7 +1922,6 @@ Bus/VAO,,,,way
 "Calle Gonzalo de Céspedes",,,,way
 "Calle Gordolobo",,,,way
 "Calle Goyeneche",,,,way
-"Calle Grafal",,,,way
 "Calle Grama",,,,way
 "Calle Gran Avenida",,,,way
 "Calle Granaderos",,,,way
@@ -1997,7 +1985,6 @@ Bus/VAO,,,,way
 "Calle Huertas del Río",,,,way
 "Calle Humanes",,,,way
 "Calle Humildad",,,,way
-"Calle Humilladero",,,,way
 "Calle Hungría",,,,way
 "Calle Ibaiondo",,,,way
 "Calle Ignacio García",,,,way
@@ -2015,7 +2002,6 @@ Bus/VAO,,,,way
 "Calle Iridio",,,,way
 "Calle Iris",,,,way
 "Calle Irlanda",,,,way
-"Calle Irlandeses",,,,way
 "Calle Isaac Jiménez",,,,way
 "Calle Isandro",,,,way
 "Calle Isidro Dompablo",,,,way
@@ -2029,6 +2015,7 @@ Bus/VAO,,,,way
 "Calle Isla de Córcega",,,,way
 "Calle Isla de Nelson",,,,way
 "Calle Isla de Ons",,,,way
+"Calle Isla de Oza",,,,way
 "Calle Isla de Sálvora",,,,way
 "Calle Isla de Sicilia",,,,way
 "Calle Isla de Tabarca",,,,way
@@ -2051,7 +2038,6 @@ Bus/VAO,,,,way
 "Calle Javier Tusell",,,,way
 "Calle Javier de Miguel",,,,way
 "Calle Jericó",,,,way
-"Calle Jerte",,,,way
 "Calle Jesús Goldero",,,,way
 "Calle Jesús Jiménez",,,,way
 "Calle Jesús Méndez",,,,way
@@ -2184,7 +2170,6 @@ Bus/VAO,,,,way
 "Calle Llanes",,,,way
 "Calle Llansá",,,,way
 "Calle López Grass",,,,way
-"Calle López Silva",,,,way
 "Calle López de Aranda",,,,way
 "Calle Lorenzana",,,,way
 "Calle Loriga",,,,way
@@ -2194,7 +2179,6 @@ Bus/VAO,,,,way
 "Calle Lourdes",,,,way
 "Calle Lozano",,,,way
 "Calle Lozoyuela",,,,way
-"Calle Luciente",,,,way
 "Calle Luis Adaro",,,,way
 "Calle Luis Calvo",,,,way
 "Calle Luis Esteban",,,,way
@@ -2336,8 +2320,6 @@ Bus/VAO,,,,way
 "Calle Medidas",,,,way
 "Calle Medina de Pomar",,,,way
 "Calle Mediodía",,,,way
-"Calle Mediodía Chica",,,,way
-"Calle Mediodía Grande",,,,way
 "Calle Membrillo",,,,way
 "Calle Menchu Ajamil",,,,way
 "Calle Meneses",,,,way
@@ -2438,7 +2420,6 @@ Bus/VAO,,,,way
 "Calle Nuestra Señora del Rosario",,,,way
 "Calle Nueva Zelanda",,,,way
 "Calle Nueva de El Pardo",,,,way
-"Calle Nueva del Pardo",,,,way
 "Calle Nueve",,,,way
 "Calle Nuevo Baztán",,,,way
 "Calle Ochandiano",,,,way
@@ -2454,7 +2435,6 @@ Bus/VAO,,,,way
 "Calle Orcasitas",,,,way
 "Calle Orfebrería",,,,way
 "Calle Oriana",,,,way
-"Calle Oriente",,,,way
 "Calle Oro",,,,way
 "Calle Oroya",,,,way
 "Calle Osa Menor",,,,way
@@ -2559,7 +2539,6 @@ Bus/VAO,,,,way
 "Calle Pintor Domínguez",,,,way
 "Calle Pintor Francisco Llorens",,,,way
 "Calle Pintor Moreno Carbonero",,,,way
-"Calle Pintor el Greco",,,,way
 "Calle Piñuécar",,,,way
 "Calle Pío Felipe",,,,way
 "Calle Piquer",,,,way
@@ -2688,7 +2667,6 @@ Bus/VAO,,,,way
 "Calle Ribadelago",,,,way
 "Calle Ribadesella",,,,way
 "Calle Ricardo Calvo",,,,way
-"Calle Ricardo de Léon",,,,way
 "Calle Ricardo de la Vega",,,,way
 "Calle Ricla",,,,way
 "Calle Rincón de la Victoria",,,,way
@@ -2752,9 +2730,7 @@ Bus/VAO,,,,way
 "Calle San Arturo",,,,way
 "Calle San Aureliano",,,,way
 "Calle San Basilio",,,,way
-"Calle San Bernabé",,,,way
 "Calle San Braulio",,,,way
-"Calle San Buenaventura",,,,way
 "Calle San Casimiro",,,,way
 "Calle San Cayetano",,,,way
 "Calle San César",,,,way
@@ -2846,10 +2822,10 @@ Bus/VAO,,,,way
 "Calle Serafín Ramírez",,,,way
 "Calle Serrería",,,,way
 "Calle Servator",,,,way
+"Calle Sevilla",,,,way
 "Calle Sexta",,,,way
 "Calle Siderurgia",,,,way
 "Calle Siero",,,,way
-"Calle Sierpe",,,,way
 "Calle Sierra",,,,way
 "Calle Sierra Alcaraz",,,,way
 "Calle Sierra Algodonales",,,,way
@@ -2911,7 +2887,6 @@ Bus/VAO,,,,way
 "Calle Suertes de la Villa",,,,way
 "Calle Suiza",,,,way
 "Calle Tábara",,,,way
-"Calle Tabernillas",,,,way
 "Calle Tahona de las Descalzas",,,,way
 "Calle Tajo",,,,way
 "Calle Tajos Altos",,,,way
@@ -2940,7 +2915,6 @@ Bus/VAO,,,,way
 "Calle Teresa López Valcárcel",,,,way
 "Calle Tijola",,,,way
 "Calle Timoteo Martín",,,,way
-"Calle Tintoreros",,,,way
 "Calle Tirvia",,,,way
 "Calle Titania",,,,way
 "Calle Toboso",,,,way
@@ -2982,7 +2956,6 @@ Bus/VAO,,,,way
 "Calle Turia",,,,way
 "Calle Turquesa",,,,way
 "Calle Úbeda",,,,way
-"Calle Uncastillo",,,,way
 "Calle Undécima",,,,way
 "Calle Única",,,,way
 "Calle Uno",,,,way
@@ -2994,7 +2967,6 @@ Bus/VAO,,,,way
 "Calle Vainilla",,,,way
 "Calle Valdecanillas",,,,way
 "Calle Valdelaguna",,,,way
-"Calle Valdelasierra",,,,way
 "Calle Valdepeñas",,,,way
 "Calle Valderaduey",,,,way
 "Calle Valderrey",,,,way
@@ -3031,7 +3003,6 @@ Bus/VAO,,,,way
 "Calle Vélez-Málaga",,,,way
 "Calle Venta Vieja",,,,way
 "Calle Ventas",,,,way
-"Calle Ventosa",,,,way
 "Calle Ventura Díaz Bernardo",,,,way
 "Calle Venturada",,,,way
 "Calle Venus",,,,way
@@ -3110,7 +3081,6 @@ Bus/VAO,,,,way
 "Calle Yanguas",,,,way
 "Calle Yecla",,,,way
 "Calle Yerma",,,,way
-"Calle Yeseros",,,,way
 "Calle Yeste",,,,way
 "Calle Yuste",,,,way
 "Calle Zabalza",,,,way
@@ -3412,6 +3382,7 @@ Bus/VAO,,,,way
 "Calle de Antoniorrobles",,,,way
 "Calle de Antoñita Jiménez",,,,way
 "Calle de Anturio",,,,way
+"Calle de Anzuola",,,,way
 "Calle de Apodaca",,,,way
 "Calle de Apolonio Morales",,,,way
 "Calle de Aquilino Domínguez",,,,way
@@ -3603,7 +3574,6 @@ Bus/VAO,,,,way
 "Calle de Braille",,,,way
 "Calle de Braojos",,,,way
 "Calle de Braulio Gutiérrez",,,,way
-"Calle de Bravo Muriilo",,,,way
 "Calle de Brea de Tajo",,,,way
 "Calle de Breña",,,,way
 "Calle de Brihuega",,,,way
@@ -3761,7 +3731,6 @@ Bus/VAO,,,,way
 "Calle de Castuera",,,,way
 "Calle de Catalina de Austria",,,,way
 "Calle de Caunedo",,,,way
-"Calle de Cavanilles",,,,way
 "Calle de Cavanilles Particular",,,,way
 "Calle de Cayetano Pando",,,,way
 "Calle de Cazalegas",,,,way
@@ -4057,7 +4026,6 @@ Bus/VAO,,,,way
 "Calle de Fernán Núñez",,,,way
 "Calle de Fernández Cancela",,,,way
 "Calle de Fernández Caro",,,,way
-"Calle de Fernández de la Hoz",,,,way
 "Calle de Fernando Delgado",,,,way
 "Calle de Fernando Garrido",,,,way
 "Calle de Fernando Giráldez",,,,way
@@ -4098,7 +4066,6 @@ Bus/VAO,,,,way
 "Calle de Francisca Calonge",,,,way
 "Calle de Francisca Conde",,,,way
 "Calle de Francisca Condec",,,,way
-"Calle de Francisca Moreno",,,,way
 "Calle de Francisco Alcántara",,,,way
 "Calle de Francisco Altimiras",,,,way
 "Calle de Francisco Brizuela",,,,way
@@ -4121,6 +4088,7 @@ Bus/VAO,,,,way
 "Calle de Francisco Morejón",,,,way
 "Calle de Francisco Mosqueda",,,,way
 "Calle de Francisco Navacerrada",,,,way
+"Calle de Francisco Nieva",,,,way
 "Calle de Francisco Ordóñez",,,,way
 "Calle de Francisco Paino",,,,way
 "Calle de Francisco Palomo",,,,way
@@ -4186,7 +4154,6 @@ Bus/VAO,,,,way
 "Calle de Galiana",,,,way
 "Calle de Gallur",,,,way
 "Calle de Gálvez",,,,way
-"Calle de Gamínedes",,,,way
 "Calle de Gandía",,,,way
 "Calle de Gando",,,,way
 "Calle de Ganímedes",,,,way
@@ -4196,7 +4163,6 @@ Bus/VAO,,,,way
 "Calle de García Molinas",,,,way
 "Calle de García Quintanilla",,,,way
 "Calle de García Salazar",,,,way
-"Calle de García de Paredes",,,,way
 "Calle de García de la Parra",,,,way
 "Calle de Garcilaso",,,,way
 "Calle de Garellano",,,,way
@@ -4243,6 +4209,7 @@ Bus/VAO,,,,way
 "Calle de Gordolobo",,,,way
 "Calle de Gotarrendura",,,,way
 "Calle de Graena",,,,way
+"Calle de Grafal",,,,way
 "Calle de Granadilla",,,,way
 "Calle de Gravina",,,,way
 "Calle de Grazia Deledda",,,,way
@@ -4366,6 +4333,7 @@ Bus/VAO,,,,way
 "Calle de Jerez",,,,way
 "Calle de Jerez de los Caballeros",,,,way
 "Calle de Jerónimo de la Quintana",,,,way
+"Calle de Jerte",,,,way
 "Calle de Jerusalén",,,,way
 "Calle de Jesús",,,,way
 "Calle de Jesús Aprendiz",,,,way
@@ -4617,6 +4585,7 @@ Bus/VAO,,,,way
 "Calle de Lozano",,,,way
 "Calle de Lubian",,,,way
 "Calle de Lucas Mallada",,,,way
+"Calle de Luciente",,,,way
 "Calle de Lugo",,,,way
 "Calle de Luis Buitrago",,,,way
 "Calle de Luis Buñuel",,,,way
@@ -4801,7 +4770,6 @@ Bus/VAO,,,,way
 "Calle de Mayo",,,,way
 "Calle de Mazarambroz",,,,way
 "Calle de Medea",,,,way
-"Calle de Medellín",,,,way
 "Calle de Medina Sidonia",,,,way
 "Calle de Medina del Campo",,,,way
 "Calle de Mejía Lequerica",,,,way
@@ -4890,7 +4858,6 @@ Bus/VAO,,,,way
 "Calle de Moratilla de Henares",,,,way
 "Calle de Moratines",,,,way
 "Calle de Moreja",,,,way
-"Calle de Morejón",,,,way
 "Calle de Morenés Arteaga",,,,way
 "Calle de Moreruela",,,,way
 "Calle de Móstoles",,,,way
@@ -4911,6 +4878,7 @@ Bus/VAO,,,,way
 "Calle de Nápoles",,,,way
 "Calle de Narcís Monturiol",,,,way
 "Calle de Natalia de Silva",,,,way
+"Calle de Nati Mistral",,,,way
 "Calle de Navacepilla",,,,way
 "Calle de Navahonda",,,,way
 "Calle de Navalafuente",,,,way
@@ -4988,6 +4956,7 @@ Bus/VAO,,,,way
 "Calle de Orfeo",,,,way
 "Calle de Orfila",,,,way
 "Calle de Orgaz",,,,way
+"Calle de Oriente",,,,way
 "Calle de Orio",,,,way
 "Calle de Orión",,,,way
 "Calle de Orizaba",,,,way
@@ -5218,7 +5187,6 @@ Bus/VAO,,,,way
 "Calle de Ricardo Damas",,,,way
 "Calle de Ricardo Gutiérrez",,,,way
 "Calle de Ricardo León",,,,way
-"Calle de Ricardo Léon",,,,way
 "Calle de Ricardo Ortiz",,,,way
 "Calle de Ricardo San Juan",,,,way
 "Calle de Ricardo Sepúlveda",,,,way
@@ -5281,9 +5249,9 @@ Bus/VAO,,,,way
 "Calle de Sagunto",,,,way
 "Calle de Sahagún",,,,way
 "Calle de Sáinz de la Calleja",,,,way
-"Calle de Salaberry",,,,way
 "Calle de Saldaña",,,,way
 "Calle de Salinas",,,,way
+"Calle de Sallaberry",,,,way
 "Calle de Salorino",,,,way
 "Calle de Salou",,,,way
 "Calle de Salvador Allende",,,,way
@@ -5314,10 +5282,12 @@ Bus/VAO,,,,way
 "Calle de San Basilio",,,,way
 "Calle de San Benigno",,,,way
 "Calle de San Benito",,,,way
+"Calle de San Bernabé",,,,way
 "Calle de San Bernardino",,,,way
 "Calle de San Blas",,,,way
 "Calle de San Bonifacio",,,,way
 "Calle de San Bruno",,,,way
+"Calle de San Buenaventura",,,,way
 "Calle de San Cándido",,,,way
 "Calle de San Canuto",,,,way
 "Calle de San Carlos",,,,way
@@ -5342,6 +5312,7 @@ Bus/VAO,,,,way
 "Calle de San Emeterio",,,,way
 "Calle de San Emilio",,,,way
 "Calle de San Enrique",,,,way
+"Calle de San Epifanio",,,,way
 "Calle de San Erasmo",,,,way
 "Calle de San Ernesto",,,,way
 "Calle de San Estanislao",,,,way
@@ -5380,7 +5351,6 @@ Bus/VAO,,,,way
 "Calle de San Juan de Mata",,,,way
 "Calle de San Juan de la Cruz",,,,way
 "Calle de San Juan de la Cuesta",,,,way
-"Calle de San Juan de la Mata",,,,way
 "Calle de San Juan de la Peña",,,,way
 "Calle de San Juan de la Salle",,,,way
 "Calle de San Justo",,,,way
@@ -5454,7 +5424,6 @@ Bus/VAO,,,,way
 "Calle de San Wesceslao",,,,way
 "Calle de San Zacarías",,,,way
 "Calle de San Zoilo",,,,way
-"Calle de Sánchez Barcáiztegui",,,,way
 "Calle de Sánchez Bustillo",,,,way
 "Calle de Sánchez Díaz",,,,way
 "Calle de Sánchez Pacheco",,,,way
@@ -5496,7 +5465,6 @@ Bus/VAO,,,,way
 "Calle de Santa Felicidad",,,,way
 "Calle de Santa Flora",,,,way
 "Calle de Santa Florencia",,,,way
-"Calle de Santa Francisca Javier Cabrini",,,,way
 "Calle de Santa Hortensia",,,,way
 "Calle de Santa Inés",,,,way
 "Calle de Santa Irene",,,,way
@@ -5573,6 +5541,7 @@ Bus/VAO,,,,way
 "Calle de Sierra Bascuña",,,,way
 "Calle de Sierra Carbonera",,,,way
 "Calle de Sierra Gádor",,,,way
+"Calle de Sierra Gorda",,,,way
 "Calle de Sierra Madrona",,,,way
 "Calle de Sierra de Meira",,,,way
 "Calle de Sigerico",,,,way
@@ -5617,6 +5586,7 @@ Bus/VAO,,,,way
 "Calle de Suero de Quiñones",,,,way
 "Calle de Suintila",,,,way
 "Calle de Tabatinga",,,,way
+"Calle de Tabernillas",,,,way
 "Calle de Tablada",,,,way
 "Calle de Taburiente",,,,way
 "Calle de Taconera",,,,way
@@ -5647,7 +5617,6 @@ Bus/VAO,,,,way
 "Calle de Teseo",,,,way
 "Calle de Teudis",,,,way
 "Calle de Thader",,,,way
-"Calle de Thaler",,,,way
 "Calle de Tiberíades",,,,way
 "Calle de Tiedra",,,,way
 "Calle de Tijuana",,,,way
@@ -5655,6 +5624,7 @@ Bus/VAO,,,,way
 "Calle de Tinamús",,,,way
 "Calle de Tineo",,,,way
 "Calle de Tintín y Milú",,,,way
+"Calle de Tintoreros",,,,way
 "Calle de Tirajana",,,,way
 "Calle de Tirma",,,,way
 "Calle de Titán",,,,way
@@ -5685,7 +5655,7 @@ Bus/VAO,,,,way
 "Calle de Torregalindo",,,,way
 "Calle de Torregrosa",,,,way
 "Calle de Torrejón de la Calzada",,,,way
-"Calle de Torrelaguna",,,,relation+way
+"Calle de Torrelaguna",,,,way
 "Calle de Torrelara",,,,way
 "Calle de Torremolinos",,,,way
 "Calle de Torres",,,,way
@@ -5718,6 +5688,7 @@ Bus/VAO,,,,way
 "Calle de Ulises",,,,way
 "Calle de Ulpiana Benito",,,,way
 "Calle de Umbría",,,,way
+"Calle de Uncastillo",,,,way
 "Calle de Urano",,,,way
 "Calle de Urgel",,,,way
 "Calle de Uría",,,,way
@@ -5731,7 +5702,6 @@ Bus/VAO,,,,way
 "Calle de Valdelasierra",,,,way
 "Calle de Valdelinares",,,,way
 "Calle de Valderrebollo",,,,way
-"Calle de Valderribas",,,,way
 "Calle de Valderrodrigo",,,,way
 "Calle de Valdesaz",,,,way
 "Calle de Valdespina",,,,way
@@ -5763,7 +5733,6 @@ Bus/VAO,,,,way
 "Calle de Vargas Heredia",,,,way
 "Calle de Vegafría",,,,way
 "Calle de Velayos",,,,way
-"Calle de Velilla",,,,way
 "Calle de Venancio Martín",,,,way
 "Calle de Ventura de la Vega",,,,way
 "Calle de Veracruz",,,,way
@@ -5792,7 +5761,6 @@ Bus/VAO,,,,way
 "Calle de Viella",,,,way
 "Calle de Viera y Clavijo",,,,way
 "Calle de Villa de Marín",,,,way
-"Calle de Villa de Milagros",,,,way
 "Calle de Villaamil",,,,way
 "Calle de Villacampa",,,,way
 "Calle de Villacañas",,,,way
@@ -5807,7 +5775,6 @@ Bus/VAO,,,,way
 "Calle de Villafuerte",,,,way
 "Calle de Villagarcía",,,,way
 "Calle de Villagarcía de Arosa",,,,way
-"Calle de Villagonzalo Pedernales",,,,way
 "Calle de Villajimena",,,,way
 "Calle de Villajoyosa",,,,way
 "Calle de Villalazán",,,,way
@@ -5857,6 +5824,7 @@ Bus/VAO,,,,way
 "Calle de Witiza",,,,way
 "Calle de Yarumal",,,,way
 "Calle de Yécora",,,,way
+"Calle de Yeseros",,,,way
 "Calle de Ynzengas",,,,way
 "Calle de Yocasta",,,,way
 "Calle de Yuca",,,,way
@@ -5893,7 +5861,6 @@ Bus/VAO,,,,way
 "Calle de la Alquimia",,,,way
 "Calle de la Amistad",,,,way
 "Calle de la Amnistía",,,,way
-"Calle de la Antracita",,,,way
 "Calle de la Araucaria",,,,way
 "Calle de la Arboleda",,,,way
 "Calle de la Arcilla",,,,way
@@ -5928,6 +5895,7 @@ Bus/VAO,,,,way
 "Calle de la Bola del Mundo",,,,way
 "Calle de la Bolsa",,,,way
 "Calle de la Botánica",,,,way
+"Calle de la Botica",,,,way
 "Calle de la Brisa",,,,way
 "Calle de la Brújula",,,,way
 "Calle de la Buenafuente",,,,way
@@ -5971,6 +5939,7 @@ Bus/VAO,,,,way
 "Calle de la Chirivita",,,,way
 "Calle de la Chumbera",,,,way
 "Calle de la Ciconia",,,,way
+"Calle de la Cigúeña",,,,way
 "Calle de la Ciruela",,,,way
 "Calle de la Ciudad Encantada",,,,way
 "Calle de la Ciudad Vieja de Cáceres",,,,way
@@ -6043,6 +6012,7 @@ Bus/VAO,,,,way
 "Calle de la Forsitia",,,,way
 "Calle de la Fortaleza",,,,way
 "Calle de la Fragata",,,,way
+"Calle de la Frambuesa",,,,way
 "Calle de la Fresa",,,,way
 "Calle de la Fuente",,,,way
 "Calle de la Fuente Carrantona",,,,way
@@ -6095,7 +6065,6 @@ Bus/VAO,,,,way
 "Calle de la Indulgencia",,,,way
 "Calle de la Industria",,,,way
 "Calle de la Infanta María Teresa",,,,way
-"Calle de la Infanta Mercedes",,,,way
 "Calle de la Innovación",,,,way
 "Calle de la Ínsula Barataria",,,,way
 "Calle de la Isabela",,,,way
@@ -6252,7 +6221,6 @@ Bus/VAO,,,,way
 "Calle de la Salud",,,,way
 "Calle de la Salvia",,,,way
 "Calle de la Santa Infancia",,,,way
-"Calle de la Santísima Trinidad",,,,way
 "Calle de la Sardineta",,,,way
 "Calle de la Saxífraga",,,,way
 "Calle de la Secoya",,,,way
@@ -6262,6 +6230,7 @@ Bus/VAO,,,,way
 "Calle de la Senda del Rey",,,,way
 "Calle de la Sepiolita",,,,way
 "Calle de la Siempreverde",,,,way
+"Calle de la Sierpe",,,,way
 "Calle de la Sierra Alta",,,,way
 "Calle de la Sierra Bullones",,,,way
 "Calle de la Sierra BullonesCalle del Mirto",,,,way
@@ -6320,6 +6289,7 @@ Bus/VAO,,,,way
 "Calle de la Universidad de Alcalá de Henares",,,,way
 "Calle de la Veleta",,,,way
 "Calle de la Venta de la Higuera",,,,way
+"Calle de la Ventosa",,,,way
 "Calle de la Verdad",,,,way
 "Calle de la Vereda",,,,way
 "Calle de la Vereda de la Cebolla",,,,way
@@ -6505,6 +6475,7 @@ Bus/VAO,,,,way
 "Calle de los Caminos",,,,way
 "Calle de los Campos de Castilla",,,,way
 "Calle de los Cañizares",,,,way
+"Calle de los Caños Viejos",,,,way
 "Calle de los Canteros",,,,way
 "Calle de los Carboneros",,,,way
 "Calle de los Carrascales",,,,way
@@ -6559,6 +6530,7 @@ Bus/VAO,,,,way
 "Calle de los Hidratos",,,,way
 "Calle de los Invencibles",,,,way
 "Calle de los Inventores",,,,way
+"Calle de los Irlandeses",,,,way
 "Calle de los Jardines de Aranjuez",,,,way
 "Calle de los Juglares",,,,way
 "Calle de los Lebreles",,,,way
@@ -6835,6 +6807,7 @@ Bus/VAO,,,,way
 "Calle del Concejal Francisco José Jiménez Martín",,,,way
 "Calle del Concejal Ginés Meléndez",,,,way
 "Calle del Concejal Julio Gómez",,,,way
+"Calle del Concejal Tomás Serrano Guío",,,,way
 "Calle del Concejal Victorino Granizo",,,,way
 "Calle del Concierto",,,,way
 "Calle del Conde",,,,way
@@ -6932,6 +6905,7 @@ Bus/VAO,,,,way
 "Calle del Duque de Nájera",,,,way
 "Calle del Duque de Osuna",,,,way
 "Calle del Duque de Sevilla",,,,way
+"Calle del Duque de Tovar",,,,way
 "Calle del Duratón",,,,way
 "Calle del Duro",,,,way
 "Calle del Ébano",,,,way
@@ -7006,11 +6980,11 @@ Bus/VAO,,,,way
 "Calle del Halcón",,,,way
 "Calle del Henares",,,,way
 "Calle del Heno",,,,way
-"Calle del Heroísimo",,,,way
 "Calle del Heroísmo",,,,way
 "Calle del Hinojo",,,,way
 "Calle del Hornero",,,,way
 "Calle del Horno de Labradores",,,,way
+"Calle del Humilladero",,,,way
 "Calle del Huracán",,,,way
 "Calle del Iceberg",,,,way
 "Calle del Infante",,,,way
@@ -7103,6 +7077,8 @@ Bus/VAO,,,,way
 "Calle del Mastelero",,,,way
 "Calle del Matadero",,,,way
 "Calle del Matadero Viejo",,,,way
+"Calle del Mediodía Chica",,,,way
+"Calle del Mediodía Grande",,,,way
 "Calle del Menta",,,,way
 "Calle del Mesón de Paños",,,,way
 "Calle del Metal",,,,way
@@ -7376,7 +7352,6 @@ Bus/VAO,,,,way
 "Calle del Timón",,,,way
 "Calle del Tinajo",,,,way
 "Calle del Titanio",,,,way
-"Calle del Toboso",,,,way
 "Calle del Tomillo",,,,way
 "Calle del Topacio",,,,way
 "Calle del Tordo",,,,way
@@ -7475,6 +7450,7 @@ Camarena,,,,way
 "Camino Viejo del Cura",,,,way
 "Camino Yeseros",,,,way
 "Camino a Coslada",,,,way
+"Camino de Ambroz",,,,way
 "Camino de Barrio de la Celsa",,,,way
 "Camino de Campamento",,,,way
 "Camino de Canillas",,,,way
@@ -7627,18 +7603,17 @@ Camarena,,,,way
 "Cauce Arroyo de la Zarza",,,,way
 "Cauce Arroyo del Rey",,,,way
 "Cementerio de La Paz",,,,way
-"Ciclo Carril Alcalá",,,,way
 "Circuito BMX",,,,way
 "Circuito El Bosque",,,,way
 "Circuito de Bicicross",,,,way
 "Claustro de las Cantigas",,,,relation
-"Clle peatonal",,,,way
 "Colonia Militar de Vicálvaro",,,,way
 "Colonia Torres Garrido",,,,way
 "Colonia de Lucentum",,,,way
+"Complejo Ciudad Sanitaria Doce de Octubre",,,,way
 "Complejo Militar Cuatro Vientos",,,,way
 "Conexión Anillo Verde / Carril Bici Villa de Vallecas",,,,way
-"Cordel de la Matapiñonera al Arroyo de la Vega  (Arco Verde)",,,,way
+"Cordel de la Matapiñonera al Arroyo de la Vega (Arco Verde)",,,,way
 "Corredera Alta de San Pablo",,,,way
 "Corredera Baja de San Pablo",,,,way
 "Costanilla de San Andrés",,,,way
@@ -7652,7 +7627,6 @@ Camarena,,,,way
 "Costanilla del Patriarca",,,,way
 "Cresta del Cuervo",,,,way
 "Cruce Peatonal",,,,way
-"Cruce de peatones",,,,way
 "Cuesta de Castro de Vigo",,,,way
 "Cuesta de Javalquinto",,,,way
 "Cuesta de Moyano",,,,way
@@ -7677,9 +7651,9 @@ Camarena,,,,way
 "Entrada a la Sala de Exposiciones",,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
-"Estación de Servicio Elíptica",,,,way
 "Explanada Multiusos Madrid Río",,,,way
 "Explanada de El Pardo",,,,way
+"Explanada de Puente del Rey",,,,relation
 "Federico García Sanchiz",,,,way
 "Fuente de la Mora",,,,way
 "Galería de Vallehermoso",,,,way
@@ -7689,7 +7663,6 @@ Camarena,,,,way
 "Glorieta Juan de Borbón y Battenberg",,,,way
 "Glorieta Mar de Cristal",,,,way
 "Glorieta Mariano Salvador Maella",,,,way
-"Glorieta Marqués de Vadillo",,,,way
 "Glorieta Mirador del Sur",,,,way
 "Glorieta Pradera de Corralillos",,,,way
 "Glorieta Pradera de Navalazor",,,,way
@@ -7697,6 +7670,7 @@ Camarena,,,,way
 "Glorieta Pradera de Navarrulaque",,,,way
 "Glorieta Puerta de los Carros",,,,way
 "Glorieta Ricardo Velázquez Bosco",,,,way
+"Glorieta de Adrián Piera Jiménez",,,,way
 "Glorieta de Alhabia",,,,way
 "Glorieta de Aníbal González",,,,way
 "Glorieta de Antonio Bonet",,,,way
@@ -7817,7 +7791,6 @@ Camarena,,,,way
 "Instalación Deportiva Municipal Básica Parque El Calero. Circuito de bicicletas",,,,way
 "Intercambiador Casa de Campo",,,,way
 "Intercambiador de Pavones",,,,way
-"Jardín Espíritu de Ermua",,,,way
 "Jardín Privado Isla de Chamartín",,,,way
 "Jardín de Portugalete",,,,way
 "Jardín de San Miguel",,,,way
@@ -7828,7 +7801,6 @@ Camarena,,,,way
 "La Lonja de Moratalaz",,,,way
 "La Plazoleta",,,,way
 "Luis Marín",,,,way
-M-31,,,,way
 M-50,,,,way
 Manresa,,,,way
 Moncloa,,,,way
@@ -8075,7 +8047,6 @@ Moncloa,,,,way
 "Plaza Cerro Castelo",,,,way
 "Plaza Cívica de Lucero",,,,way
 "Plaza Conde Benavente",,,,way
-"Plaza Cruz Latina",,,,way
 "Plaza Distrito Latina",,,,way
 "Plaza Domingo Mendizábal",,,,way
 "Plaza Dos Castillas",,,,way
@@ -8094,6 +8065,7 @@ Moncloa,,,,way
 "Plaza Isla de Lanzarote",,,,way
 "Plaza Italia",,,,way
 "Plaza Joan Miró",,,,way
+"Plaza Juan Muñoz Martín",,,,way
 "Plaza Maliciosa",,,,way
 "Plaza Manuel Escobar",,,,way
 "Plaza Mar del Plata",,,,way
@@ -8104,6 +8076,7 @@ Moncloa,,,,way
 "Plaza Mayor de Ciudad Pegaso",,,,way
 "Plaza Mayor de Villaverde",,,,way
 "Plaza Mesías",,,,way
+"Plaza Moncloa",,,,way
 "Plaza Navafría",,,,way
 "Plaza Norte",,,,way
 "Plaza Nuestra Señora de Loreto",,,,way
@@ -8127,15 +8100,12 @@ Moncloa,,,,way
 "Plaza San Cristóbal",,,,way
 "Plaza San Diego",,,,way
 "Plaza San Ignacio de Loyola",,,,way
-"Plaza Segovia Nueva",,,,way
-"Plaza Seis De Diciembre",,,,way
 "Plaza Seis de Diciembre",,,,way
 "Plaza Teniente de Alcalde Pérez Pillado",,,,way
 "Plaza Tres Esquinas",,,,way
 "Plaza Valsaín",,,,way
 "Plaza Valvanera",,,,way
 "Plaza Verano",,,,way
-"Plaza Virgen de la Capilla",,,,way
 "Plaza Virgen de la Paloma",,,,way
 "Plaza circular",,,,way
 "Plaza de Ágata",,,,way
@@ -8174,7 +8144,6 @@ Moncloa,,,,way
 "Plaza de Cibeles",,,,way
 "Plaza de Corpus Barga",,,,way
 "Plaza de Costa Rica",,,,way
-"Plaza de Cristina Arce y Rocío Oña",,,,way
 "Plaza de Cristo Rey",,,,way
 "Plaza de Cronos",,,,way
 "Plaza de Cuacos de Yuste",,,,way
@@ -8213,7 +8182,6 @@ Moncloa,,,,way
 "Plaza de La Rendición de Breda",,,,way
 "Plaza de Las Hilanderas",,,,way
 "Plaza de Las Meninas",,,,way
-"Plaza de Legazpi",,,,relation+way
 "Plaza de Leire",,,,way
 "Plaza de López de la Plata",,,,way
 "Plaza de Los Franciscanos",,,,way
@@ -8252,6 +8220,7 @@ Moncloa,,,,way
 "Plaza de Puerto Rubio",,,,way
 "Plaza de Quintana",,,,way
 "Plaza de Rabasa",,,,way
+"Plaza de Raffaella Carrà",,,,way
 "Plaza de Recajo",,,,way
 "Plaza de Remondo",,,,way
 "Plaza de Ricla",,,,way
@@ -8276,6 +8245,7 @@ Moncloa,,,,way
 "Plaza de Santa Paula Montal",,,,way
 "Plaza de Santa Teresita",,,,way
 "Plaza de Santiago",,,,way
+"Plaza de Segovia Nueva",,,,way
 "Plaza de Setúbal",,,,way
 "Plaza de Sierra Carbonera",,,,way
 "Plaza de Sierra Ministra",,,,way
@@ -8290,7 +8260,6 @@ Moncloa,,,,way
 "Plaza de Vilaflor",,,,way
 "Plaza de Villanubla",,,,way
 "Plaza de Vulcano",,,,way
-"Plaza de Zapola",,,,way
 "Plaza de la Achicoria",,,,way
 "Plaza de la América Española",,,,way
 "Plaza de la Angélica Señora",,,,way
@@ -8304,6 +8273,7 @@ Moncloa,,,,way
 "Plaza de la Constitución",,,,way
 "Plaza de la Convivencia",,,,way
 "Plaza de la Corrala",,,,way
+"Plaza de la Cruz Verde",,,,relation+way
 "Plaza de la Emperatriz",,,,way
 "Plaza de la Encarnación",,,,way
 "Plaza de la Fuente de las Cruces",,,,way
@@ -8321,10 +8291,10 @@ Moncloa,,,,way
 "Plaza de la Memoria Vinculante",,,,way
 "Plaza de la Meseta",,,,way
 "Plaza de la Moncloa",,,,way
+"Plaza de la Morería",,,,way
 "Plaza de la Orotava",,,,way
 "Plaza de la Paja",,,,way
 "Plaza de la Parroquia",,,,way
-"Plaza de la Prosperidad",,,,way
 "Plaza de la Puerta de Moros",,,,way
 "Plaza de la Puerta del Ángel",,,,way
 "Plaza de la Remonta",,,,relation+way
@@ -8334,7 +8304,6 @@ Moncloa,,,,way
 "Plaza de la Sierra Mágina",,,,way
 "Plaza de la Sierra de Ayllón",,,,way
 "Plaza de la Sierra de Grazalema",,,,way
-"Plaza de la Sierra del Caurel",,,,way
 "Plaza de la Sierra del Gistral",,,,way
 "Plaza de la Solidaridad",,,,way
 "Plaza de la Suite",,,,way
@@ -8344,21 +8313,20 @@ Moncloa,,,,way
 "Plaza de las Asambleas",,,,way
 "Plaza de las Ciencias",,,,way
 "Plaza de las Comendadoras",,,,way
-"Plaza de las Esclavas del Sagrado Corazón de Jesús",,,,way
 "Plaza de las Islas Azores",,,,way
 "Plaza de las Moreras",,,,way
 "Plaza de las Mujeres",,,,way
 "Plaza de las Olivas",,,,way
+"Plaza de las Piedras",,,,way
 "Plaza de las Promesas",,,,way
 "Plaza de las Salesas",,,,way
 "Plaza de las Sufragistas",,,,way
-"Plaza de las piedras",,,,way
 "Plaza de las promesas",,,,way
 "Plaza de los Artesanos",,,,way
 "Plaza de los Astros",,,,way
 "Plaza de los Capuchinos",,,,way
+"Plaza de los Cooperativistas",,,,way
 "Plaza de los Dávilas",,,,way
-"Plaza de los Emperadores",,,,way
 "Plaza de los Guardias de Corps",,,,relation
 "Plaza de los Mártires",,,,way
 "Plaza de los Metales",,,,way
@@ -8381,12 +8349,11 @@ Moncloa,,,,way
 "Plaza del Casón",,,,way
 "Plaza del Cazador",,,,way
 "Plaza del Cine",,,,way
-"Plaza del Colegio Ateneo Politécnico",,,,way
 "Plaza del Conde de Casal",,,,way
 "Plaza del Conde de Covatillas",,,,way
 "Plaza del Conde de Eleta",,,,way
 "Plaza del Conde del Valle Suchil",,,,way
-"Plaza del Cordón",,,,relation
+"Plaza del Cordón",,,,way
 "Plaza del Corregidor Alonso de Aguilar",,,,way
 "Plaza del Corregidor Alonso de Tobar",,,,way
 "Plaza del Corregidor Conde de Maceda y Taboada",,,,way
@@ -8417,7 +8384,6 @@ Moncloa,,,,way
 "Plaza del Oeste",,,,way
 "Plaza del Padre Llanos",,,,relation
 "Plaza del Parterre",,,,way
-"Plaza del Pensionista",,,,way
 "Plaza del Perú",,,,way
 "Plaza del Poeta Leopoldo de Luis",,,,relation
 "Plaza del Poeta Manuel del Palacio",,,,way
@@ -8438,17 +8404,18 @@ Moncloa,,,,way
 "Plazuela Virgen de la Estrella",,,,relation
 "Plazuela de Antonio Vega",,,,way
 "Plazuela de Lesya Ukrainka",,,,way
+"Plazuela de Lina Morgan",,,,way
 "Plazuela de Volodimir Zelensky",,,,way
 "Plazuela de la Memoria Trans",,,,way
-"Plazuela de la Obra",,,,way
 "Plazuela de las Comendadoras",,,,way
 "Pontona Norte Puente Toledo",,,,way
-"Presa 3",,,,way
-"Presa 4",,,,way
-"Presa 5",,,,way
-"Presa 6",,,,way
-"Presa 7",,,,way
-"Presa 8",,,,way
+"Presa Nº3",,,,way
+"Presa Nº4",,,,way
+"Presa Nº5",,,,way
+"Presa Nº6",,,,way
+"Presa Nº7",,,,way
+"Presa Nº8",,,,way
+"Presa Nº9",,,,way
 "Pretil de Santiesteban",,,,way
 "Profesor José García Santesmases",,,,way
 "Prolongación Avenida de Vicálvaro",,,,way
@@ -8479,9 +8446,13 @@ Moncloa,,,,way
 "Puente del Álamo Negro",,,,way
 "Puente del Ferrocarril",,,,way
 "Puente del Invernadero",,,,way
+"Puente del Matadero",,,,way
+"Puente del Principado de Andorra",,,,way
 "Puente del Rey",,,,way
 "Radial 3",,,,way
+"Raimundo Fernández Villaverde",,,,way
 "Real Jardín Botánico Alfonso XIII",,,,way
+"Reloj de sol",,,,way
 "Ribera de Curtidores",,,,way
 "Ronda Lago",,,,way
 "Ronda Sur",,,,way
@@ -8521,9 +8492,9 @@ Moncloa,,,,way
 "Senda del Paisaje",,,,way
 Sendero,,,,way
 "Sendero Arboreto Montes",,,,way
+"Sifón de El Pardo",,,,way
 "Subterráneo de Princesa a Santa Cruz de Marcenado",,,,way
 "TMNT - Licencia para Conducir",,,,way
-"Test Track",,,,way
 "Torre Panorama",,,,way
 "Trasera de los Herbolarios",,,,way
 "Travesía Alejandro Sánchez",,,,way
@@ -8621,7 +8592,6 @@ Sendero,,,,way
 "Travesía de la Gavia",,,,way
 "Travesía de la Gavia Seca",,,,way
 "Travesía de la Guitarra",,,,way
-"Travesía de la Infanta Mercedes",,,,way
 "Travesía de la Isla Formosa",,,,way
 "Travesía de la Isla de Java",,,,way
 "Travesía de la Parada",,,,way
@@ -8683,11 +8653,12 @@ Valdemaqueda,,,,way
 "Vía Ciclista de la Cuña de O'Donnell",,,,way
 "Vía Colectora A-2",,,,way
 "Vía Lusitana",,,,way
+"Vía Pecuaria",,,,way
 "Vía Verde de la Gasolina",,,,way
 "Vía de Dublín",,,,way
 "Vía de servicio Autovía de Colmenar",,,,way
 "Virgen de la Providencia",,,,way
-"calle skate park - m 30",,,,way
+"Zona de deportes bajo el puente Pedro Bosch",,,,way
 "camino interior",,,,way
 "camino interior colonia",,,,way
 "camino privado de la colonia",,,,way
@@ -8699,6 +8670,6 @@ escaleras_traseras,,,,way
 escalones_aulas,,,,way
 escalones_cafeteria,,,,way
 escalones_salon_actos,,,,way
-"madrid ifema circuit",,,,way
 "paseo de Carlos III",,,,way
+send,,,,way
 sendero,,,,way

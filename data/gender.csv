@@ -8,7 +8,6 @@ name,source,gender,wikidata,type
 "Calle Conchita Montenegro",wikidata,F,Q2991961,way
 "Calle Federica Montseny",wikidata,F,Q549307,way
 "Calle Infanta Catalina Micaela",wikidata,F,Q233187,way
-"Calle Isabel Tintero",wikidata,F,Q43673839,way
 "Calle Lorenza Correa",wikidata,F,Q1872294,way
 "Calle Marie Curie",wikidata,F,Q7186,way
 "Calle Santa Genoveva",wikidata,F,Q235863,way
@@ -23,11 +22,13 @@ name,source,gender,wikidata,type
 "Calle de Dulce Chacón",wikidata,F,Q466820,way
 "Calle de Estrellita Castro",wikidata,F,Q127643,way
 "Calle de Eugenia de Montijo",wikidata,F,Q157130,way
+"Calle de Francisca Moreno",wikidata,F,Q21849637,way
 "Calle de Gabriela Mistral",wikidata,F,Q80871,way
 "Calle de Imperio Argentina",wikidata,F,Q468806,way
 "Calle de Infanta María",wikidata,F,Q3847598,way
 "Calle de Isabel Clara Eugenia",wikidata,F,Q158256,way
 "Calle de Isabel La Católica",wikidata,F,Q45859,way
+"Calle de Isabel Tintero",wikidata,F,Q43673839,way
 "Calle de Isabel de Valois",wikidata,F,Q176041,way
 "Calle de Jerónima Llorente",wikidata,F,Q5929439,way
 "Calle de Juana Doña",wikidata,F,Q2876086,way
@@ -47,6 +48,7 @@ name,source,gender,wikidata,type
 "Calle de Santa Casilda",wikidata,F,Q1236283,way
 "Calle de Santa Elena",wikidata,F,Q170164,way
 "Calle de Santa Engracia",wikidata,F,Q18246552;Q26728109,way
+"Calle de Santa Francisca Javier Cabrini",wikidata,F,Q238983,way
 "Calle de Santa Genoveva",wikidata,F,Q235863,way
 "Calle de Santa María Micaela",wikidata,F,Q440077,way
 "Calle de Santa Rafaela María del Sagrado Corazón",wikidata,F,Q456796,way
@@ -55,17 +57,19 @@ name,source,gender,wikidata,type
 "Calle de Teresita González Quevedo",wikidata,F,Q20040146,way
 "Calle de Victoria Kent",wikidata,F,Q2743181,way
 "Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
+"Calle de la Infanta Mercedes",wikidata,F,Q218879,way
 "Calle de la Princesa de Kapurtala",wikidata,F,Q3394222,way
 "Glorieta de Pilar Miró",wikidata,F,Q75004,way
 "Paseo de la Reina Cristina",wikidata,F,Q538125,way
 "Plaza María Pignatelli",wikidata,F,Q52271507,way
 "Plaza Santa Bárbara",wikidata,F,Q192816,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
-"Plaza de Raffaella Carrà",wikidata,F,Q266640,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
 "Plaza de la Madre Molas",wikidata,F,Q445228,way
 "Plazuela de Ana Diosdado",wikidata,F,Q5673728,way
+"Travesía de la Infanta Mercedes",wikidata,F,Q218879,way
 "Avenida Blas de Lezo",wikidata,M,Q881760,way
+"Avenida Felipe II",wikidata,M,Q34417,way
 "Avenida Miguel Delibes",wikidata,M,Q157326,way
 "Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
 "Avenida de Felipe II",wikidata,M,Q34417,way
@@ -81,6 +85,7 @@ name,source,gender,wikidata,type
 "Avenida de San Fermín",wikidata,M,Q468206,way
 "Avenida de San Luis",wikidata,M,Q346,way
 "Avenida de Trajano",wikidata,M,Q1425,way
+"Avenida del Cardenal Herrera Oria",wikidata,M,Q251711,way
 "Avenida del Comandante Franco",wikidata,M,Q29179,way
 "Avenida del Doctor Federico Rubio y Galí",wikidata,M,Q5857841,way
 "Avenida del Doctor García Tapia",wikidata,M,Q5698437,way
@@ -131,7 +136,6 @@ name,source,gender,wikidata,type
 "Calle Padre Llanos",wikidata,M,Q9014535,way
 "Calle Paravicino",wikidata,M,Q648396,way
 "Calle Payaso Fofó",wikidata,M,Q3645440,way
-"Calle Pizarro",wikidata,M,Q44741,way
 "Calle Profesor Martín Almagro Basch",wikidata,M,Q3571486,way
 "Calle Profesor Waksman",wikidata,M,Q232308,way
 "Calle Ruiz de Alarcón",wikidata,M,Q356532,way
@@ -219,6 +223,7 @@ name,source,gender,wikidata,type
 "Calle de Ferenc Puskás",wikidata,M,Q482931,way
 "Calle de Fernán González",wikidata,M,Q443034,way
 "Calle de Fernández Silvestre",wikidata,M,Q3180734,way
+"Calle de Fernández de la Hoz",wikidata,M,Q5939674,way
 "Calle de Fernández de los Ríos",wikidata,M,Q6173153,way
 "Calle de Fernando Chueca Goitia",wikidata,M,Q322154,way
 "Calle de Fernando El Santo",wikidata,M,Q243122,way
@@ -240,6 +245,7 @@ name,source,gender,wikidata,type
 "Calle de Francos Rodríguez",wikidata,M,Q5846831,way
 "Calle de Fray Bernardino Sahagún",wikidata,M,Q379972,way
 "Calle de Galileo",wikidata,M,Q307,way
+"Calle de García de Paredes",wikidata,M,Q1624915,way
 "Calle de Gaztambide",wikidata,M,Q3177239,way
 "Calle de Gonzalo Torrente Ballester",wikidata,M,Q500546,way
 "Calle de Gonzalo de Berceo",wikidata,M,Q1156048,way
@@ -329,11 +335,12 @@ name,source,gender,wikidata,type
 "Calle de Miguel Ángel",wikidata,M,Q5592,way
 "Calle de Miguel Ángel Asturias",wikidata,M,Q75603,way
 "Calle de Modesto Lafuente",wikidata,M,Q627987,way
+"Calle de Morejón",wikidata,M,Q5698624,way
 "Calle de Moreno Nieto",wikidata,M,Q9014607,way
 "Calle de Mozart",wikidata,M,Q254,way
 "Calle de Murillo",wikidata,M,Q192062,way
 "Calle de Narciso Serra",wikidata,M,Q15839216,way
-"Calle de Narváez",wikidata,M,Q185551,way
+"Calle de Narváez",wikidata,M,Q185551;Q28936837,way
 "Calle de Nicasio Gallego",wikidata,M,Q720492,way
 "Calle de Nicolás Salmerón",wikidata,M,Q742660,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
@@ -353,6 +360,7 @@ name,source,gender,wikidata,type
 "Calle de Pérez Galdós",wikidata,M,Q189869,way
 "Calle de Pío Baroja",wikidata,M,Q220980,way
 "Calle de Pitágoras",wikidata,M,Q10261,way
+"Calle de Pizarro",wikidata,M,Q44741,way
 "Calle de Ponzano",wikidata,M,Q1588564,way
 "Calle de Prim",wikidata,M,Q379787,way
 "Calle de Rafael de León",wikidata,M,Q6098121,way
@@ -390,6 +398,7 @@ name,source,gender,wikidata,type
 "Calle de San Telesforo",wikidata,M,Q81647,way
 "Calle de San Valentín",wikidata,M,Q192151,way
 "Calle de San Vicente Ferrer",wikidata,M,Q317131,way
+"Calle de Sánchez Barcáiztegui",wikidata,M,Q9093474,way
 "Calle de Santiago Bernabéu",wikidata,M,Q223156,way
 "Calle de Santiago Rusiñol",wikidata,M,Q366930,way
 "Calle de Sebastián Elcano",wikidata,M,Q201510,way
@@ -462,6 +471,7 @@ name,source,gender,wikidata,type
 "Calle del Príncipe Carlos",wikidata,M,Q159817,way
 "Calle del Príncipe de Vergara",wikidata,M,Q434529,way
 "Calle del Teniente Coronel Noreña",wikidata,M,Q21971324,way
+"Glorieta Marqués de Vadillo",wikidata,M,Q5865116,way
 "Glorieta de Carlos Llamas",wikidata,M,Q3394154,way
 "Glorieta de Luis Rosales",wikidata,M,Q537776,way
 "Glorieta de Paco Martínez Soria",wikidata,M,Q150576,way
@@ -481,7 +491,6 @@ name,source,gender,wikidata,type
 "Paseo del General Martínez Campos",wikidata,M,Q548543,way
 "Paseo del Pintor Rosales",wikidata,M,Q615701,way
 "Plaza Antonio Garisa",wikidata,M,Q5698449,way
-"Plaza Murillo",wikidata,M,Q192062,relation
 "Plaza de Agustín González",wikidata,M,Q399284,way
 "Plaza de Alonso Martínez",wikidata,M,Q573875,way
 "Plaza de Andrés Manjón",wikidata,M,Q4760226,way
@@ -496,6 +505,7 @@ name,source,gender,wikidata,type
 "Plaza de Juan Benet",wikidata,M,Q706516,way
 "Plaza de Juan Goytisolo",wikidata,M,Q353762,way
 "Plaza de Manuel Becerra",wikidata,M,Q3393354,way
+"Plaza de Murillo",wikidata,M,Q192062,relation
 "Plaza de Nelson Mandela",wikidata,M,Q8023,way
 "Plaza de Ramón y Cajal",wikidata,M,Q150526,way
 "Plaza de Salvador Dalí",wikidata,M,Q5577,way
@@ -511,7 +521,6 @@ name,source,gender,wikidata,type
 "Plaza del Niño Jesús",wikidata,M,Q942467,way
 "Plazuela de Antón Martín",wikidata,M,Q5700573,way
 "Puente Enrique de la Mata Gorostizaga",wikidata,M,Q268599,way
-"Raimundo Fernández Villaverde",wikidata,M,Q959509,way
 "San Isidoro de Sevilla",wikidata,M,Q166876,way
 "Travesía de Andrés Mellado",wikidata,M,Q5675946,way
 "Travesía de Felipe de Diego",wikidata,M,Q5441962,way
