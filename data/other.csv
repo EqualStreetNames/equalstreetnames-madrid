@@ -329,7 +329,6 @@ Bucarest,wikidata,,Q19660,way
 "Calle de Denia",wikidata,,Q646725,way
 "Calle de Deva",wikidata,,Q1611504,way
 "Calle de Diana",wikidata,,Q132543,way
-"Calle de Doctor Cortezo",wikidata,,Q28031508,way
 "Calle de Dúrcal",wikidata,,Q559839,way
 "Calle de Echegaray",wikidata,,Q15788209,way
 "Calle de Écija",wikidata,,Q273413,way
@@ -1132,6 +1131,7 @@ M-45,wikidata,,Q3437370,way
 Bus-VAO,,,,way
 Bus/VAO,,,,way
 "Bypass Sur",,,,way
+"C:\ProgramData\anaconda3",,,,way
 "Calle Abada",,,,way
 "Calle Abanico",,,,way
 "Calle Abantos",,,,way
@@ -3044,7 +3044,6 @@ Bus/VAO,,,,way
 "Calle Villarrosa",,,,way
 "Calle Villarta",,,,way
 "Calle Villaverde a Perales del Río",,,,way
-"Calle Villuercas",,,,way
 "Calle Viña del Mar",,,,way
 "Calle Viñas del Pardo",,,,way
 "Calle Viñas del Río",,,,way
@@ -7812,6 +7811,7 @@ Moncloa,,,,way
 "Parque Avenida de los Poblados",,,,way
 "Parque Daniel Zuazo",,,,way
 "Parque Eugenia del Montijo",,,,way
+"Parque Farollillo",,,,way
 "Parque Pajaritos-Suárez",,,,way
 "Parque Santa Rita",,,,way
 "Parque Vista Alegre",,,,way
@@ -8103,6 +8103,7 @@ Moncloa,,,,way
 "Plaza Seis de Diciembre",,,,way
 "Plaza Teniente de Alcalde Pérez Pillado",,,,way
 "Plaza Tres Esquinas",,,,way
+"Plaza Tres Olivos",,,,way
 "Plaza Valsaín",,,,way
 "Plaza Valvanera",,,,way
 "Plaza Verano",,,,way
@@ -8131,6 +8132,7 @@ Moncloa,,,,way
 "Plaza de Basilea",,,,way
 "Plaza de Boston",,,,way
 "Plaza de Burdeos",,,,way
+"Plaza de Calicanto",,,,way
 "Plaza de Campo de Criptana",,,,way
 "Plaza de Carabanchel",,,,way
 "Plaza de Carabanchel Alto",,,,way
@@ -8255,6 +8257,7 @@ Moncloa,,,,way
 "Plaza de Tarifa",,,,way
 "Plaza de Tauste",,,,way
 "Plaza de Torcuato Fernández-Miranda",,,,way
+"Plaza de Toros de Las Ventas",,,,relation
 "Plaza de Tubilla",,,,way
 "Plaza de Valparaíso",,,,way
 "Plaza de Vilaflor",,,,way
@@ -8337,7 +8340,6 @@ Moncloa,,,,way
 "Plaza de los Pinazo",,,,way
 "Plaza de los Plátanos",,,,way
 "Plaza de los Tres Olivos",,,,way
-"Plaza de toros de Las Ventas",,,,relation
 "Plaza del Aguador",,,,way
 "Plaza del Alamillo",,,,way
 "Plaza del Alcalde Brell",,,,way
@@ -8481,9 +8483,9 @@ Moncloa,,,,way
 "Salida de emergencia A-6",,,,way
 "Salida de emergencia M-40",,,,way
 "Salón del Estanque",,,,way
-"San Claudio",,,,way
 "San Millán de la Cogolla",,,,way
 "Santa Escolastica",,,,way
+"Santuario de Nuestra Señora de Valverde",,,,way
 "Senda Real (GR-124)",,,,way
 "Senda Real - Dehesa de la Villa",,,,way
 "Senda de Casa Quemada",,,,way
