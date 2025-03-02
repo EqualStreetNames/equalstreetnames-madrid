@@ -1074,6 +1074,7 @@ M-45,wikidata,,Q3437370,way
 "Avenida de las Azaleas",,,,way
 "Avenida de las Comunidades",,,,way
 "Avenida de las Fuerzas Armadas",,,,way
+"Avenida de las Fuerzas Armadas (lateral)",,,,way
 "Avenida de las Glorietas",,,,way
 "Avenida de las Píceas",,,,way
 "Avenida de las Suertes",,,,way
@@ -2409,6 +2410,7 @@ Bus/VAO,,,,way
 "Calle Nobelio",,,,way
 "Calle Noez",,,,way
 "Calle Nogal",,,,way
+"Calle Norte",,,,way
 "Calle Novena",,,,way
 "Calle Nuestra Señora de Gracia",,,,way
 "Calle Nuestra Señora de Guadalupe",,,,way
@@ -3967,7 +3969,7 @@ Bus/VAO,,,,way
 "Calle de Esteban Palacios, 7",,,,way
 "Calle de Esteban de Arteaga",,,,way
 "Calle de Estébanez Calderón",,,,way
-"Calle de Estevez",,,,way
+"Calle de Estévez",,,,way
 "Calle de Estoril",,,,way
 "Calle de Estrasburgo",,,,way
 "Calle de Euclides",,,,way
@@ -4759,7 +4761,6 @@ Bus/VAO,,,,way
 "Calle de Mateo López",,,,way
 "Calle de Matílde González Estúa",,,,way
 "Calle de Matilde Hernández",,,,way
-"Calle de Matilde Landa",,,,way
 "Calle de Matilde Téllez",,,,way
 "Calle de Matillas",,,,way
 "Calle de Mauregato",,,,way
@@ -5222,7 +5223,6 @@ Bus/VAO,,,,way
 "Calle de Rosa de Silva",,,,way
 "Calle de Rosalía Trujillo",,,,way
 "Calle de Rosalía de Castro",,,,way
-"Calle de Rosario Pino",,,,way
 "Calle de Rosario Romero",,,,way
 "Calle de Rosendo Conde",,,,way
 "Calle de Roy",,,,way
@@ -5351,7 +5351,6 @@ Bus/VAO,,,,way
 "Calle de San Juan de la Cruz",,,,way
 "Calle de San Juan de la Cuesta",,,,way
 "Calle de San Juan de la Peña",,,,way
-"Calle de San Juan de la Salle",,,,way
 "Calle de San Justo",,,,way
 "Calle de San Laureano",,,,way
 "Calle de San Lázaro",,,,way
@@ -7602,6 +7601,7 @@ Camarena,,,,way
 "Cauce Arroyo de la Zarza",,,,way
 "Cauce Arroyo del Rey",,,,way
 "Cementerio de La Paz",,,,way
+"Centro Comercial Islazul",,,,way
 "Circuito BMX",,,,way
 "Circuito El Bosque",,,,way
 "Circuito de Bicicross",,,,way
@@ -7912,6 +7912,7 @@ Moncloa,,,,way
 "Pasarela Histórica Parque Arganzuela",,,,way
 "Pasarela Nudo Sur",,,,way
 "Pasarela Parque Manzanares Sur",,,,way
+"Pasarela Ramón de Aguinaga",,,,way
 "Pasarela Sur Puente de Praga",,,,way
 "Pasarela Sur Puente de la Princesa",,,,way
 "Pasarela de Almuñécar",,,,way
@@ -8195,6 +8196,7 @@ Moncloa,,,,way
 "Plaza de Manuel Rodrigo",,,,way
 "Plaza de Manuel de la Quintana",,,,way
 "Plaza de María Guerrero",,,,way
+"Plaza de María Juana Ontañón",,,,way
 "Plaza de Mariana Pineda",,,,way
 "Plaza de Mariano Lanuza",,,,way
 "Plaza de Mariano de Cavia",,,,way
@@ -8486,6 +8488,9 @@ Moncloa,,,,way
 "San Millán de la Cogolla",,,,way
 "Santa Escolastica",,,,way
 "Santuario de Nuestra Señora de Valverde",,,,way
+Security,,,,way
+"Security Control",,,,way
+"Security Control T3",,,,way
 "Senda Real (GR-124)",,,,way
 "Senda Real - Dehesa de la Villa",,,,way
 "Senda de Casa Quemada",,,,way
@@ -8496,7 +8501,10 @@ Sendero,,,,way
 "Sendero Arboreto Montes",,,,way
 "Sifón de El Pardo",,,,way
 "Subterráneo de Princesa a Santa Cruz de Marcenado",,,,way
+"T2 walkway",,,,way
+"T3 walkway",,,,way
 "TMNT - Licencia para Conducir",,,,way
+"To Passport Control",,,,way
 "Torre Panorama",,,,way
 "Trasera de los Herbolarios",,,,way
 "Travesía Alejandro Sánchez",,,,way
@@ -8675,3 +8683,4 @@ escalones_salon_actos,,,,way
 "paseo de Carlos III",,,,way
 send,,,,way
 sendero,,,,way
+"sendero a montecarmelo y centros hipica",,,,way

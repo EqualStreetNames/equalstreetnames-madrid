@@ -42,9 +42,11 @@ name,source,gender,wikidata,type
 "Calle de María Zayas",wikidata,F,Q2905689,way
 "Calle de María de Molina",wikidata,F,Q266025,way
 "Calle de María de Portugal",wikidata,F,Q230894,way
+"Calle de Matilde Landa",wikidata,F,Q16605380,way
 "Calle de Pastora Imperio",wikidata,F,Q3742020,way
 "Calle de Pilar Millán Astray",wikidata,F,Q18224305,way
 "Calle de Princesa de Éboli",wikidata,F,Q457676,way
+"Calle de Rosario Pino",wikidata,F,Q6112403,way
 "Calle de Santa Casilda",wikidata,F,Q1236283,way
 "Calle de Santa Elena",wikidata,F,Q170164,way
 "Calle de Santa Engracia",wikidata,F,Q18246552;Q26728109,way
@@ -389,6 +391,7 @@ name,source,gender,wikidata,type
 "Calle de San Hilario",wikidata,M,Q44344,way
 "Calle de San Isidoro de Sevilla",wikidata,M,Q166876,way
 "Calle de San Jorge",wikidata,M,Q48438,way
+"Calle de San Juan de la Salle",wikidata,M,Q312758,way
 "Calle de San Marcos",wikidata,M,Q31966,way
 "Calle de San Narciso",wikidata,M,Q828609,way
 "Calle de San Onofre",wikidata,M,Q464959,way
