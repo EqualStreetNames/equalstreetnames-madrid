@@ -904,6 +904,7 @@ M-45,wikidata,,Q3437370,way
 "Acceso Parque de la Elipa",,,,way
 "Acceso a la Colonia Marconi",,,,way
 "Acera Bici Serrano",,,,way
+"Aeropuerto T4 Salidas",,,,way
 "Anillo Distribuidor Cuatro Torres",,,,way
 "Antigua Carretera de la Dehesa de la Villa",,,,way
 "Antigua carretera M-301",,,,way
@@ -1268,7 +1269,6 @@ Bus/VAO,,,,way
 "Calle Apolo",,,,way
 "Calle Aralar",,,,way
 "Calle Aralia",,,,way
-"Calle Aramis",,,,way
 "Calle Aramunt",,,,way
 "Calle Arándiga",,,,way
 "Calle Aránzazu",,,,way
@@ -2445,6 +2445,7 @@ Bus/VAO,,,,way
 "Calle Oteruelo del Valle",,,,way
 "Calle Oxalis",,,,way
 "Calle Pablo Montesinos",,,,way
+"Calle Pablo Ortiz",,,,way
 "Calle Pablo Vidal",,,,way
 "Calle Pacorro",,,,way
 "Calle Padre Arrupe",,,,way
@@ -3395,6 +3396,7 @@ Bus/VAO,,,,way
 "Calle de Araiz",,,,way
 "Calle de Arama",,,,way
 "Calle de Aramayona",,,,way
+"Calle de Aramis",,,,way
 "Calle de Aramís",,,,way
 "Calle de Arandilla",,,,way
 "Calle de Aranzueque",,,,way
@@ -4661,6 +4663,7 @@ Bus/VAO,,,,way
 "Calle de Manuel Marchamalo",,,,way
 "Calle de Manuel Maroto",,,,way
 "Calle de Manuel Montero Vallejo",,,,way
+"Calle de Manuel Muiño Arroyo",,,,way
 "Calle de Manuel Muíño Arroyo",,,,way
 "Calle de Manuel Muñoz",,,,way
 "Calle de Manuel Noya",,,,way
@@ -5005,6 +5008,7 @@ Bus/VAO,,,,way
 "Calle de Paula de la Vega",,,,way
 "Calle de Pechuán",,,,way
 "Calle de Pedrafita do Cebreiro",,,,way
+"Calle de Pedreña",,,,way
 "Calle de Pedrezuela",,,,way
 "Calle de Pedro Alonso",,,,way
 "Calle de Pedro Barreda",,,,way
@@ -5985,6 +5989,7 @@ Bus/VAO,,,,way
 "Calle de la Encomienda de Palacios",,,,way
 "Calle de la Época",,,,way
 "Calle de la Ermita de la Soledad",,,,way
+"Calle de la Escala",,,,way
 "Calle de la Escalerilla de Piedra",,,,way
 "Calle de la Escalinata",,,,way
 "Calle de la Escuadra",,,,way
@@ -7600,6 +7605,7 @@ Camarena,,,,way
 "Cauce Arroyo de la Chopera",,,,way
 "Cauce Arroyo de la Zarza",,,,way
 "Cauce Arroyo del Rey",,,,way
+"Cementerio Parroquial San Sebastián Mártir",,,,way
 "Cementerio de La Paz",,,,way
 "Centro Comercial Islazul",,,,way
 "Circuito BMX",,,,way
@@ -7648,6 +7654,7 @@ Camarena,,,,way
 "Enlace de O'Donnell con R-3",,,,way
 "Entrada Sala de Estudio",,,,way
 "Entrada a la Sala de Exposiciones",,,,way
+"Entrada al Parque de las Cruces",,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
 "Explanada Multiusos Madrid Río",,,,way
@@ -7799,6 +7806,7 @@ Camarena,,,,way
 "La Gran Galería",,,,way
 "La Lonja de Moratalaz",,,,way
 "La Plazoleta",,,,way
+"Las Terrazas",,,,way
 "Luis Marín",,,,way
 M-50,,,,way
 Manresa,,,,way
@@ -7807,7 +7815,6 @@ Moncloa,,,,way
 "Nudo Sur",,,,way
 "Nudo de Manoteras",,,,way
 "Olimpio López",,,,way
-"Pablo Ortiz",,,,way
 "Parque Avenida de los Poblados",,,,way
 "Parque Daniel Zuazo",,,,way
 "Parque Eugenia del Montijo",,,,way
@@ -8018,6 +8025,7 @@ Moncloa,,,,way
 "Paseo de los Talleres",,,,way
 "Paseo del Canalillo",,,,way
 "Paseo del Comandante Fortea",,,,way
+"Paseo del Ecosistema",,,,way
 "Paseo del Embarcadero",,,,way
 "Paseo del Marqués de Monistrol",,,,way
 "Paseo del Marqués de Pontejos",,,,way
@@ -8182,6 +8190,7 @@ Moncloa,,,,way
 "Plaza de Juan Carlos Argüello Muelle",,,,way
 "Plaza de Juan Zorrilla",,,,way
 "Plaza de Juan de Malasaña",,,,way
+"Plaza de Julián Marías",,,,way
 "Plaza de La Rendición de Breda",,,,way
 "Plaza de Las Hilanderas",,,,way
 "Plaza de Las Meninas",,,,way
@@ -8266,6 +8275,7 @@ Moncloa,,,,way
 "Plaza de Villanubla",,,,way
 "Plaza de Vulcano",,,,way
 "Plaza de la Achicoria",,,,way
+"Plaza de la Alberca",,,,way
 "Plaza de la América Española",,,,way
 "Plaza de la Angélica Señora",,,,way
 "Plaza de la Artillería Antiaérea",,,,way
@@ -8336,6 +8346,7 @@ Moncloa,,,,way
 "Plaza de los Mártires",,,,way
 "Plaza de los Metales",,,,way
 "Plaza de los Mil Delegados",,,,way
+"Plaza de los Molinos",,,,way
 "Plaza de los Mostenses",,,,way
 "Plaza de los Navarros",,,,way
 "Plaza de los Pilares",,,,way
@@ -8373,7 +8384,7 @@ Moncloa,,,,way
 "Plaza del Este",,,,way
 "Plaza del General Maroto",,,,way
 "Plaza del Granado",,,,way
-"Plaza del Hidrógeno",,,,way
+"Plaza del Hidrogeno",,,,relation
 "Plaza del Humilladero",,,,way
 "Plaza del Liceo",,,,way
 "Plaza del Maestro Villa",,,,way
