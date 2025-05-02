@@ -995,9 +995,7 @@ M-45,wikidata,,Q3437370,way
 "Avenida de Gumersindo Llorente",,,,way
 "Avenida de Hellín",,,,way
 "Avenida de Joaquín Garrigues Walker",,,,way
-"Avenida de Joaquín Walker Garriges",,,,way
 "Avenida de José Antonio Corrales",,,,way
-"Avenida de Juan Andrés",,,,way
 "Avenida de Juan Antonio Samaranch",,,,way
 "Avenida de La Salmedina",,,,way
 "Avenida de La Verbena de la Paloma",,,,way
@@ -2855,7 +2853,6 @@ Bus/VAO,,,,way
 "Calle Sierra de Estrella",,,,way
 "Calle Sierra de Llerena",,,,way
 "Calle Sierra de Lucena",,,,way
-"Calle Sierra de Mira",,,,way
 "Calle Sierra de Monchique",,,,way
 "Calle Sierra de Pajarejo",,,,way
 "Calle Sierra de Peña Negra",,,,way
@@ -4705,7 +4702,6 @@ Bus/VAO,,,,way
 "Calle de María Malibrán",,,,way
 "Calle de María Martínez",,,,way
 "Calle de María Martínez Oviol",,,,way
-"Calle de María Moliner",,,,way
 "Calle de María Montessori",,,,way
 "Calle de María Nistal",,,,way
 "Calle de María Odiaga",,,,way
@@ -4846,7 +4842,6 @@ Bus/VAO,,,,way
 "Calle de Monteleón",,,,way
 "Calle de Monterde",,,,way
 "Calle de Montero Calvo",,,,way
-"Calle de Montes Alberes",,,,way
 "Calle de Montesa",,,,way
 "Calle de Monteverde",,,,way
 "Calle de Montoya",,,,way
@@ -5763,6 +5758,7 @@ Bus/VAO,,,,way
 "Calle de Viella",,,,way
 "Calle de Viera y Clavijo",,,,way
 "Calle de Villa de Marín",,,,way
+"Calle de Villa de los Milagros",,,,way
 "Calle de Villaamil",,,,way
 "Calle de Villacampa",,,,way
 "Calle de Villacañas",,,,way
@@ -5777,6 +5773,7 @@ Bus/VAO,,,,way
 "Calle de Villafuerte",,,,way
 "Calle de Villagarcía",,,,way
 "Calle de Villagarcía de Arosa",,,,way
+"Calle de Villagonzalo Pedernales",,,,way
 "Calle de Villajimena",,,,way
 "Calle de Villajoyosa",,,,way
 "Calle de Villalazán",,,,way
@@ -5886,6 +5883,8 @@ Bus/VAO,,,,way
 "Calle de la Basílica",,,,way
 "Calle de la Batalla de Farsalia",,,,way
 "Calle de la Batalla de Garellano",,,,way
+"Calle de la Batalla de Termópilas",,,,way
+"Calle de la Batalla de Tesalia",,,,way
 "Calle de la Batalla de Torrijos",,,,way
 "Calle de la Bella Altisidora",,,,way
 "Calle de la Beneficencia",,,,way
@@ -6256,6 +6255,7 @@ Bus/VAO,,,,way
 "Calle de la Sierra de Guadalupe",,,,way
 "Calle de la Sierra de Gúdar",,,,way
 "Calle de la Sierra de Javalambre",,,,way
+"Calle de la Sierra de Mira",,,,way
 "Calle de la Sierra de Palomeras",,,,way
 "Calle de la Sierra de Puerto Viejo",,,,way
 "Calle de la Sierra de Queija",,,,way
@@ -6554,6 +6554,7 @@ Bus/VAO,,,,way
 "Calle de los Mocetes",,,,way
 "Calle de los Molinos",,,,way
 "Calle de los Monasterios de Suso y Yuso",,,,way
+"Calle de los Montes Alberes",,,,way
 "Calle de los Montes de Barbanza",,,,way
 "Calle de los Montes de Toledo",,,,way
 "Calle de los Morales",,,,way
@@ -8044,7 +8045,6 @@ Moncloa,,,,way
 "Pista del Cristo del Pardo",,,,way
 "Placita de Marisa de Antonio",,,,way
 "Plaza Alhama de Almería",,,,way
-"Plaza Almunia",,,,way
 "Plaza Ángel Francés",,,,way
 "Plaza Anocibar",,,,way
 "Plaza Aratoca",,,,way
@@ -8276,6 +8276,7 @@ Moncloa,,,,way
 "Plaza de Vulcano",,,,way
 "Plaza de la Achicoria",,,,way
 "Plaza de la Alberca",,,,way
+"Plaza de la Almunia",,,,way
 "Plaza de la América Española",,,,way
 "Plaza de la Angélica Señora",,,,way
 "Plaza de la Artillería Antiaérea",,,,way
