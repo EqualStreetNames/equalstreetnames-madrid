@@ -28,6 +28,8 @@ name,source,gender,wikidata,type
 "Avenida de la Gran Vía de Hortaleza",wikidata,,Q1928529,way
 "Avenida de la Villa de Vallecas",wikidata,,Q1947988,way
 "Avenida de la Virgen del Carmen",wikidata,,Q1065053,way
+"Avenida de las Fuerzas Armadas",wikidata,,Q326991,way
+"Avenida de las Fuerzas Armadas (lateral)",wikidata,,Q326991,way
 "Avenida de las Trece Rosas",wikidata,,Q2663099,way
 "Avenida de los Fueros",wikidata,,Q5870496,way
 "Avenida de los Poblados",wikidata,,Q26795575,way
@@ -926,6 +928,7 @@ M-45,wikidata,,Q3437370,way
 "Avenida Complutense",,,,way
 "Avenida Cuarta",,,,way
 "Avenida Donostiarra",,,,way
+"Avenida Eje Central",,,,way
 "Avenida Emperatriz Isabel",,,,way
 "Avenida Fin de Semana",,,,way
 "Avenida Fuente de San Isidro",,,,way
@@ -945,6 +948,7 @@ M-45,wikidata,,Q3437370,way
 "Avenida Principal",,,,way
 "Avenida Provisional Gran Vía de Vicálvaro",,,,way
 "Avenida Puerta de Hierro",,,,way
+"Avenida Puerta de Toledo",,,,way
 "Avenida Quinta",,,,way
 "Avenida Real",,,,way
 "Avenida Real de Pinto",,,,way
@@ -996,13 +1000,14 @@ M-45,wikidata,,Q3437370,way
 "Avenida de Hellín",,,,way
 "Avenida de Joaquín Garrigues Walker",,,,way
 "Avenida de José Antonio Corrales",,,,way
-"Avenida de Juan Antonio Samaranch",,,,way
 "Avenida de La Salmedina",,,,way
 "Avenida de La Verbena de la Paloma",,,,way
 "Avenida de Las Águilas",,,,way
 "Avenida de Las Suertes",,,,way
+"Avenida de Legazpi",,,,way
 "Avenida de Levante",,,,way
 "Avenida de Machupichu",,,,way
+"Avenida de Madrid",,,,way
 "Avenida de Manoteras",,,,way
 "Avenida de Manuel Fraga Iribarne",,,,way
 "Avenida de Marconi",,,,way
@@ -1032,7 +1037,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida de San Diego",,,,way
 "Avenida de Santa Catalina",,,,way
 "Avenida de Santa Eugenia",,,,way
-"Avenida de Secundino Zuazo",,,,way
 "Avenida de Séneca",,,,way
 "Avenida de Sotopalacios",,,,way
 "Avenida de Trueba",,,,way
@@ -1072,8 +1076,6 @@ M-45,wikidata,,Q3437370,way
 "Avenida de la Victoria",,,,way
 "Avenida de las Azaleas",,,,way
 "Avenida de las Comunidades",,,,way
-"Avenida de las Fuerzas Armadas",,,,way
-"Avenida de las Fuerzas Armadas (lateral)",,,,way
 "Avenida de las Glorietas",,,,way
 "Avenida de las Píceas",,,,way
 "Avenida de las Suertes",,,,way
@@ -1132,6 +1134,14 @@ Bus-VAO,,,,way
 Bus/VAO,,,,way
 "Bypass Sur",,,,way
 "C:\ProgramData\anaconda3",,,,way
+"Calle 40",,,,way
+"Calle 42",,,,way
+"Calle 44",,,,way
+"Calle 45",,,,way
+"Calle 46",,,,way
+"Calle 48",,,,way
+"Calle 50",,,,way
+"Calle 52",,,,way
 "Calle Abada",,,,way
 "Calle Abanico",,,,way
 "Calle Abantos",,,,way
@@ -1724,6 +1734,14 @@ Bus/VAO,,,,way
 "Calle Egipto",,,,way
 "Calle Eibar",,,,way
 "Calle Einstein",,,,way
+"Calle Eje 11",,,,way
+"Calle Eje 3",,,,way
+"Calle Eje 4",,,,way
+"Calle Eje 5",,,,way
+"Calle Eje 6",,,,way
+"Calle Eje 7",,,,way
+"Calle Eje 8",,,,way
+"Calle Eje 9",,,,way
 "Calle El Berrueco",,,,way
 "Calle El Goloso",,,,way
 "Calle El Parral",,,,way
@@ -4491,7 +4509,6 @@ Bus/VAO,,,,way
 "Calle de Julio",,,,way
 "Calle de Julio Antonio",,,,way
 "Calle de Julio Calvo",,,,way
-"Calle de Julio Cano Lasso",,,,way
 "Calle de Julio Merino",,,,way
 "Calle de Julio Montero",,,,way
 "Calle de Julio Nombela",,,,way
@@ -6235,7 +6252,6 @@ Bus/VAO,,,,way
 "Calle de la Sierpe",,,,way
 "Calle de la Sierra Alta",,,,way
 "Calle de la Sierra Bullones",,,,way
-"Calle de la Sierra BullonesCalle del Mirto",,,,way
 "Calle de la Sierra Engarcerán",,,,way
 "Calle de la Sierra Espuña",,,,way
 "Calle de la Sierra Gádor",,,,way
@@ -7679,10 +7695,7 @@ Camarena,,,,way
 "Glorieta Ricardo Velázquez Bosco",,,,way
 "Glorieta de Adrián Piera Jiménez",,,,way
 "Glorieta de Alhabia",,,,way
-"Glorieta de Aníbal González",,,,way
 "Glorieta de Antonio Bonet",,,,way
-"Glorieta de Antonio Chenel ""Antoñete""",,,,way
-"Glorieta de Antonio Perpiñá",,,,way
 "Glorieta de Antonio Valdés González-Roldán",,,,way
 "Glorieta de Arcentales",,,,way
 "Glorieta de Butarque",,,,way
@@ -7694,10 +7707,8 @@ Camarena,,,,way
 "Glorieta de Doctor Luis Montes Mieza",,,,way
 "Glorieta de Edimburgo",,,,way
 "Glorieta de Elías Ahúja y Andría",,,,way
-"Glorieta de Fernando Arbós",,,,way
 "Glorieta de Francisco Bayeu y Subias",,,,way
 "Glorieta de Francisco Fernández Ordóñez",,,,way
-"Glorieta de Francisco Jareño",,,,way
 "Glorieta de Fuente de la Carra",,,,way
 "Glorieta de García Plaza",,,,way
 "Glorieta de Gracita Morales",,,,way
@@ -7718,7 +7729,6 @@ Camarena,,,,way
 "Glorieta de José María García de Paredes",,,,way
 "Glorieta de José Paz Maroto",,,,way
 "Glorieta de Juan de Haro",,,,way
-"Glorieta de Julián Otamendi",,,,way
 "Glorieta de Leopoldo Torres Balbás",,,,way
 "Glorieta de López de Hoyos",,,,way
 "Glorieta de Los Cármenes",,,,way
@@ -7735,7 +7745,6 @@ Camarena,,,,way
 "Glorieta de Manuel Dorado Saiz",,,,way
 "Glorieta de Manuel Muñoz Monasterio",,,,way
 "Glorieta de María Reina",,,,way
-"Glorieta de María de Villota",,,,way
 "Glorieta de Medusa",,,,way
 "Glorieta de Miguel Mihura",,,,way
 "Glorieta de Miguel Rubiales",,,,way
@@ -8357,6 +8366,7 @@ Moncloa,,,,way
 "Plaza del Aguador",,,,way
 "Plaza del Alamillo",,,,way
 "Plaza del Alcalde Brell",,,,way
+"Plaza del Alto de Extremadura",,,,way
 "Plaza del Amanecer en Méndez Álvaro",,,,way
 "Plaza del Baile",,,,way
 "Plaza del Biombo",,,,way
@@ -8416,7 +8426,6 @@ Moncloa,,,,way
 "Plaza del Sagrado Corazón de Jesús",,,,way
 "Plaza del Valle de la Jarosa",,,,way
 "Plaza del Vendimiador",,,,way
-"Plaza del alto de Extremadura",,,,way
 "Plazuela Virgen de la Estrella",,,,relation
 "Plazuela de Antonio Vega",,,,way
 "Plazuela de Lesya Ukrainka",,,,way

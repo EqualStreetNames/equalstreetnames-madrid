@@ -62,6 +62,7 @@ name,source,gender,wikidata,type
 "Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
 "Calle de la Infanta Mercedes",wikidata,F,Q218879,way
 "Calle de la Princesa de Kapurtala",wikidata,F,Q3394222,way
+"Glorieta de María de Villota",wikidata,F,Q236914,way
 "Glorieta de Pilar Miró",wikidata,F,Q75004,way
 "Paseo de la Reina Cristina",wikidata,F,Q538125,way
 "Plaza María Pignatelli",wikidata,F,Q52271507,way
@@ -77,6 +78,7 @@ name,source,gender,wikidata,type
 "Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
 "Avenida de Felipe II",wikidata,M,Q34417,way
 "Avenida de Francisco Pi y Margall",wikidata,M,Q450271,way
+"Avenida de Juan Antonio Samaranch",wikidata,M,Q171166,way
 "Avenida de Luis Aragonés",wikidata,M,Q576614,way
 "Avenida de Menéndez Pelayo",wikidata,M,Q716799,way
 "Avenida de Niceto Alcalá Zamora",wikidata,M,Q313785,way
@@ -87,6 +89,7 @@ name,source,gender,wikidata,type
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
 "Avenida de San Fermín",wikidata,M,Q468206,way
 "Avenida de San Luis",wikidata,M,Q346,way
+"Avenida de Secundino Zuazo",wikidata,M,Q3321038,way
 "Avenida de Trajano",wikidata,M,Q1425,way
 "Avenida del Cardenal Herrera Oria",wikidata,M,Q251711,way
 "Avenida del Comandante Franco",wikidata,M,Q29179,way
@@ -297,6 +300,7 @@ name,source,gender,wikidata,type
 "Calle de Juan de Urbieta",wikidata,M,Q6301337,way
 "Calle de Julián Gayarre",wikidata,M,Q1366357,way
 "Calle de Julio Camba",wikidata,M,Q593405,way
+"Calle de Julio Cano Lasso",wikidata,M,Q3391665,way
 "Calle de Julio Casares",wikidata,M,Q680431,way
 "Calle de Lagasca",wikidata,M,Q891966,way
 "Calle de León Felipe",wikidata,M,Q2076131,way
@@ -476,7 +480,13 @@ name,source,gender,wikidata,type
 "Calle del Príncipe de Vergara",wikidata,M,Q434529,way
 "Calle del Teniente Coronel Noreña",wikidata,M,Q21971324,way
 "Glorieta Marqués de Vadillo",wikidata,M,Q5865116,way
+"Glorieta de Aníbal González",wikidata,M,Q2857931,way
+"Glorieta de Antonio Chenel ""Antoñete""",wikidata,M,Q601545,way
+"Glorieta de Antonio Perpiñá",wikidata,M,Q62936123,way
 "Glorieta de Carlos Llamas",wikidata,M,Q3394154,way
+"Glorieta de Fernando Arbós",wikidata,M,Q5859195,way
+"Glorieta de Francisco Jareño",wikidata,M,Q5866077,way
+"Glorieta de Julián Otamendi",wikidata,M,Q5956173,way
 "Glorieta de Luis Rosales",wikidata,M,Q537776,way
 "Glorieta de Paco Martínez Soria",wikidata,M,Q150576,way
 "Glorieta de Quevedo",wikidata,M,Q201315,way
