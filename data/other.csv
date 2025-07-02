@@ -746,6 +746,7 @@ Bucarest,wikidata,,Q19660,way
 "Calle del Río",wikidata,,Q48781775,way
 "Calle del Río Ebro",wikidata,,Q10965,way
 "Calle del Río Nervión",wikidata,,Q14353,way
+"Calle del Río Sella",wikidata,,Q14513,way
 "Calle del Rodio",wikidata,,Q1087,way
 "Calle del Sacramento",wikidata,,Q26913064,way
 "Calle del Salitre",wikidata,,Q29550986,way
@@ -1531,6 +1532,7 @@ Bus/VAO,,,,way
 "Calle Castroverde",,,,way
 "Calle Catalina Suárez",,,,way
 "Calle Catedral de Burgos",,,,way
+"Calle Catedral de Cuenca",,,,way
 "Calle Catedral de Toledo",,,,way
 "Calle Catorce Olivas",,,,way
 "Calle Cauca",,,,way
@@ -3237,6 +3239,7 @@ Bus/VAO,,,,way
 "Calle de Alfredo Castro Camba",,,,way
 "Calle de Alfredo Marqueríe",,,,way
 "Calle de Algaba",,,,way
+"Calle de Algeciras",,,,way
 "Calle de Algemesí",,,,way
 "Calle de Algodre",,,,way
 "Calle de Algorta",,,,way
@@ -3446,6 +3449,7 @@ Bus/VAO,,,,way
 "Calle de Arriaza",,,,way
 "Calle de Arroyo del Charco del Pescador",,,,way
 "Calle de Arroyomolino",,,,way
+"Calle de Arrroyo de Fontarrón",,,,way
 "Calle de Artemisa",,,,way
 "Calle de Artenera",,,,way
 "Calle de Arturo Baldasano",,,,way
@@ -4422,6 +4426,7 @@ Bus/VAO,,,,way
 "Calle de Jose María Lozano Sainz",,,,way
 "Calle de José María Sánchez Silva",,,,way
 "Calle de José María de Castro",,,,way
+"Calle de José María del Boto",,,,way
 "Calle de José Massó",,,,way
 "Calle de José Maurelo",,,,way
 "Calle de José Miguel Guridi",,,,way
@@ -7312,7 +7317,6 @@ Bus/VAO,,,,way
 "Calle del Río Nela",,,,way
 "Calle del Río Paraná",,,,way
 "Calle del Río Salor",,,,way
-"Calle del Río Sella",,,,way
 "Calle del Risco de los Claveles",,,,way
 "Calle del Roble",,,,way
 "Calle del Rollo",,,,way
@@ -7810,7 +7814,6 @@ Camarena,,,,way
 "Jardín Privado Isla de Chamartín",,,,way
 "Jardín de Portugalete",,,,way
 "Jardín de San Miguel",,,,way
-"José María del Boto",,,,way
 "José Miguel Guridi",,,,way
 "Kilómetro 0 Anillo Verde Ciclista",,,,way
 "La Gran Galería",,,,way
@@ -7819,6 +7822,7 @@ Camarena,,,,way
 "Las Terrazas",,,,way
 "Luis Marín",,,,way
 M-50,,,,way
+MadRing,,,,way
 Manresa,,,,way
 Moncloa,,,,way
 "Nudo Norte",,,,way
@@ -8218,6 +8222,7 @@ Moncloa,,,,way
 "Plaza de Mariana Pineda",,,,way
 "Plaza de Mariano Lanuza",,,,way
 "Plaza de Mariano de Cavia",,,,way
+"Plaza de Martínez Olmedilla",,,,way
 "Plaza de Maslama al-Mayriti",,,,way
 "Plaza de Matacán",,,,way
 "Plaza de Menéndez Pelayo",,,,way
@@ -8469,6 +8474,7 @@ Moncloa,,,,way
 "Puente de las Siete Hermanas",,,,way
 "Puente de los Capuchinos",,,,way
 "Puente del Álamo Negro",,,,way
+"Puente del Corazón Partío",,,,way
 "Puente del Ferrocarril",,,,way
 "Puente del Invernadero",,,,way
 "Puente del Matadero",,,,way
@@ -8702,6 +8708,5 @@ escalones_aulas,,,,way
 escalones_cafeteria,,,,way
 escalones_salon_actos,,,,way
 "paseo de Carlos III",,,,way
-send,,,,way
 sendero,,,,way
 "sendero a montecarmelo y centros hipica",,,,way
