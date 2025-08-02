@@ -901,6 +901,7 @@ M-45,wikidata,,Q3437370,way
 "Túnel de Ríos Rosas",wikidata,,Q27267331,way
 "Viaducto de Segovia",wikidata,,Q6160850,way
 "(Arco Verde)",,,,way
+A-5,,,,way
 "A.S. Valdemingómez",,,,way
 "Acceso Anillo Distribuidor Cuatro Torres",,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
@@ -1157,6 +1158,7 @@ Bus/VAO,,,,way
 "Calle Acuarela",,,,way
 "Calle Acueducto",,,,way
 "Calle Acueducto de Segovia",,,,way
+"Calle Adam Smith",,,,way
 "Calle Adelina Patti",,,,way
 "Calle Adra",,,,way
 "Calle Adrada de Haza",,,,way
@@ -1660,6 +1662,7 @@ Bus/VAO,,,,way
 "Calle Daniel Segovia",,,,way
 "Calle Daniel Zuloaga",,,,way
 "Calle Daoíz",,,,way
+"Calle Darwin",,,,way
 "Calle David Lara",,,,way
 "Calle Décima",,,,way
 "Calle Decoradores",,,,way
@@ -1868,6 +1871,7 @@ Bus/VAO,,,,way
 "Calle Fray Juan Gil",,,,way
 "Calle Fresnedillas",,,,way
 "Calle Fresno Viejo",,,,way
+"Calle Freud",,,,way
 "Calle Frías",,,,way
 "Calle Fucsia",,,,way
 "Calle Fuenbellida",,,,way
@@ -1988,6 +1992,7 @@ Bus/VAO,,,,way
 "Calle Herrería",,,,way
 "Calle Higinio Rodríguez",,,,way
 "Calle Hilario Herranz Establos",,,,way
+"Calle Hobbes",,,,way
 "Calle Hoces de la Hermida",,,,way
 "Calle Hogar de Belén",,,,way
 "Calle Hojalatería",,,,way
@@ -2138,6 +2143,9 @@ Bus/VAO,,,,way
 "Calle Justina de la Fuente",,,,way
 "Calle Justo Dorado Dellmans",,,,way
 "Calle Justo Martínez",,,,way
+"Calle Kant",,,,way
+"Calle Kelsen",,,,way
+"Calle Keynes",,,,way
 "Calle La Escala",,,,way
 "Calle Labajos",,,,way
 "Calle Labradores",,,,way
@@ -2165,6 +2173,7 @@ Bus/VAO,,,,way
 "Calle Lavadero Viejo",,,,way
 "Calle Lavanderas",,,,way
 "Calle Laviana",,,,way
+"Calle Lavoisier",,,,way
 "Calle Legionario Poeta Queixa",,,,way
 "Calle Leira",,,,way
 "Calle Leiría",,,,way
@@ -2321,6 +2330,7 @@ Bus/VAO,,,,way
 "Calle Martínez Corrochano",,,,way
 "Calle Martínez Molina",,,,way
 "Calle Martínez de la Riva",,,,way
+"Calle Marx",,,,way
 "Calle Maseda",,,,way
 "Calle Matachel",,,,way
 "Calle Matapozuelos",,,,way
@@ -2420,6 +2430,7 @@ Bus/VAO,,,,way
 "Calle Nestares",,,,way
 "Calle Nevado del Cumbal",,,,way
 "Calle Nevado del Ruiz",,,,way
+"Calle Newton",,,,way
 "Calle Nicolás Arocena",,,,way
 "Calle Nicolás Cabrera",,,,way
 "Calle Nicolás Usera",,,,way
@@ -2601,6 +2612,7 @@ Bus/VAO,,,,way
 "Calle Pradoluengo",,,,way
 "Calle Pravia",,,,way
 "Calle Prensa",,,,way
+"Calle Primavera de Praga",,,,way
 "Calle Primera",,,,way
 "Calle Prímula",,,,way
 "Calle Principal",,,,way
@@ -2630,7 +2642,6 @@ Bus/VAO,,,,way
 "Calle Puerto de Canencia",,,,way
 "Calle Puerto de Corlite",,,,way
 "Calle Puerto de Costabona",,,,way
-"Calle Puerto de Cotos",,,,way
 "Calle Puerto de Miravete",,,,way
 "Calle Puerto de Pajares",,,,way
 "Calle Puerto de Panticosa",,,,way
@@ -3140,7 +3151,6 @@ Bus/VAO,,,,way
 "Calle de Aceuchal",,,,way
 "Calle de Aconcagua",,,,way
 "Calle de Acuario",,,,way
-"Calle de Adam Smith",,,,way
 "Calle de Adanero",,,,way
 "Calle de Adela Balboa",,,,way
 "Calle de Adelina Patti",,,,way
@@ -3848,7 +3858,6 @@ Bus/VAO,,,,way
 "Calle de Daoíz",,,,way
 "Calle de Darío Aparicio",,,,way
 "Calle de Darío Gazapo",,,,way
-"Calle de Darwin",,,,way
 "Calle de Demetrio López",,,,way
 "Calle de Demetrio Sánchez",,,,way
 "Calle de Deyanira",,,,relation+way
@@ -4266,6 +4275,7 @@ Bus/VAO,,,,way
 "Calle de Haendel",,,,way
 "Calle de Haití",,,,way
 "Calle de Heliófilo",,,,way
+"Calle de Herberto Gut",,,,way
 "Calle de Herce",,,,way
 "Calle de Herminio Puertas",,,,way
 "Calle de Hernán Cortés",,,,way
@@ -4284,7 +4294,6 @@ Bus/VAO,,,,way
 "Calle de Hinojal",,,,way
 "Calle de Hinojosa del Duque",,,,way
 "Calle de Hipólito Aragonés",,,,way
-"Calle de Hobbes",,,,way
 "Calle de Hoces de la Hermida",,,,way
 "Calle de Homero",,,,way
 "Calle de Honrubia",,,,way
@@ -4524,8 +4533,6 @@ Bus/VAO,,,,way
 "Calle de Justa García",,,,way
 "Calle de Justiniano",,,,way
 "Calle de Kant",,,,way
-"Calle de Kelsen",,,,way
-"Calle de Keynes",,,,way
 "Calle de La Acebeda",,,,way
 "Calle de La Alegría de la Huerta",,,,way
 "Calle de La Calesera",,,,way
@@ -4558,7 +4565,6 @@ Bus/VAO,,,,way
 "Calle de Las Once Vigas",,,,way
 "Calle de Las Pedroñeras",,,,way
 "Calle de Latoneros",,,,way
-"Calle de Lavoisier",,,,way
 "Calle de Lazaga",,,,way
 "Calle de Lazcano",,,,way
 "Calle de Leandro Silva",,,,way
@@ -4772,7 +4778,6 @@ Bus/VAO,,,,way
 "Calle de Martínez de Villergas",,,,way
 "Calle de Martínez de la Riva",,,,way
 "Calle de Maruja García Romero",,,,way
-"Calle de Marx",,,,way
 "Calle de Marzo",,,,way
 "Calle de Mascaraque",,,,way
 "Calle de Mataelpino",,,,way
@@ -7678,6 +7683,7 @@ Camarena,,,,way
 "Entrada al Parque de las Cruces",,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
+"Espacio peatonal Mª Luisa Suárez Roldán",,,,way
 "Explanada Multiusos Madrid Río",,,,way
 "Explanada de El Pardo",,,,way
 "Explanada de Puente del Rey",,,,relation
@@ -8144,6 +8150,7 @@ Moncloa,,,,way
 "Plaza de Andrés Segovia",,,,relation
 "Plaza de Andrés Soloaga",,,,way
 "Plaza de Ángel Carbajo",,,,way
+"Plaza de Ángel francés",,,,way
 "Plaza de Antonio María Segovia",,,,way
 "Plaza de Aragón",,,,way
 "Plaza de Armilla",,,,way
@@ -8518,6 +8525,7 @@ Moncloa,,,,way
 Security,,,,way
 "Security Control",,,,way
 "Security Control T3",,,,way
+"Senda Real",,,,way
 "Senda Real (GR-124)",,,,way
 "Senda Real - Dehesa de la Villa",,,,way
 "Senda de Casa Quemada",,,,way
