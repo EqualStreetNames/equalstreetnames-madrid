@@ -779,7 +779,6 @@ Bucarest,wikidata,,Q19660,way
 "Gran Vía",wikidata,,Q1324163,way
 "La Cañada Real de Merinas",wikidata,,Q5759517,way
 "La Cañada Real de Merinas o Galiana",wikidata,,Q5759517,way
-M-40,wikidata,,Q2872994,way
 M-45,wikidata,,Q3437370,way
 "Madrid Río",wikidata,,Q6062341,way
 "Pasaje de Ahillones",wikidata,,Q389434,way
@@ -1265,7 +1264,6 @@ Bus/VAO,,,,way
 "Calle Antonio Gómez Galiana",,,,way
 "Calle Antonio González Echarte",,,,way
 "Calle Antonio Maeso Joana",,,,way
-"Calle Antonio Mairena",,,,way
 "Calle Antonio Marcos",,,,way
 "Calle Antonio Mira de Amescua",,,,way
 "Calle Antonio Reig",,,,way
@@ -1481,7 +1479,6 @@ Bus/VAO,,,,way
 "Calle Caracoli",,,,way
 "Calle Caramuel",,,,way
 "Calle Caravaca",,,,way
-"Calle Carballino",,,,way
 "Calle Carbono",,,,way
 "Calle Carburo",,,,way
 "Calle Cardenal Solís",,,,way
@@ -1830,7 +1827,6 @@ Bus/VAO,,,,way
 "Calle Ferretería",,,,way
 "Calle Ferrocarril",,,,way
 "Calle Fidias",,,,way
-"Calle Figueras",,,,way
 "Calle Fivé",,,,way
 "Calle Flor de Lis",,,,way
 "Calle Flor de Pascua",,,,way
@@ -2109,7 +2105,6 @@ Bus/VAO,,,,way
 "Calle Juan García Hortelano",,,,way
 "Calle Juan José Bautista",,,,way
 "Calle Juan Limón",,,,way
-"Calle Juan Mazo",,,,way
 "Calle Juan Mieg",,,,way
 "Calle Juan Montalvo",,,,way
 "Calle Juan Pérez Almeida",,,,way
@@ -2196,7 +2191,6 @@ Bus/VAO,,,,way
 "Calle Lino",,,,way
 "Calle Litos",,,,way
 "Calle Llanes",,,,way
-"Calle Llansá",,,,way
 "Calle López Grass",,,,way
 "Calle López de Aranda",,,,way
 "Calle Lorenzana",,,,way
@@ -2213,7 +2207,6 @@ Bus/VAO,,,,way
 "Calle Luis Gómez",,,,way
 "Calle Luis Gutiérrez Soto",,,,way
 "Calle Luis López",,,,way
-"Calle Luis Marín",,,,way
 "Calle Luis Mitjans",,,,way
 "Calle Luis Pernas",,,,way
 "Calle Luis Sánchez Polack ""Tip""",,,,way
@@ -2462,7 +2455,6 @@ Bus/VAO,,,,way
 "Calle Ombú",,,,way
 "Calle Omega",,,,way
 "Calle Once",,,,way
-"Calle Ontaneda",,,,way
 "Calle Orcasitas",,,,way
 "Calle Orfebrería",,,,way
 "Calle Oriana",,,,way
@@ -2481,7 +2473,6 @@ Bus/VAO,,,,way
 "Calle Padre Claret",,,,way
 "Calle Padre Oltra",,,,way
 "Calle Padre Xifré",,,,way
-"Calle Palamós",,,,way
 "Calle Palanquinos",,,,way
 "Calle Palmeral de Elche",,,,way
 "Calle Palo de Rosa",,,,way
@@ -2725,7 +2716,6 @@ Bus/VAO,,,,way
 "Calle Río Uruguay",,,,way
 "Calle Río de la Plata",,,,way
 "Calle Rioconejos",,,,way
-"Calle Riojanos",,,,way
 "Calle Risco de Peloche",,,,way
 "Calle Risco del Pájaro",,,,way
 "Calle Roberto Domingo",,,,way
@@ -2767,7 +2757,6 @@ Bus/VAO,,,,way
 "Calle San Cayetano",,,,way
 "Calle San César",,,,way
 "Calle San Cipriano",,,,way
-"Calle San Claudio",,,,way
 "Calle San Cristóbal de la Laguna",,,,way
 "Calle San Daniel",,,,way
 "Calle San Diego",,,,way
@@ -3683,6 +3672,7 @@ Bus/VAO,,,,way
 "Calle de Caqueta",,,,way
 "Calle de Carabanchel Bajo",,,,way
 "Calle de Carabelos",,,,way
+"Calle de Carabias",,,,way
 "Calle de Carabías",,,,way
 "Calle de Caramanta",,,,way
 "Calle de Caramuel",,,,way
@@ -3717,7 +3707,6 @@ Bus/VAO,,,,way
 "Calle de Carlota O’Neill",,,,way
 "Calle de Carmelitas",,,,way
 "Calle de Carmen Amaya",,,,way
-"Calle de Carmen Barrios",,,,way
 "Calle de Carmen Bordiu",,,,way
 "Calle de Carmen Bravo Villasante",,,,way
 "Calle de Carmen Bruguera",,,,way
@@ -4072,6 +4061,7 @@ Bus/VAO,,,,way
 "Calle de Fernando VII",,,,way
 "Calle de Ferreira",,,,way
 "Calle de Ferrer del Río",,,,way
+"Calle de Figueras",,,,way
 "Calle de Filadelfia",,,,way
 "Calle de Filipinas",,,,way
 "Calle de Fina de Calderón",,,,way
@@ -4484,6 +4474,7 @@ Bus/VAO,,,,way
 "Calle de Juan José Martínez Seco",,,,way
 "Calle de Juan Julio Amor",,,,way
 "Calle de Juan Martínez Arroyo",,,,way
+"Calle de Juan Mazo",,,,way
 "Calle de Juan Montalvo",,,,way
 "Calle de Juan Navarro",,,,way
 "Calle de Juan Pascual",,,,way
@@ -4590,6 +4581,7 @@ Bus/VAO,,,,way
 "Calle de Linares",,,,way
 "Calle de Lira",,,,way
 "Calle de Litago",,,,way
+"Calle de Llansá",,,,way
 "Calle de Llodio",,,,way
 "Calle de Loeches",,,,way
 "Calle de Logrosán",,,,way
@@ -4628,6 +4620,7 @@ Bus/VAO,,,,way
 "Calle de Luis Feito",,,,way
 "Calle de Luis I",,,,way
 "Calle de Luis Larrainza",,,,way
+"Calle de Luis Marín",,,,way
 "Calle de Luis Martínez Feduchi",,,,way
 "Calle de Luis Missón",,,,way
 "Calle de Luis Moya Blanco",,,,way
@@ -4969,6 +4962,7 @@ Bus/VAO,,,,way
 "Calle de Oltra",,,,way
 "Calle de Oñate",,,,way
 "Calle de Onil",,,,way
+"Calle de Ontaneda",,,,way
 "Calle de Ontanilla",,,,way
 "Calle de Opón",,,,way
 "Calle de Oquendo",,,,way
@@ -5006,6 +5000,7 @@ Bus/VAO,,,,way
 "Calle de Paipa",,,,way
 "Calle de Pajarones",,,,way
 "Calle de Palacios",,,,way
+"Calle de Palamós",,,,way
 "Calle de Palazuelos",,,,way
 "Calle de Palencia",,,,way
 "Calle de Palermo",,,,way
@@ -5544,7 +5539,6 @@ Bus/VAO,,,,way
 "Calle de Selaya",,,,way
 "Calle de Selma Lagerloff",,,,way
 "Calle de Seminario de Nobles",,,,way
-"Calle de Señor Claudio",,,,way
 "Calle de Sepúlveda",,,,way
 "Calle de Sequeros",,,,way
 "Calle de Sequillo",,,,way
@@ -6143,6 +6137,7 @@ Bus/VAO,,,,way
 "Calle de la Madre Celeste",,,,way
 "Calle de la Madre Nazaria",,,,way
 "Calle de la Maestra Felisa Lozano",,,,way
+"Calle de la Maestra Justa Ferire",,,,way
 "Calle de la Magnesia",,,,way
 "Calle de la Mahonia",,,,way
 "Calle de la Malaquita",,,,way
@@ -6597,6 +6592,7 @@ Bus/VAO,,,,way
 "Calle de los Platillos",,,,way
 "Calle de los Quebrantos",,,,way
 "Calle de los Reyes",,,,way
+"Calle de los Riojanos",,,,way
 "Calle de los Riscos de Polanco",,,,way
 "Calle de los Rodeos",,,,way
 "Calle de los Sagrados Corazones",,,,way
@@ -7674,6 +7670,7 @@ Camarena,,,,way
 "Edificios Titanic",,,,relation
 "Eduardo Barreiros",,,,way
 "Eje Sureste",,,,way
+"El huesped del sevillano",,,,way
 "Enlace Anillo Verde Ciclista",,,,way
 "Enlace Embajadores-Acacias",,,,way
 "Enlace con M-40",,,,way
@@ -8058,6 +8055,7 @@ Moncloa,,,,way
 "Paseo del Santo",,,,way
 "Paseo del Zurrón",,,,way
 "Paso Elevado de Capuchinos",,,,way
+"Pista Canicas",,,,way
 "Pista de la Perdiguera",,,,way
 "Pista de los Caños de Manina",,,,way
 "Pista del Arroyo de Trofa",,,,way
@@ -8185,6 +8183,7 @@ Moncloa,,,,way
 "Plaza de Don Antonio de Andrés",,,,way
 "Plaza de Donoso",,,,way
 "Plaza de Eisenhower",,,,way
+"Plaza de El Pardo",,,,relation
 "Plaza de El Paular",,,,way
 "Plaza de El Salvador",,,,way
 "Plaza de Emilio Jiménez Millas",,,,way
@@ -8555,7 +8554,6 @@ Sendero,,,,way
 "Travesía Huerta del Obispo",,,,way
 "Travesía Islas Cabo Verde",,,,way
 "Travesía Juan Francisco",,,,way
-"Travesía Juan Mazo",,,,way
 "Travesía Juan Peñalver",,,,way
 "Travesía López de Aranda",,,,way
 "Travesía Macario Barja",,,,way
