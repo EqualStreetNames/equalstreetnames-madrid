@@ -1,4 +1,912 @@
 name,source,gender,wikidata,type
+"Anillo Verde Ciclista",wikidata,-,Q24036428,way
+"Autovía de Toledo",wikidata,-,Q789292,way
+"Autovía del Este",wikidata,-,Q789271,way
+"Autovía del Nordeste",wikidata,-,Q776532,way
+"Autovía del Norte",wikidata,-,Q789245,way
+"Autovía del Suroeste",wikidata,-,Q2744396,way
+"Avenida Camino de Santiago",wikidata,-,Q41150,way
+"Avenida Ensanche de Vallecas",wikidata,-,Q3847485,way
+"Avenida de América",wikidata,-,Q5686040,way
+"Avenida de Andalucía",wikidata,-,Q5783,way
+"Avenida de Betanzos",wikidata,-,Q671341,way
+"Avenida de Buenos Aires",wikidata,-,Q1486,way
+"Avenida de Daroca",wikidata,-,Q978587,way
+"Avenida de Filipinas",wikidata,-,Q928,way
+"Avenida de Guadalajara",wikidata,-,Q11953,way
+"Avenida de Jaca",wikidata,-,Q49581,relation+way
+"Avenida de La Gavia",wikidata,-,Q5706141,way
+"Avenida de Logroño",wikidata,-,Q14325,relation+way
+"Avenida de Monforte de Lemos",wikidata,-,Q818341,way
+"Avenida de Nazaret",wikidata,-,Q430776,way
+"Avenida de Niza",wikidata,-,Q33959,way
+"Avenida de Nuestra Señora de Fátima",wikidata,-,Q719524,relation+way
+"Avenida de Orcasur",wikidata,-,Q10341270,way
+"Avenida de Santo Domingo de la Calzada",wikidata,-,Q646564,way
+"Avenida de Valladolid",wikidata,-,Q8356,way
+"Avenida de la Ciudad de Barcelona",wikidata,-,Q1492,way
+"Avenida de la Gran Vía de Hortaleza",wikidata,-,Q1928529,way
+"Avenida de la Villa de Vallecas",wikidata,-,Q1947988,way
+"Avenida de la Virgen del Carmen",wikidata,-,Q1065053,way
+"Avenida de las Fuerzas Armadas",wikidata,-,Q326991,way
+"Avenida de las Fuerzas Armadas (lateral)",wikidata,-,Q326991,way
+"Avenida de las Trece Rosas",wikidata,-,Q2663099,way
+"Avenida de los Fueros",wikidata,-,Q5870496,way
+"Avenida de los Poblados",wikidata,-,Q26795575,way
+"Avenida del Parque de Palomeras Bajas",wikidata,-,Q10343902,way
+"Avenida del Planetario",wikidata,-,Q17622122,way
+"Bajos de Argüelles",wikidata,-,Q6392595,way
+Bucarest,wikidata,-,Q19660,way
+"Calle 30",wikidata,-,Q2606591,way
+"Calle Abárzuza",wikidata,-,Q1636186,way
+"Calle Abegondo",wikidata,-,Q318323,way
+"Calle Aguilar de Campoo",wikidata,-,Q398349,way
+"Calle Alabastro",wikidata,-,Q143447,way
+"Calle Alberche",wikidata,-,Q16513;Q77433,way
+"Calle Aldea del Fresno",wikidata,-,Q607467,way
+"Calle Alfa",wikidata,-,Q9659,way
+"Calle Algete",wikidata,-,Q472604,way
+"Calle Aljarafe",wikidata,-,Q1323868,way
+"Calle Almadén",wikidata,-,Q465085,way
+"Calle Almarza",wikidata,-,Q828668,way
+"Calle Almuradiel",wikidata,-,Q1632554,way
+"Calle Amapola",wikidata,-,Q146391,way
+"Calle Anunciación",wikidata,-,Q154326,way
+"Calle Aravaca",wikidata,-,Q26203094,way
+"Calle Arciniega",wikidata,-,Q587131,way
+"Calle Arenas del Rey",wikidata,-,Q550981,way
+"Calle Armónica",wikidata,-,Q51290,way
+"Calle Arpa",wikidata,-,Q47369,way
+"Calle Artajona",wikidata,-,Q1645743,way
+"Calle Arte Pop",wikidata,-,Q134147,way
+"Calle Atalaya",wikidata,-,Q107168510,way
+"Calle Balaguer",wikidata,-,Q696797,way
+"Calle Baleares",wikidata,-,Q5765,way
+"Calle Baños de Montemayor",wikidata,-,Q1646296,way
+"Calle Baños de Valdearados",wikidata,-,Q929461,way
+"Calle Belmez",wikidata,-,Q970766,way
+"Calle Benamejí",wikidata,-,Q975728,way
+"Calle Berenjena",wikidata,-,Q24666817,way
+"Calle Berlanga de Duero",wikidata,-,Q178684,way
+"Calle Bohonal",wikidata,-,Q1645052,way
+"Calle Bolaños",wikidata,-,Q1613546,way
+"Calle Borjas Blancas",wikidata,-,Q928006,way
+"Calle Botoneras",wikidata,-,Q28050982,way
+"Calle Bravo",wikidata,-,Q9705,way
+"Calle Bulgaria",wikidata,-,Q219,way
+"Calle Burgo de Osma",wikidata,-,Q485129,way
+"Calle Cabo de Creus",wikidata,-,Q1034193,way
+"Calle Campillo de Arenas",wikidata,-,Q780608,way
+"Calle Cardeña",wikidata,-,Q1645727,way
+"Calle Castiello de Jaca",wikidata,-,Q784295,way
+"Calle Catania",wikidata,-,Q1903,way
+"Calle Cazorla",wikidata,-,Q518339,way
+"Calle Cervantes",wikidata,-,Q20014008,way
+"Calle Cervera",wikidata,-,Q847011,way
+"Calle Charlie",wikidata,-,Q9820,way
+"Calle Chirivel",wikidata,-,Q1048769,way
+"Calle Cilantro",wikidata,-,Q41611,way
+"Calle Cirauqui",wikidata,-,Q206308,way
+"Calle Circón",wikidata,-,Q178928,way
+"Calle Cleopatra",wikidata,-,Q4430,way
+"Calle Concejo de Teverga",wikidata,-,Q692118,way
+"Calle Covaleda",wikidata,-,Q829758,way
+"Calle Cruz del Sur",wikidata,-,Q10542,way
+"Calle Cuevas de Almanzora",wikidata,-,Q1048762,way
+"Calle Delta",wikidata,-,Q9884,way
+"Calle Dresde",wikidata,-,Q1731,way
+"Calle Echo",wikidata,-,Q9907,way
+"Calle El Padrino",wikidata,-,Q47703,way
+"Calle Espinal",wikidata,-,Q476985,way
+"Calle Estella",wikidata,-,Q646620,way
+"Calle Estrella Denébola",wikidata,-,Q13015,way
+"Calle Estrella Shaula",wikidata,-,Q78603928,way
+"Calle Foxtrot",wikidata,-,Q9765,way
+"Calle Fuente del Berro",wikidata,-,Q5643968,way
+"Calle Garganta de los Montes",wikidata,-,Q1752777,way
+"Calle Glasgow",wikidata,-,Q4093,way
+"Calle Golf",wikidata,-,Q9739,way
+"Calle Granito",wikidata,-,Q41177,way
+"Calle Guadalcazar",wikidata,-,Q854460,way
+"Calle Guarromán",wikidata,-,Q1313369,way
+"Calle Guisona",wikidata,-,Q984645,way
+"Calle Historias de la Radio",wikidata,-,Q11682550;Q384397,way
+"Calle Hornachos",wikidata,-,Q1446441,way
+"Calle Hotel",wikidata,-,Q9914,way
+"Calle Huesa",wikidata,-,Q961110,way
+"Calle Ibor",wikidata,-,Q9071822,way
+"Calle Ibros",wikidata,-,Q1641651,way
+"Calle Imperial",wikidata,-,Q26913879,way
+"Calle India",wikidata,-,Q9893,way
+"Calle Isla Malaita",wikidata,-,Q641568,way
+"Calle La Hiruela",wikidata,-,Q1751945,way
+"Calle La Serna del Monte",wikidata,-,Q584772,way
+"Calle Lagartera",wikidata,-,Q1631982,way
+"Calle Leganés",wikidata,-,Q77433,way
+"Calle Licenciado Vidriera",wikidata,-,Q576188,way
+"Calle Luces de Bohemia",wikidata,-,Q3312512,way
+"Calle Maese Nicolás",wikidata,-,Q23807432,way
+"Calle Magacela",wikidata,-,Q1615390,way
+"Calle Martos",wikidata,-,Q695425,way
+"Calle Mayor",wikidata,-,Q1149052,way
+"Calle Mejorada del Campo",wikidata,-,Q1984852,way
+"Calle Melilla",wikidata,-,Q5831,way
+"Calle Mestanza",wikidata,-,Q1658049,way
+"Calle Mike",wikidata,-,Q9933,way
+"Calle Ministriles",wikidata,-,Q20021469,way
+"Calle Mira el Río Alta",wikidata,-,Q20021470,way
+"Calle Mira el Río Baja",wikidata,-,Q20021470,way
+"Calle Mojácar",wikidata,-,Q496968,way
+"Calle Monte de Montjuich",wikidata,-,Q1122701,way
+"Calle Montiel",wikidata,-,Q1610078,way
+"Calle Morena Clara",wikidata,-,Q22000247,way
+"Calle Navaleno",wikidata,-,Q516654,way
+"Calle Navarra",wikidata,-,Q4018,way
+"Calle Navarrete",wikidata,-,Q916230,way
+"Calle Nimes",wikidata,-,Q42807,way
+"Calle November",wikidata,-,Q9937,way
+"Calle Núremberg",wikidata,-,Q2090,way
+"Calle Ochagavia",wikidata,-,Q1780242,way
+"Calle Óscar",wikidata,-,Q9941,way
+"Calle Padilla de Duero",wikidata,-,Q2090529,way
+"Calle Panamá",wikidata,-,Q804,way
+"Calle Papa",wikidata,-,Q9946,way
+"Calle Peal",wikidata,-,Q1632828,way
+"Calle Peñarroya",wikidata,-,Q1406749,way
+"Calle Piano",wikidata,-,Q5994,way
+"Calle Pico Collarada",wikidata,-,Q960756,way
+"Calle Pico Moncayo",wikidata,-,Q2330837,way
+"Calle Pico de la Peña Golosa",wikidata,-,Q3571460,way
+"Calle Picos de Europa",wikidata,-,Q1141172,way
+"Calle Pinar del Rey",wikidata,-,Q10349788,way
+"Calle Pobla de Segur",wikidata,-,Q17172,way
+"Calle Portal de Belén",wikidata,-,Q31732,way
+"Calle Portugalete",wikidata,-,Q548441,way
+"Calle Pozohalcón",wikidata,-,Q1641619,way
+"Calle Pozuelo de Zarzón",wikidata,-,Q1630861,way
+"Calle Preciados",wikidata,-,Q5552155,way
+"Calle Puente la Reina",wikidata,-,Q372556,way
+"Calle Puerto Serrano",wikidata,-,Q1630881,way
+"Calle Puerto de Béjar",wikidata,-,Q1904694,way
+"Calle Puerto de la Cruz Verde",wikidata,-,Q9064624,way
+"Calle Puerto de la Morcuera",wikidata,-,Q960162,way
+"Calle Quebec",wikidata,-,Q9950,way
+"Calle Quintanapalla",wikidata,-,Q1642726,way
+"Calle Quintanavides",wikidata,-,Q1751255,way
+"Calle Rávena",wikidata,-,Q13364,way
+"Calle Regil",wikidata,-,Q964114,way
+"Calle República Checa",wikidata,-,Q213,way
+"Calle República Eslovaca",wikidata,-,Q214,way
+"Calle Reyes Magos",wikidata,-,Q51671,way
+"Calle Ribera de Curtidores",wikidata,-,Q5740938,way
+"Calle Riga",wikidata,-,Q1773,way
+"Calle Rímini",wikidata,-,Q13369,way
+"Calle Río Ulla",wikidata,-,Q14548,way
+"Calle Ruidera",wikidata,-,Q1657922,way
+"Calle Sabiote",wikidata,-,Q1641690,way
+"Calle San Esteban de Gormaz",wikidata,-,Q487352,way
+"Calle Sansón Carrasco",wikidata,-,Q6120178,way
+"Calle Santa María Real de Nieva",wikidata,-,Q139988,way
+"Calle Santo Domingo de Silos",wikidata,-,Q1766072,way
+"Calle Sarre",wikidata,-,Q1201,way
+"Calle Saxofón",wikidata,-,Q9798,way
+"Calle Seo de Urgel",wikidata,-,Q673412,way
+"Calle Sierra de Segura",wikidata,-,Q2651720,way
+"Calle Somontín",wikidata,-,Q1628474,way
+"Calle Tiempos Modernos",wikidata,-,Q45602,way
+"Calle Torregrosa",wikidata,-,Q1765412,way
+"Calle Toscana",wikidata,-,Q1273,way
+"Calle Totana",wikidata,-,Q338174,way
+"Calle Tristana",wikidata,-,Q1321880,way
+"Calle Valdemorillo",wikidata,-,Q10783,way
+"Calle Valldemosa",wikidata,-,Q832967,way
+"Calle Valle de Ansó",wikidata,-,Q6159057,way
+"Calle Valle de Cachemira",wikidata,-,Q2361576,way
+"Calle Valle de Mena",wikidata,-,Q1614774,way
+"Calle Valle de Tena",wikidata,-,Q3054031,way
+"Calle Valle del Baztán",wikidata,-,Q641755,way
+"Calle Velacho Alto",wikidata,-,Q10389572,way
+"Calle Velacho Bajo",wikidata,-,Q10389572,way
+"Calle Vélez Blanco",wikidata,-,Q576710,way
+"Calle Vigo",wikidata,-,Q8745,way
+"Calle Vilches",wikidata,-,Q684071,way
+"Calle Villa de Pons",wikidata,-,Q742473,way
+"Calle Villa de Rota",wikidata,-,Q15907,way
+"Calle Villa del Prado",wikidata,-,Q320398,way
+"Calle Villacarrillo",wikidata,-,Q1751217,way
+"Calle Viloria de la Rioja",wikidata,-,Q956438,way
+"Calle Viridiana",wikidata,-,Q852841,way
+"Calle Zinc",wikidata,-,Q758,way
+"Calle de Abertura",wikidata,-,Q1626839,way
+"Calle de Abizanda",wikidata,-,Q1656410,way
+"Calle de Abtao",wikidata,-,Q2984718,way
+"Calle de Acebedo",wikidata,-,Q26440,way
+"Calle de Achuri",wikidata,-,Q3752361,way
+"Calle de Ages",wikidata,-,Q399630,way
+"Calle de Aguilafuente",wikidata,-,Q1627434,way
+"Calle de Alameda del Valle",wikidata,-,Q1648402,way
+"Calle de Álava",wikidata,-,Q81801,way
+"Calle de Albalate del Arzobispo",wikidata,-,Q956425,way
+"Calle de Albania",wikidata,-,Q222,way
+"Calle de Albatana",wikidata,-,Q559221,way
+"Calle de Albuñuelas",wikidata,-,Q564780,way
+"Calle de Alcalá",wikidata,-,Q2424746,way
+"Calle de Alcaraz",wikidata,-,Q559140,way
+"Calle de Aldaya",wikidata,-,Q368431,way
+"Calle de Alfacar",wikidata,-,Q564768,way
+"Calle de Aliaga",wikidata,-,Q771314,way
+"Calle de Alicante",wikidata,-,Q11959,way
+"Calle de Alicún",wikidata,-,Q1358253,way
+"Calle de Almansa",wikidata,-,Q13930,way
+"Calle de Almorox",wikidata,-,Q326948,way
+"Calle de Alozaina",wikidata,-,Q1630229,way
+"Calle de Altea",wikidata,-,Q436491,way
+"Calle de Álvarez Gato",wikidata,-,Q20908815,way
+"Calle de Alzola",wikidata,-,Q8196902,way
+"Calle de Amaltea",wikidata,-,Q107785,way
+"Calle de Amaya",wikidata,-,Q2840919,way
+"Calle de Añastro",wikidata,-,Q10751118,way
+"Calle de Andalucía",wikidata,-,Q5783,way
+"Calle de Antequera",wikidata,-,Q572041,way
+"Calle de Aquiles",wikidata,-,Q41746,way
+"Calle de Aquitania",wikidata,-,Q1179,way
+"Calle de Aranjuez",wikidata,-,Q486792,way
+"Calle de Arapiles",wikidata,-,Q708580,way
+"Calle de Archidona",wikidata,-,Q920126,way
+"Calle de Arganda",wikidata,-,Q497692,way
+"Calle de Argumosa",wikidata,-,Q5740806,way
+"Calle de Arlabán",wikidata,-,Q44910881,way
+"Calle de Armenteros",wikidata,-,Q1651814,way
+"Calle de Arturo Soria",wikidata,-,Q8255504,way
+"Calle de Arzúa",wikidata,-,Q651676,way
+"Calle de Astorga",wikidata,-,Q465078,way
+"Calle de Atocha",wikidata,-,Q5492657,way
+"Calle de Austria",wikidata,-,Q40,way
+"Calle de Azagra",wikidata,-,Q1757486,way
+"Calle de Azuaga",wikidata,-,Q1368982,way
+"Calle de Bacares",wikidata,-,Q1157977,way
+"Calle de Bailén",wikidata,-,Q1364346,way
+"Calle de Barbastro",wikidata,-,Q502975,way
+"Calle de Barcelona",wikidata,-,Q27048338,way
+"Calle de Barranca",wikidata,-,Q2476592,way
+"Calle de Batres",wikidata,-,Q1647095,way
+"Calle de Beasain",wikidata,-,Q847130,way
+"Calle de Beire",wikidata,-,Q814864,way
+"Calle de Bélgica",wikidata,-,Q31,way
+"Calle de Berástegui",wikidata,-,Q1639406,way
+"Calle de Bercial",wikidata,-,Q1904737,way
+"Calle de Berdún",wikidata,-,Q8246625,way
+"Calle de Berilo",wikidata,-,Q103480,way
+"Calle de Betancunia",wikidata,-,Q830969,way
+"Calle de Biosca",wikidata,-,Q1901345,way
+"Calle de Boadilla del Camino",wikidata,-,Q592699,way
+"Calle de Boltaña",wikidata,-,Q891622,way
+"Calle de Bordadores",wikidata,-,Q24656602,way
+"Calle de Borgoña",wikidata,-,Q1173,way
+"Calle de Bretaña",wikidata,-,Q327,way
+"Calle de Briviesca",wikidata,-,Q1391501,way
+"Calle de Bucarest",wikidata,-,Q19660,way
+"Calle de Budapest",wikidata,-,Q1781,way
+"Calle de Buitrago de Lozoya",wikidata,-,Q1648730,way
+"Calle de Burguete",wikidata,-,Q5431,way
+"Calle de Cabanillas de la Sierra",wikidata,-,Q1772200,way
+"Calle de Cáceres",wikidata,-,Q15678,way
+"Calle de Cádiz",wikidata,-,Q15682,way
+"Calle de Calabria",wikidata,-,Q1458,way
+"Calle de Calasparra",wikidata,-,Q1313139,way
+"Calle de Caleruega",wikidata,-,Q848172,way
+"Calle de Campotéjar",wikidata,-,Q253744,way
+"Calle de Candilejas",wikidata,-,Q584509,way
+"Calle de Caolín",wikidata,-,Q908663,way
+"Calle de Capri",wikidata,-,Q173292,way
+"Calle de Carabaña",wikidata,-,Q664618,way
+"Calle de Caracas",wikidata,-,Q1533,way
+"Calle de Cardeñuela Riopico",wikidata,-,Q946310,way
+"Calle de Carretas",wikidata,-,Q5740952,way
+"Calle de Carrión de los Condes",wikidata,-,Q986557,way
+"Calle de Cartagena",wikidata,-,Q162615,way
+"Calle de Cartago",wikidata,-,Q6343,way
+"Calle de Casarabonela",wikidata,-,Q1630355,way
+"Calle de Casarrubuelos",wikidata,-,Q1772185,way
+"Calle de Caspe",wikidata,-,Q64010,way
+"Calle de Castalia",wikidata,-,Q170053,way
+"Calle de Cástor y Pólux",wikidata,-,Q190103,way
+"Calle de Cavanilles",wikidata,-,Q29051443,way
+"Calle de Cazorla",wikidata,-,Q518339,way
+"Calle de Cedaceros",wikidata,-,Q27051021,way
+"Calle de Cenicientos",wikidata,-,Q685764,way
+"Calle de Cestona",wikidata,-,Q1618393,way
+"Calle de Chantada",wikidata,-,Q1447512,way
+"Calle de Chipiona",wikidata,-,Q741749,way
+"Calle de Circe",wikidata,-,Q187602,way
+"Calle de Ciudad Real",wikidata,-,Q15093,way
+"Calle de Cobos de Segovia",wikidata,-,Q5775756,way
+"Calle de Corella",wikidata,-,Q550407,way
+"Calle de Corral de Almaguer",wikidata,-,Q598148,way
+"Calle de Cracovia",wikidata,-,Q31487,way
+"Calle de Crevillente",wikidata,-,Q1616611,way
+"Calle de Cuchilleros",wikidata,-,Q29005894,way
+"Calle de Cuevas Bajas",wikidata,-,Q1630277,way
+"Calle de Cuevas del Almanzora",wikidata,-,Q1048762,way
+"Calle de Denia",wikidata,-,Q646725,way
+"Calle de Deva",wikidata,-,Q1611504,way
+"Calle de Diana",wikidata,-,Q132543,way
+"Calle de Dúrcal",wikidata,-,Q559839,way
+"Calle de Echegaray",wikidata,-,Q15788209,way
+"Calle de Écija",wikidata,-,Q273413,way
+"Calle de Egea",wikidata,-,Q817204,way
+"Calle de El Atazar",wikidata,-,Q1772153,way
+"Calle de El Barraco",wikidata,-,Q1618246,way
+"Calle de El Boalo",wikidata,-,Q1772163,way
+"Calle de El Salvador",wikidata,-,Q38366642,way
+"Calle de Elba",wikidata,-,Q45328,way
+"Calle de Elizondo",wikidata,-,Q3051309,way
+"Calle de Embajadores",wikidata,-,Q5740826,way
+"Calle de Esparta",wikidata,-,Q5690,way
+"Calle de Esparteros",wikidata,-,Q29525561,way
+"Calle de Espoz y Mina",wikidata,-,Q5740830,way
+"Calle de Estella",wikidata,-,Q646620,way
+"Calle de Estocolmo",wikidata,-,Q1754,way
+"Calle de Estremera",wikidata,-,Q1615876,way
+"Calle de Etreros",wikidata,-,Q5850183,way
+"Calle de Etruria",wikidata,-,Q206730,way
+"Calle de Eunate",wikidata,-,Q115941845,way
+"Calle de Fantasía",wikidata,-,Q943192,way
+"Calle de Finisterre",wikidata,-,Q732090,way
+"Calle de Finlandia",wikidata,-,Q33,way
+"Calle de Fitero",wikidata,-,Q1773030,way
+"Calle de Fraga",wikidata,-,Q904212,way
+"Calle de Francfort",wikidata,-,Q1794,way
+"Calle de Fresno de Cantespino",wikidata,-,Q1939147,way
+"Calle de Frigiliana",wikidata,-,Q944137,way
+"Calle de Frómista",wikidata,-,Q988834,way
+"Calle de Fúcar",wikidata,-,Q20908825,way
+"Calle de Fuencarral",wikidata,-,Q5740840,way
+"Calle de Fuenlabrada",wikidata,-,Q54902,way
+"Calle de Fuenterrabía",wikidata,-,Q492312,way
+"Calle de Fuentespina",wikidata,-,Q1633201,way
+"Calle de Furelos",wikidata,-,Q632003,way
+"Calle de Gainza",wikidata,-,Q1633877,way
+"Calle de Gales",wikidata,-,Q25,way
+"Calle de Gargantilla",wikidata,-,Q1643602,way
+"Calle de Génova",wikidata,-,Q24294474,way
+"Calle de Gerona",wikidata,-,Q7038,way
+"Calle de Ginzo de Limia",wikidata,-,Q918637,way
+"Calle de Granada",wikidata,-,Q8810,way
+"Calle de Grañón",wikidata,-,Q177714,way
+"Calle de Guadalajara",wikidata,-,Q11953,way
+"Calle de Guetaria",wikidata,-,Q849330,way
+"Calle de Helsinki",wikidata,-,Q1757,way
+"Calle de Honduras",wikidata,-,Q783,way
+"Calle de Hospital de Órbigo",wikidata,-,Q848293,way
+"Calle de Huesca",wikidata,-,Q11967,way
+"Calle de Ibiza",wikidata,-,Q52631,way
+"Calle de Ichaso",wikidata,-,Q1110918,way
+"Calle de Illora",wikidata,-,Q291752,way
+"Calle de Irún",wikidata,-,Q200201,way
+"Calle de Játiva",wikidata,-,Q738013,way
+"Calle de Jemenuño",wikidata,-,Q5929139,way
+"Calle de Jovellanos",wikidata,-,Q50227806,way
+"Calle de Juanelo",wikidata,-,Q28045186,way
+"Calle de La Adrada",wikidata,-,Q1606366,way
+"Calle de La Bañeza",wikidata,-,Q1442670,way
+"Calle de La Cabrera",wikidata,-,Q509056,way
+"Calle de La Cenicienta",wikidata,-,Q191753,way
+"Calle de La Coruña",wikidata,-,Q8757,way
+"Calle de La Diligencia",wikidata,-,Q50714,way
+"Calle de La Granja de San Ildefonso",wikidata,-,Q1125500,way
+"Calle de La Mancha",wikidata,-,Q844209,way
+"Calle de La Pueblanueva",wikidata,-,Q1628882,way
+"Calle de La Reina de África",wikidata,-,Q384397,way
+"Calle de La Violetera",wikidata,-,Q15270970,way
+"Calle de Lanjarón",wikidata,-,Q582995,way
+"Calle de Lavapiés",wikidata,-,Q19969082,way
+"Calle de Lecumberri",wikidata,-,Q1773037,way
+"Calle de Ledesma",wikidata,-,Q965028,way
+"Calle de Leganitos",wikidata,-,Q5740845,way
+"Calle de Leiza",wikidata,-,Q1648056,way
+"Calle de Lepanto",wikidata,-,Q165425,way
+"Calle de Lérida",wikidata,-,Q15090,way
+"Calle de Lesaca",wikidata,-,Q1647457,way
+"Calle de Ligonde",wikidata,-,Q905287,way
+"Calle de Lisboa",wikidata,-,Q597,way
+"Calle de Lituania",wikidata,-,Q37,way
+"Calle de Liverpool",wikidata,-,Q24826,way
+"Calle de Lodosa",wikidata,-,Q984882,way
+"Calle de Loja",wikidata,-,Q332989,way
+"Calle de Londres",wikidata,-,Q84,way
+"Calle de Longares",wikidata,-,Q1650702,way
+"Calle de Lope de Vega",wikidata,-,Q19800989,way
+"Calle de Lorca",wikidata,-,Q47571,way
+"Calle de Los Alpes",wikidata,-,Q1286,way
+"Calle de Los Madrazo",wikidata,-,Q29345542,way
+"Calle de Los Santos Inocentes",wikidata,-,Q1630061,way
+"Calle de Luchana",wikidata,-,Q3310734,way
+"Calle de Lumbrales",wikidata,-,Q1639439,way
+"Calle de Madrid",wikidata,-,Q2807,way
+"Calle de Málaga",wikidata,-,Q8851,way
+"Calle de Malmoe",wikidata,-,Q2211,way
+"Calle de Malpica de Tajo",wikidata,-,Q1606460,way
+"Calle de Mánchester",wikidata,-,Q18125,way
+"Calle de Marsella",wikidata,-,Q23482,way
+"Calle de Matamorosa",wikidata,-,Q6005712,way
+"Calle de Mazaterón",wikidata,-,Q5805098,way
+"Calle de Medellín",wikidata,-,Q668384,way
+"Calle de Melide",wikidata,-,Q912514,way
+"Calle de Melilla",wikidata,-,Q5831,way
+"Calle de Méndez Álvaro",wikidata,-,Q5553104,way
+"Calle de Menorca",wikidata,-,Q52636,way
+"Calle de Mequinenza",wikidata,-,Q837051,way
+"Calle de Miguel Servet",wikidata,-,Q52158635,way
+"Calle de Minerva",wikidata,-,Q126916,way
+"Calle de Mira el Sol",wikidata,-,Q25265930,way
+"Calle de Miranda de Arga",wikidata,-,Q1641891,way
+"Calle de Mogambo",wikidata,-,Q1122534,way
+"Calle de Mónaco",wikidata,-,Q235,way
+"Calle de Monóvar",wikidata,-,Q1645615,way
+"Calle de Montánchez",wikidata,-,Q1630109,way
+"Calle de Montevideo",wikidata,-,Q1335,way
+"Calle de Montpellier",wikidata,-,Q6441,way
+"Calle de Moratalla",wikidata,-,Q987450,way
+"Calle de Moratín",wikidata,-,Q24944024,way
+"Calle de Moscú",wikidata,-,Q649,way
+"Calle de Motril",wikidata,-,Q210093,way
+"Calle de Muñopedro",wikidata,-,Q1948833,way
+"Calle de Murcia",wikidata,-,Q12225,way
+"Calle de Nantes",wikidata,-,Q12191,way
+"Calle de Navamures",wikidata,-,Q6038953,way
+"Calle de Navascués",wikidata,-,Q776592,way
+"Calle de Nerja",wikidata,-,Q13149,way
+"Calle de Normandía",wikidata,-,Q15878,way
+"Calle de Noruega",wikidata,-,Q20,way
+"Calle de Novecento",wikidata,-,Q124697,way
+"Calle de Noviciado",wikidata,-,Q25212055,way
+"Calle de Nueva Caledonia",wikidata,-,Q33788,way
+"Calle de Numancia",wikidata,-,Q623407,way
+"Calle de Obanos",wikidata,-,Q984867,way
+"Calle de Oliana",wikidata,-,Q1644356,way
+"Calle de Olite",wikidata,-,Q837062,way
+"Calle de Oña",wikidata,-,Q1609760,way
+"Calle de Ordicia",wikidata,-,Q672483,way
+"Calle de Oreja",wikidata,-,Q598020,way
+"Calle de Órgiva",wikidata,-,Q293130,way
+"Calle de Oslo",wikidata,-,Q585,way
+"Calle de Oteiza",wikidata,-,Q682821,way
+"Calle de Padul",wikidata,-,Q605397,way
+"Calle de Palas de Rey",wikidata,-,Q842216,way
+"Calle de Palos de la Frontera",wikidata,-,Q622030,way
+"Calle de Pamplona",wikidata,-,Q10282,way
+"Calle de Paradinas",wikidata,-,Q6060782,way
+"Calle de Paredes de Nava",wikidata,-,Q919652,way
+"Calle de Pavía",wikidata,-,Q63468,way
+"Calle de Peña Labra",wikidata,-,Q8538642,way
+"Calle de Peña de Francia",wikidata,-,Q2438981,way
+"Calle de Peñaranda de Bracamonte",wikidata,-,Q679766,way
+"Calle de Periana",wikidata,-,Q732206,way
+"Calle de Pico Veleta",wikidata,-,Q1420262,way
+"Calle de Población de Campos",wikidata,-,Q986562,way
+"Calle de Ponferrada",wikidata,-,Q12164,way
+"Calle de Portomarín",wikidata,-,Q849319,way
+"Calle de Poza de la Sal",wikidata,-,Q1642806,way
+"Calle de Puentedey",wikidata,-,Q18689543,way
+"Calle de Puentelarra",wikidata,-,Q2744363,way
+"Calle de Puerto Rico",wikidata,-,Q1183,way
+"Calle de Puerto de Somport",wikidata,-,Q389859,way
+"Calle de Purchena",wikidata,-,Q1445232,way
+"Calle de Quevedo",wikidata,-,Q19798936,way
+"Calle de Quijorna",wikidata,-,Q1915141,way
+"Calle de Quintanadueñas",wikidata,-,Q6095113,way
+"Calle de Rabanal del Camino",wikidata,-,Q657882,way
+"Calle de Redecilla del Camino",wikidata,-,Q1012965,way
+"Calle de Reinosa",wikidata,-,Q671326,way
+"Calle de Ribadumia",wikidata,-,Q1631321,way
+"Calle de Ríos Rosas",wikidata,-,Q27267331,way
+"Calle de Rochapea",wikidata,-,Q2944629,way
+"Calle de Roma",wikidata,-,Q220,way
+"Calle de Rumanía",wikidata,-,Q218,way
+"Calle de Sabrina",wikidata,-,Q152493,way
+"Calle de Sajonia",wikidata,-,Q1202,way
+"Calle de Salamanca",wikidata,-,Q15695,way
+"Calle de Salobreña",wikidata,-,Q427330,way
+"Calle de Samaria",wikidata,-,Q1294629,way
+"Calle de San Cosme y San Damián",wikidata,-,Q76486,way
+"Calle de San Crispín",wikidata,-,Q1140213,way
+"Calle de San Juan de Ortega",wikidata,-,Q3471530,way
+"Calle de San Julián del Camino",wikidata,-,Q2220159,way
+"Calle de San Marino",wikidata,-,Q238,way
+"Calle de San Miguel del Camino",wikidata,-,Q2219827,way
+"Calle de San Millán de la Cogolla",wikidata,-,Q842220,way
+"Calle de San Pedro de Cardeña",wikidata,-,Q1024723,way
+"Calle de San Petersburgo",wikidata,-,Q656,way
+"Calle de San Quintín",wikidata,-,Q2066129,way
+"Calle de San Sebastián",wikidata,-,Q24940406,way
+"Calle de Sangarcía",wikidata,-,Q1938456,way
+"Calle de Sanlúcar de Barrameda",wikidata,-,Q210887,way
+"Calle de Santa Isabel",wikidata,-,Q2882669,way
+"Calle de Santa María la Real de Nieva",wikidata,-,Q139988,way
+"Calle de Santa Prisca",wikidata,-,Q426200,way
+"Calle de Santiago El Verde",wikidata,-,Q5861697,way
+"Calle de Santurce",wikidata,-,Q917886,way
+"Calle de Sarria",wikidata,-,Q174833,way
+"Calle de Sauceda",wikidata,-,Q6122139,way
+"Calle de Segovia",wikidata,-,Q15684;Q2807,way
+"Calle de Serranillos del Valle",wikidata,-,Q1772168,way
+"Calle de Sevilla",wikidata,-,Q20908843,way
+"Calle de Siena",wikidata,-,Q2751,way
+"Calle de Sierra Elvira",wikidata,-,Q5685282,way
+"Calle de Sierra de Atapuerca",wikidata,-,Q48782131,way
+"Calle de Siracusa",wikidata,-,Q13670,way
+"Calle de Sofía",wikidata,-,Q472,way
+"Calle de Sombrerete",wikidata,-,Q20021619,way
+"Calle de Somontín",wikidata,-,Q1628474,way
+"Calle de Suecia",wikidata,-,Q34,way
+"Calle de Suiza",wikidata,-,Q39,way
+"Calle de Talamanca del Jarama",wikidata,-,Q1641021,way
+"Calle de Talia",wikidata,-,Q108019,way
+"Calle de Teba",wikidata,-,Q1630260,way
+"Calle de Tenerife",wikidata,-,Q40846,way
+"Calle de Tetuán",wikidata,-,Q5740881,way
+"Calle de Tíscar",wikidata,-,Q6154577,way
+"Calle de Toledo",wikidata,-,Q5740883,way
+"Calle de Tolosa",wikidata,-,Q497801,way
+"Calle de Torreperogil",wikidata,-,Q1642300,way
+"Calle de Torrox",wikidata,-,Q13150,way
+"Calle de Totana",wikidata,-,Q338174,way
+"Calle de Trafalgar",wikidata,-,Q171416,way
+"Calle de Triacastela",wikidata,-,Q636874,way
+"Calle de Tribulete",wikidata,-,Q20021648,way
+"Calle de Troya",wikidata,-,Q22647,way
+"Calle de Turmalina",wikidata,-,Q179911,way
+"Calle de Uruguay",wikidata,-,Q77,way
+"Calle de Valcarlos",wikidata,-,Q524479,way
+"Calle de Valderribas",wikidata,-,Q29051503,way
+"Calle de Valderrobres",wikidata,-,Q1641285,way
+"Calle de Valencia",wikidata,-,Q26810468,way
+"Calle de Vallehermoso",wikidata,-,Q6122685,way
+"Calle de Valonia",wikidata,-,Q231,way
+"Calle de Vélez Rubio",wikidata,-,Q1110343,way
+"Calle de Velilla",wikidata,-,Q9019034,way
+"Calle de Vergara",wikidata,-,Q2996259,way
+"Calle de Versalles",wikidata,-,Q621,way
+"Calle de Vilar de Donas",wikidata,-,Q18376057,way
+"Calle de Villabona",wikidata,-,Q672876,way
+"Calle de Villalar",wikidata,-,Q2890338,way
+"Calle de Villaluenga de la Sagra",wikidata,-,Q584333,way
+"Calle de Villamanta",wikidata,-,Q1915133,way
+"Calle de Villamayor de Santiago",wikidata,-,Q1750918,way
+"Calle de Villasilos",wikidata,-,Q17745924,way
+"Calle de Villava",wikidata,-,Q600671,way
+"Calle de Villoslada",wikidata,-,Q7931124,way
+"Calle de Villuercas",wikidata,-,Q2996063,way
+"Calle de Vizcaya",wikidata,-,Q93366,way
+"Calle de Volver a Empezar",wikidata,-,Q1352930,way
+"Calle de Wad-Ras",wikidata,-,Q2890359,way
+"Calle de Ybarra",wikidata,-,Q1618296,way
+"Calle de Zagreb",wikidata,-,Q1435,way
+"Calle de Zalacaín",wikidata,-,Q11705460,way
+"Calle de Zamora",wikidata,-,Q15696,way
+"Calle de Zazuar",wikidata,-,Q1614622,way
+"Calle de Zorrilla",wikidata,-,Q29352014,way
+"Calle de Zurich",wikidata,-,Q72,way
+"Calle de Zurita",wikidata,-,Q29051010,way
+"Calle de la Alameda",wikidata,-,Q27224202,way
+"Calle de la Antracita",wikidata,-,Q182458,way
+"Calle de la Arganzuela",wikidata,-,Q16749876,way
+"Calle de la Batalla del Salado",wikidata,-,Q1792643,way
+"Calle de la Cabeza",wikidata,-,Q20908816,way
+"Calle de la Cava Alta",wikidata,-,Q28051271,way
+"Calle de la Cava Baja",wikidata,-,Q5740900,way
+"Calle de la Cava de San Miguel",wikidata,-,Q28051254,way
+"Calle de la Colegiata",wikidata,-,Q24702367,way
+"Calle de la Concepción Jerónima",wikidata,-,Q21072221,way
+"Calle de la Cordillera de Cuera",wikidata,-,Q5196829,way
+"Calle de la Costa Azul",wikidata,-,Q182822,way
+"Calle de la Cruz",wikidata,-,Q16659214,way
+"Calle de la Dalia",wikidata,-,Q130918,way
+"Calle de la Escuela de Vallecas",wikidata,-,Q1153335,way
+"Calle de la Esfinge",wikidata,-,Q151480,way
+"Calle de la Espada",wikidata,-,Q28006139,way
+"Calle de la Española",wikidata,-,Q25277,way
+"Calle de la Estrella Naos",wikidata,-,Q13200,way
+"Calle de la Fé",wikidata,-,Q26810252,way
+"Calle de la Flecha",wikidata,-,Q23996014,way
+"Calle de la Fuente del Berro",wikidata,-,Q5643968,way
+"Calle de la Giralda",wikidata,-,Q834479,way
+"Calle de la Huerta del Bayo",wikidata,-,Q42908465,way
+"Calle de la Ilíada",wikidata,-,Q8275,way
+"Calle de la Isla de Alegranza",wikidata,-,Q580302,way
+"Calle de la Isla de Long",wikidata,-,Q577808,way
+"Calle de la Isla del Hierro",wikidata,-,Q1036287,way
+"Calle de la Lagartera",wikidata,-,Q1631982,way
+"Calle de la Lechuga",wikidata,-,Q24647167,way
+"Calle de la Madre de Dios",wikidata,-,Q849693,way
+"Calle de la Magdalena",wikidata,-,Q17181780,way
+"Calle de la Montera",wikidata,-,Q5740928,way
+"Calle de la Paloma",wikidata,-,Q20908836,way
+"Calle de la Primavera",wikidata,-,Q28662708,way
+"Calle de la Princesa",wikidata,-,Q5740935,way
+"Calle de la Provenza",wikidata,-,Q101081,way
+"Calle de la Riviera",wikidata,-,Q917448,way
+"Calle de la Santísima Trinidad",wikidata,-,Q615189,way
+"Calle de la Serena",wikidata,-,Q2472448,way
+"Calle de la Sierra de La Sagra",wikidata,-,Q8538308,way
+"Calle de la Sierra de Molina",wikidata,-,Q23994773,way
+"Calle de la Sílfide",wikidata,-,Q853329,way
+"Calle de la Tuya",wikidata,-,Q147417,way
+"Calle de la Victoria",wikidata,-,Q5785667,way
+"Calle de la Virgen de Lluc",wikidata,-,Q9094348,way
+"Calle de la Virgen de las Viñas",wikidata,-,Q5560113,way
+"Calle de las Adelfas",wikidata,-,Q155833,way
+"Calle de las Alpujarras",wikidata,-,Q661868,way
+"Calle de las Arizónicas",wikidata,-,Q670040,way
+"Calle de las Canarias",wikidata,-,Q5813,way
+"Calle de las Coníferas",wikidata,-,Q132825,way
+"Calle de las Huertas",wikidata,-,Q2364997,way
+"Calle de las Islas Almirantes",wikidata,-,Q119230,way
+"Calle de las Islas Marianas",wikidata,-,Q153732,way
+"Calle de las Islas de Cabo Verde",wikidata,-,Q1011,way
+"Calle de las Postas",wikidata,-,Q28051324,way
+"Calle de los Cabestreros",wikidata,-,Q20015474,way
+"Calle de los Cuchilleros",wikidata,-,Q29005894,way
+"Calle de los Donados",wikidata,-,Q16576203,way
+"Calle de los Estudios",wikidata,-,Q52158093,way
+"Calle de los Hermanos Álvarez Quintero",wikidata,-,Q2879473,way
+"Calle de los Hermanos García Noblejas",wikidata,-,Q1664711;Q5740959,way
+"Calle de los Hermanos Pinzón",wikidata,-,Q3388890,way
+"Calle de los Jardines",wikidata,-,Q28052611,way
+"Calle de los Milaneses",wikidata,-,Q30788116,way
+"Calle de los Olivos",wikidata,-,Q37083,way
+"Calle de los Padres Dominicos",wikidata,-,Q131479,way
+"Calle de los Pedroches",wikidata,-,Q1117207,way
+"Calle de los Poetas",wikidata,-,Q49757,way
+"Calle de los Señores de Luzón",wikidata,-,Q24658361,way
+"Calle de los Vascos",wikidata,-,Q126756,way
+"Calle del Alerce",wikidata,-,Q25618,way
+"Calle del Aloe Vera",wikidata,-,Q80079,way
+"Calle del Ángel de la Guarda",wikidata,-,Q728388,way
+"Calle del Arenal",wikidata,-,Q5740980,way
+"Calle del Arte Abstracto",wikidata,-,Q128115,way
+"Calle del Arte Conceptual",wikidata,-,Q203209,way
+"Calle del Arte Expresionista",wikidata,-,Q80113,way
+"Calle del Arte Figurativo",wikidata,-,Q1622217,way
+"Calle del Arte Minimal",wikidata,-,Q173436,way
+"Calle del Ave María",wikidata,-,Q27031791,way
+"Calle del Barquillo",wikidata,-,Q5740983,way
+"Calle del Bronce",wikidata,-,Q34095,way
+"Calle del Butrón",wikidata,-,Q12255566,way
+"Calle del Caballero de Gracia",wikidata,-,Q5740985,way
+"Calle del Cabo Machichaco",wikidata,-,Q669894,way
+"Calle del Canal de la Mancha",wikidata,-,Q34640,way
+"Calle del Canal del Bósforo",wikidata,-,Q35958,way
+"Calle del Cañón del Río Lobos",wikidata,-,Q3385422,way
+"Calle del Carmen",wikidata,-,Q5740988,way
+"Calle del Carnero",wikidata,-,Q27050844,way
+"Calle del Casino",wikidata,-,Q26248358,way
+"Calle del Cobre",wikidata,-,Q753,way
+"Calle del Condado de Treviño",wikidata,-,Q946251,way
+"Calle del Conde Duque",wikidata,-,Q27031730,way
+"Calle del Corindón",wikidata,-,Q131777,way
+"Calle del Cromo",wikidata,-,Q725,way
+"Calle del Darro",wikidata,-,Q1166701,way
+"Calle del Discóbolo",wikidata,-,Q133732,way
+"Calle del Doce de Octubre",wikidata,-,Q2745862,way
+"Calle del Doctor Cortezo",wikidata,-,Q28031508,way
+"Calle del Dodge",wikidata,-,Q27564,way
+"Calle del Dos Caballos",wikidata,-,Q326015,way
+"Calle del Dos de Mayo",wikidata,-,Q181146,way
+"Calle del Elfo",wikidata,-,Q174396,way
+"Calle del Embalse de El Vellón",wikidata,-,Q11681440,way
+"Calle del Embalse de La Jarosa",wikidata,-,Q1329216,way
+"Calle del Embalse de Navacerrada",wikidata,-,Q5369450,way
+"Calle del Embalse de Picadas",wikidata,-,Q5830546,way
+"Calle del Embalse de Pinilla",wikidata,-,Q8775372,way
+"Calle del Embalse de San Juan",wikidata,-,Q5830564,way
+"Calle del Embalse de Valmayor",wikidata,-,Q8775397,way
+"Calle del Embalse del Manzanares",wikidata,-,Q3373807,way
+"Calle del Fresno",wikidata,-,Q156907,way
+"Calle del Generalife",wikidata,-,Q525811,way
+"Calle del Ginebro",wikidata,-,Q26325,way
+"Calle del Gobernador",wikidata,-,Q47494747,way
+"Calle del Golfo de Salónica",wikidata,-,Q913418,way
+"Calle del Hierro",wikidata,-,Q677,way
+"Calle del Horizon",wikidata,-,Q1362801,way
+"Calle del Idioma Esperanto",wikidata,-,Q143,way
+"Calle del Jazmín",wikidata,-,Q82014,way
+"Calle del Jengibre",wikidata,-,Q35625,way
+"Calle del Lago Constanza",wikidata,-,Q4127,way
+"Calle del Laúd",wikidata,-,Q180733,way
+"Calle del León",wikidata,-,Q15839300,way
+"Calle del Lozoya",wikidata,-,Q16511,way
+"Calle del Maestro Victoria",wikidata,-,Q5741016,way
+"Calle del Mar Caspio",wikidata,-,Q5484,way
+"Calle del Mar Menor",wikidata,-,Q1553876,way
+"Calle del Mar Negro",wikidata,-,Q166,way
+"Calle del Mar de Aral",wikidata,-,Q35883,way
+"Calle del Marqués de Cubas",wikidata,-,Q19304646,way
+"Calle del Marqués de Leganés",wikidata,-,Q6000509,way
+"Calle del Mesón de Paredes",wikidata,-,Q5686332,way
+"Calle del Néctar",wikidata,-,Q919702,way
+"Calle del Oboe",wikidata,-,Q8377,way
+"Calle del Oligisto",wikidata,-,Q103223,way
+"Calle del Olivar",wikidata,-,Q20021057,way
+"Calle del Olmo",wikidata,-,Q20021071,way
+"Calle del Ónice",wikidata,-,Q180884,way
+"Calle del Peloponeso",wikidata,-,Q78967,way
+"Calle del Péndulo",wikidata,-,Q20702,way
+"Calle del Pergamino",wikidata,-,Q226697,way
+"Calle del Pez Volador",wikidata,-,Q183686,way
+"Calle del Pinar del Rey",wikidata,-,Q10349788,way
+"Calle del Pinsapo",wikidata,-,Q849381,way
+"Calle del Plomo",wikidata,-,Q708,way
+"Calle del Postigo de San Martín",wikidata,-,Q6083473,way
+"Calle del Prado",wikidata,-,Q16389845,way
+"Calle del Príncipe",wikidata,-,Q15788175,way
+"Calle del Puente del Arzobispo",wikidata,-,Q1628788,way
+"Calle del Rayo Vallecano de Madrid",wikidata,-,Q10300,way
+"Calle del Río",wikidata,-,Q48781775,way
+"Calle del Río Ebro",wikidata,-,Q10965,way
+"Calle del Río Nervión",wikidata,-,Q14353,way
+"Calle del Río Sella",wikidata,-,Q14513,way
+"Calle del Rodio",wikidata,-,Q1087,way
+"Calle del Sacramento",wikidata,-,Q26913064,way
+"Calle del Salitre",wikidata,-,Q29550986,way
+"Calle del Segura",wikidata,-,Q532136,way
+"Calle del Siete de Julio",wikidata,-,Q26777545,way
+"Calle del Simca",wikidata,-,Q173357,way
+"Calle del Solara",wikidata,-,Q964709,way
+"Calle del Talbot",wikidata,-,Q173151,way
+"Calle del Torcal",wikidata,-,Q1013353,way
+"Calle del Ventorrillo",wikidata,-,Q42908463,way
+"Cañada Real de Merinas",wikidata,-,Q5759517,way
+"Carrera de San Jerónimo",wikidata,-,Q5836422,way
+"Cava de San Miguel",wikidata,-,Q28051254,way
+"Costanilla de los Desamparados",wikidata,-,Q18419123,way
+"Cuesta de San Vicente",wikidata,-,Q5794006,way
+"Cuesta de la Vega",wikidata,-,Q5794014,way
+"GR-124 Senda Real",wikidata,-,Q5872942,way
+"Glorieta Puerta de Toledo",wikidata,-,Q2657591,way
+"Glorieta de Bilbao",wikidata,-,Q5571511,way
+"Glorieta de Embajadores",wikidata,-,Q16571874,way
+"Glorieta de Emilio Castelar",wikidata,-,Q28000791,way
+"Glorieta de Eolo",wikidata,-,Q172549,way
+"Glorieta de Lalín",wikidata,-,Q1374736,way
+"Glorieta de San Martín de la Vega",wikidata,-,Q959612,way
+"Glorieta de San Vicente",wikidata,-,Q5881390,way
+"Glorieta de Santa María de la Cabeza",wikidata,-,Q55943044,way
+"Glorieta de las Pirámides",wikidata,-,Q5790715,way
+"Glorieta del Pintor Sorolla",wikidata,-,Q26791943,way
+"Glorieta del Puente de Segovia",wikidata,-,Q2838423,way
+"Gran Vía",wikidata,-,Q1324163,way
+"La Cañada Real de Merinas",wikidata,-,Q5759517,way
+"La Cañada Real de Merinas o Galiana",wikidata,-,Q5759517,way
+M-45,wikidata,-,Q3437370,way
+"Madrid Río",wikidata,-,Q6062341,way
+"Pasaje de Ahillones",wikidata,-,Q389434,way
+"Pasaje de Dios te salve María",wikidata,-,Q42203,way
+"Pasaje de Matheu",wikidata,-,Q6065308,way
+"Paseo Bajo de la Virgen del Puerto",wikidata,-,Q3813365,way
+"Paseo Imperial",wikidata,-,Q118634190,way
+"Paseo de Extremadura",wikidata,-,Q5777,way
+"Paseo de Ginebra",wikidata,-,Q71,way
+"Paseo de La Habana",wikidata,-,Q1563,way
+"Paseo de San Millán de la Cogolla",wikidata,-,Q842220,way
+"Paseo de Santa María de la Cabeza",wikidata,-,Q6065630,way
+"Paseo de Yeserías",wikidata,-,Q16616818,way
+"Paseo de la Castellana",wikidata,-,Q1473674,way
+"Paseo de la Florida",wikidata,-,Q5576961,way
+"Paseo de la Tierra de Melide",wikidata,-,Q944002,way
+"Paseo de la Virgen del Puerto",wikidata,-,Q3813365;Q6065659,way
+"Paseo de las Acacias",wikidata,-,Q55947263,way
+"Paseo de las Delicias",wikidata,-,Q6065662,way
+"Paseo de los Pontones",wikidata,-,Q118634190;Q26737156,way
+"Paseo del Prado",wikidata,-,Q2079615,way
+"Paseo del Uruguay",wikidata,-,Q77,way
+"Plaza General Vara del Rey",wikidata,-,Q6080424,way
+"Plaza Mayor",wikidata,-,Q1123493,relation+way
+"Plaza República del Ecuador",wikidata,-,Q736,way
+"Plaza Villalcázar de Sirga",wikidata,-,Q1010261,way
+"Plaza de Alcira",wikidata,-,Q931780,way
+"Plaza de Alsacia",wikidata,-,Q1142,way
+"Plaza de Arteijo",wikidata,-,Q996161,way
+"Plaza de Callao",wikidata,-,Q2099125,relation+way
+"Plaza de Canalejas",wikidata,-,Q3392158,way
+"Plaza de Cánovas del Castillo",wikidata,-,Q16620193,way
+"Plaza de Carballo",wikidata,-,Q166137,way
+"Plaza de Cascorro",wikidata,-,Q6079936,way
+"Plaza de Castilla",wikidata,-,Q786291,way
+"Plaza de Chamberí",wikidata,-,Q26789351,relation
+"Plaza de Chueca",wikidata,-,Q24944157,way
+"Plaza de Corcubión",wikidata,-,Q581367,way
+"Plaza de Cristino Martos",wikidata,-,Q45900966,way
+"Plaza de Cupido",wikidata,-,Q5011,way
+"Plaza de Cuzco",wikidata,-,Q26833863,way
+"Plaza de Elciego",wikidata,-,Q1368834,way
+"Plaza de España",wikidata,-,Q1326261,way
+"Plaza de Fonsagrada",wikidata,-,Q1465213,way
+"Plaza de Herradores",wikidata,-,Q28534650,way
+"Plaza de Isabel II",wikidata,-,Q6079993,way
+"Plaza de Jacinto Benavente",wikidata,-,Q6080004,way
+"Plaza de Jaizquíbel",wikidata,-,Q576888,way
+"Plaza de Jesús",wikidata,-,Q26796200,way
+"Plaza de Lavapiés",wikidata,-,Q6080017,relation+way
+"Plaza de Legazpi",wikidata,-,Q5547886,way
+"Plaza de Lima",wikidata,-,Q29647450,way
+"Plaza de Matute",wikidata,-,Q6080024,relation+way
+"Plaza de Mondariz",wikidata,-,Q639229,way
+"Plaza de Montiel",wikidata,-,Q1610078,way
+"Plaza de Olavide",wikidata,-,Q27947826,way
+"Plaza de Oriente",wikidata,-,Q2193218,relation+way
+"Plaza de Oyarzun",wikidata,-,Q911092,way
+"Plaza de Padrón",wikidata,-,Q500494,way
+"Plaza de Pedro Zerolo",wikidata,-,Q6080146,way
+"Plaza de Pontejos",wikidata,-,Q6080037,relation
+"Plaza de Puerta Cerrada",wikidata,-,Q9060945,way
+"Plaza de Quito",wikidata,-,Q2900,way
+"Plaza de Ramales",wikidata,-,Q2839150,way
+"Plaza de Redondela",wikidata,-,Q833032,way
+"Plaza de Ribadeo",wikidata,-,Q824076,way
+"Plaza de San Francisco",wikidata,-,Q24493632,way
+"Plaza de San Martín",wikidata,-,Q30578759,way
+"Plaza de San Miguel",wikidata,-,Q52051752,relation+way
+"Plaza de Santa Ana",wikidata,-,Q740210,way
+"Plaza de Santa Bárbara",wikidata,-,Q24481510,relation+way
+"Plaza de Santa Catalina de los Donados",wikidata,-,Q16576203,way
+"Plaza de Santa Cruz",wikidata,-,Q6080086,way
+"Plaza de Santo Domingo",wikidata,-,Q6080106,way
+"Plaza de Santos de la Humosa",wikidata,-,Q1648733,way
+"Plaza de Tuy",wikidata,-,Q824122,way
+"Plaza de Verín",wikidata,-,Q176504,way
+"Plaza de la Armería",wikidata,-,Q16494360,way
+"Plaza de la Asamblea de Madrid",wikidata,-,Q139971,way
+"Plaza de la Cebada",wikidata,-,Q9060972,way
+"Plaza de la Cibeles",wikidata,-,Q1537446,way
+"Plaza de la Independencia",wikidata,-,Q4967671,way
+"Plaza de la Lealtad",wikidata,-,Q6080203,way
+"Plaza de la Platería de Martínez",wikidata,-,Q6080240,way
+"Plaza de la Provincia",wikidata,-,Q12344133,relation+way
+"Plaza de la Puerta del Sol",wikidata,-,Q427163,way
+"Plaza de la República Argentina",wikidata,-,Q414,way
+"Plaza de la Villa",wikidata,-,Q2711992,relation+way
+"Plaza de la Villa de París",wikidata,-,Q6080233,way
+"Plaza de la Virgen Guadalupana",wikidata,-,Q31877,way
+"Plaza de la Virgen de la Paloma",wikidata,-,Q6163510,way
+"Plaza de las Californias",wikidata,-,Q301467,way
+"Plaza de las Cortes",wikidata,-,Q5482884,way
+"Plaza de las Descalzas",wikidata,-,Q6080247,way
+"Plaza de los Carros",wikidata,-,Q234668,relation+way
+"Plaza de los Templarios",wikidata,-,Q41300,way
+"Plaza del Ángel",wikidata,-,Q5800864,way
+"Plaza del Campillo del Mundo Nuevo",wikidata,-,Q25410652,way
+"Plaza del Carmen",wikidata,-,Q6080406,way
+"Plaza del Conde de Barajas",wikidata,-,Q29005231,way
+"Plaza del Conde de Miranda",wikidata,-,Q52063001,way
+"Plaza del Conde del Valle de Suchil",wikidata,-,Q27244013,way
+"Plaza del Dos de Mayo",wikidata,-,Q1531008,way
+"Plaza del Rastrillo",wikidata,-,Q29834891,way
+"Plaza del Rey",wikidata,-,Q16620311,relation+way
+"Plazuela de San Javier",wikidata,-,Q43008231,way
+"Plazuela de las Sinsombrero",wikidata,-,Q28474914,way
+"Puente de Segovia",wikidata,-,Q2838423,way
+"Puente de Toledo",wikidata,-,Q3845616,way
+"Puerta del Sol",wikidata,-,Q427163,relation
+"Ronda de Atocha",wikidata,-,Q26831149,way
+"Ronda de Segovia",wikidata,-,Q27955399;Q2807,way
+"Ronda de Toledo",wikidata,-,Q6111946,way
+"Ronda de Valencia",wikidata,-,Q16626200,way
+"Travesía de Aquitania",wikidata,-,Q1179,way
+"Travesía de Biosca",wikidata,-,Q1901345,way
+"Travesía de Capri",wikidata,-,Q173292,way
+"Travesía de los Cabestreros",wikidata,-,Q20015474,way
+"Túnel de Ríos Rosas",wikidata,-,Q27267331,way
+"Viaducto de Segovia",wikidata,-,Q6160850,way
+"Calle de Hermosilla",wikidata,?,Q28052826;Q6292949,way
+"Calle de Narváez",wikidata,?,Q185551;Q28936837,way
+"Calle de Saavedra Fajardo",wikidata,?,Q2715411;Q2807,way
+"Calle de San Bernardo",wikidata,?,Q188411;Q5740864,way
+"Calle de Santa Engracia",wikidata,?,Q18246552;Q26728109,way
+"Paseo de Juan Antonio Vallejo-Nájera Botas",wikidata,?,Q33093309;Q5947470,way
+"Plaza de Tirso de Molina",wikidata,?,Q295598;Q6080114,relation+way
+"Plaza del Emperador Carlos V",wikidata,?,Q32500;Q7203711,way
 "Avenida de Concha Espina",wikidata,F,Q3751269,way
 "Avenida de Isabel de Valois",wikidata,F,Q176041,way
 "Avenida de Rafaela Ybarra",wikidata,F,Q2636771,way
@@ -50,7 +958,6 @@ name,source,gender,wikidata,type
 "Calle de Rosario Pino",wikidata,F,Q6112403,way
 "Calle de Santa Casilda",wikidata,F,Q1236283,way
 "Calle de Santa Elena",wikidata,F,Q170164,way
-"Calle de Santa Engracia",wikidata,F,Q18246552;Q26728109,way
 "Calle de Santa Francisca Javier Cabrini",wikidata,F,Q238983,way
 "Calle de Santa Genoveva",wikidata,F,Q235863,way
 "Calle de Santa María Micaela",wikidata,F,Q440077,way
@@ -264,7 +1171,6 @@ name,source,gender,wikidata,type
 "Calle de Guzmán el Bueno",wikidata,M,Q4734497,way
 "Calle de Hartzenbusch",wikidata,M,Q1377747,way
 "Calle de Henri Dunant",wikidata,M,Q12091,way
-"Calle de Hermosilla",wikidata,M,Q28052826;Q6292949,way
 "Calle de Hilario Peñasco",wikidata,M,Q16575056,relation+way
 "Calle de Hilarión Eslava",wikidata,M,Q3818102,way
 "Calle de Ignacio Aldecoa",wikidata,M,Q1657241,way
@@ -347,7 +1253,6 @@ name,source,gender,wikidata,type
 "Calle de Mozart",wikidata,M,Q254,way
 "Calle de Murillo",wikidata,M,Q192062,way
 "Calle de Narciso Serra",wikidata,M,Q15839216,way
-"Calle de Narváez",wikidata,M,Q185551;Q28936837,way
 "Calle de Nicasio Gallego",wikidata,M,Q720492,way
 "Calle de Nicolás Salmerón",wikidata,M,Q742660,way
 "Calle de Núñez Morgado",wikidata,M,Q96182849,way
@@ -385,11 +1290,9 @@ name,source,gender,wikidata,type
 "Calle de Romero Girón",wikidata,M,Q6161322,way
 "Calle de Romero Robledo",wikidata,M,Q2370852,way
 "Calle de Ruy González de Clavijo",wikidata,M,Q725872,way
-"Calle de Saavedra Fajardo",wikidata,M,Q2715411;Q2807,way
 "Calle de Sagasta",wikidata,M,Q379779,way
 "Calle de Salas Barbadillo",wikidata,M,Q3893270,way
 "Calle de Salustiano Olózaga",wikidata,M,Q959518,way
-"Calle de San Bernardo",wikidata,M,Q188411;Q5740864,way
 "Calle de San Eloy",wikidata,M,Q360798,way
 "Calle de San Eulogio",wikidata,M,Q2358257,way
 "Calle de San Felipe Neri",wikidata,M,Q217791,way
@@ -498,7 +1401,6 @@ name,source,gender,wikidata,type
 "Paseo de Eduardo Dato",wikidata,M,Q365162,way
 "Paseo de José Celestino Mutis",wikidata,M,Q731937,way
 "Paseo de José Quer",wikidata,M,Q957879,way
-"Paseo de Juan Antonio Vallejo-Nájera Botas",wikidata,M,Q33093309;Q5947470,way
 "Paseo de Mariano Lagasca",wikidata,M,Q891966,way
 "Paseo de Moret",wikidata,M,Q562515,way
 "Paseo de Simón de Rojas Clemente",wikidata,M,Q2983280,way
@@ -524,13 +1426,11 @@ name,source,gender,wikidata,type
 "Plaza de Ramón y Cajal",wikidata,M,Q150526,way
 "Plaza de Salvador Dalí",wikidata,M,Q5577,way
 "Plaza de San Juan de la Cruz",wikidata,M,Q190388,way
-"Plaza de Tirso de Molina",wikidata,M,Q295598;Q6080114,relation+way
 "Plaza del Alcalde Moreno Torres",wikidata,M,Q9014613,way
 "Plaza del Comandante Las Morenas",wikidata,M,Q5833988,way
 "Plaza del Conde de Toreno",wikidata,M,Q1377208,way
 "Plaza del Doctor Laguna",wikidata,M,Q524380,way
 "Plaza del Doctor Marañón",wikidata,M,Q708559,way
-"Plaza del Emperador Carlos V",wikidata,M,Q32500;Q7203711,way
 "Plaza del Fotógrafo Robert Capa",wikidata,M,Q152524,way
 "Plaza del Niño Jesús",wikidata,M,Q942467,way
 "Plazuela de Antón Martín",wikidata,M,Q5700573,way
