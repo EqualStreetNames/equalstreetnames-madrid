@@ -214,7 +214,6 @@ A-5,,,,way
 "Avenida del Monasterio de Silos",,,,way
 "Avenida del Monte Igueldo",,,,way
 "Avenida del Monte de Valdelatas",,,,way
-"Avenida del Museo",,,,way
 "Avenida del Padre Cipriano",,,,way
 "Avenida del Padre Huidobro",,,,way
 "Avenida del Padre Piquer",,,,way
@@ -458,7 +457,6 @@ Bus/VAO,,,,way
 "Calle Balcánica",,,,way
 "Calle Balcón de Corralejos",,,,way
 "Calle Baltasar",,,,way
-"Calle Barbadelo",,,,way
 "Calle Barbadillo",,,,way
 "Calle Bardegueral",,,,way
 "Calle Barichara",,,,way
@@ -488,7 +486,6 @@ Bus/VAO,,,,way
 "Calle Benjamín Palencia",,,,way
 "Calle Bentaiga",,,,way
 "Calle Berango",,,,way
-"Calle Bercianos del Real Camino",,,,way
 "Calle Berlín",,,,way
 "Calle Bermúdez Cañete",,,,way
 "Calle Berna",,,,way
@@ -622,7 +619,6 @@ Bus/VAO,,,,way
 "Calle Castillo de Peñafiel",,,,way
 "Calle Castillo de Simancas",,,,way
 "Calle Castillo de Uclés",,,,way
-"Calle Castrillo de Polvazares",,,,way
 "Calle Castro de Oro",,,,way
 "Calle Castrobarto",,,,way
 "Calle Castromonte",,,,way
@@ -1149,7 +1145,6 @@ Bus/VAO,,,,way
 "Calle Islas Kuriles",,,,way
 "Calle Islas Luisiadas",,,,way
 "Calle Itálica",,,,way
-"Calle Itero de la Vega",,,,way
 "Calle Iturbe",,,,way
 "Calle Iván Pavlov",,,,way
 "Calle Jacaranda",,,,way
@@ -1826,7 +1821,6 @@ Bus/VAO,,,,way
 "Calle Rodríguez Espinosa",,,,way
 "Calle Rodríguez Villarejo",,,,way
 "Calle Rogelio Osorio",,,,way
-"Calle Romancero Gitano",,,,way
 "Calle Rompelanzas",,,,way
 "Calle Rosa Luxemburgo",,,,way
 "Calle Rosa de Castro",,,,way
@@ -2146,9 +2140,7 @@ Bus/VAO,,,,way
 "Calle Villablanca",,,,way
 "Calle Villablino",,,,way
 "Calle Villacarriedo",,,,way
-"Calle Villadangos del Páramo",,,,way
 "Calle Villafranca",,,,way
-"Calle Villafranca Montes de Oca",,,,way
 "Calle Villafruela",,,,way
 "Calle Villafuerte",,,,way
 "Calle Villager",,,,way
@@ -3744,7 +3736,6 @@ Bus/VAO,,,,way
 "Calle de Luscindia",,,,way
 "Calle de Lyon",,,,way
 "Calle de Machaquito",,,,way
-"Calle de Madre Celeste",,,,way
 "Calle de Madridejos",,,,way
 "Calle de Madrigal",,,,way
 "Calle de Madrigal de la Vera",,,,way
@@ -6109,7 +6100,6 @@ Bus/VAO,,,,way
 "Calle del Horno de Labradores",,,,way
 "Calle del Humilladero",,,,way
 "Calle del Huracán",,,,way
-"Calle del Iceberg",,,,way
 "Calle del Infante",,,,way
 "Calle del Infante Jaime",,,,way
 "Calle del Ingeniero Torres Quevedo",,,,way
@@ -6543,7 +6533,6 @@ Bus/VAO,,,,way
 "Callejón de Preciados",,,,way
 "Callejón de Ruices",,,,way
 "Callejón de Santa Eulalia",,,,way
-"Callejón de Vistas a la Moraleja",,,,way
 "Callejón de la Concepción Jerónima",,,,way
 "Callejón de la Luz",,,,way
 "Callejón de la Rosa",,,,way
@@ -6621,7 +6610,6 @@ Camarena,,,,way
 "Camino de la Suerte",,,,way
 "Camino de la Torrecilla",,,,way
 "Camino de la Tubería",,,,way
-"Camino de la Venta de la Rubia",,,,way
 "Camino de la Venta del Pájaro",,,,way
 "Camino de la Zarzuela",,,,way
 "Camino de las Cruces",,,,way
@@ -7138,7 +7126,6 @@ Moncloa,,,,way
 "Paseo de los Melancólicos",,,,relation+way
 "Paseo de los Olivos",,,,way
 "Paseo de los Olmos",,,,way
-"Paseo de los Parques",,,,way
 "Paseo de los Pinos de Osuna",,,,way
 "Paseo de los Plátanos",,,,way
 "Paseo de los Recintos Feriales",,,,way
@@ -7240,7 +7227,6 @@ Moncloa,,,,way
 "Plaza Virgen de la Paloma",,,,way
 "Plaza circular",,,,way
 "Plaza de Ágata",,,,way
-"Plaza de Agua, Azucarillos y Aguardiente",,,,way
 "Plaza de Alfred Nobel",,,,way
 "Plaza de Alloz",,,,way
 "Plaza de Almodóvar",,,,way
@@ -7393,7 +7379,6 @@ Moncloa,,,,way
 "Plaza de Tauste",,,,way
 "Plaza de Torcuato Fernández-Miranda",,,,way
 "Plaza de Toros de Las Ventas",,,,relation
-"Plaza de Tubilla",,,,way
 "Plaza de Valparaíso",,,,way
 "Plaza de Vilaflor",,,,way
 "Plaza de Villanubla",,,,way
@@ -7821,5 +7806,4 @@ escalones_aulas,,,,way
 escalones_cafeteria,,,,way
 escalones_salon_actos,,,,way
 "paseo de Carlos III",,,,way
-sendero,,,,way
 "sendero a montecarmelo y centros hipica",,,,way
