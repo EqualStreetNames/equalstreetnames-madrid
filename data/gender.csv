@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Autovía del Nordeste",wikidata,-,Q776532,way
 "Autovía del Norte",wikidata,-,Q789245,way
 "Autovía del Suroeste",wikidata,-,Q2744396,way
+"Avenida Aurora Boreal",wikidata,-,Q40609,way
 "Avenida Camino de Santiago",wikidata,-,Q41150,way
 "Avenida Ensanche de Vallecas",wikidata,-,Q3847485,way
 "Avenida de América",wikidata,-,Q5686040,way
@@ -245,6 +246,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Alzola",wikidata,-,Q8196902,way
 "Calle de Amaltea",wikidata,-,Q107785,way
 "Calle de Amaya",wikidata,-,Q2840919,way
+"Calle de Ambroz",wikidata,-,Q11905294;Q3393309,way
 "Calle de Añastro",wikidata,-,Q10751118,way
 "Calle de Andalucía",wikidata,-,Q5783,way
 "Calle de Antequera",wikidata,-,Q572041,way
@@ -654,6 +656,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de los Hermanos García Noblejas",wikidata,-,Q1664711;Q5740959,way
 "Calle de los Hermanos Pinzón",wikidata,-,Q3388890,way
 "Calle de los Jardines",wikidata,-,Q28052611,way
+"Calle de los Juglares",wikidata,-,Q2429735,way
 "Calle de los Milaneses",wikidata,-,Q30788116,way
 "Calle de los Olivos",wikidata,-,Q37083,way
 "Calle de los Padres Dominicos",wikidata,-,Q131479,way
@@ -714,6 +717,8 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Jazmín",wikidata,-,Q82014,way
 "Calle del Jengibre",wikidata,-,Q35625,way
 "Calle del Lago Constanza",wikidata,-,Q4127,way
+"Calle del Lago Erie",wikidata,-,Q5492,way
+"Calle del Lago Leman",wikidata,-,Q6403,way
 "Calle del Laúd",wikidata,-,Q180733,way
 "Calle del León",wikidata,-,Q15839300,way
 "Calle del Lozoya",wikidata,-,Q16511,way
@@ -756,6 +761,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Solara",wikidata,-,Q964709,way
 "Calle del Talbot",wikidata,-,Q173151,way
 "Calle del Torcal",wikidata,-,Q1013353,way
+"Calle del Tren de Arganda",wikidata,-,Q107585406,way
 "Calle del Ventorrillo",wikidata,-,Q42908463,way
 "Cañada Real de Merinas",wikidata,-,Q5759517,way
 "Carrera de San Jerónimo",wikidata,-,Q5836422,way
@@ -779,7 +785,6 @@ Bucarest,wikidata,-,Q19660,way
 "Gran Vía",wikidata,-,Q1324163,way
 "La Cañada Real de Merinas",wikidata,-,Q5759517,way
 "La Cañada Real de Merinas o Galiana",wikidata,-,Q5759517,way
-M-45,wikidata,-,Q3437370,way
 "Madrid Río",wikidata,-,Q6062341,way
 "Pasaje de Ahillones",wikidata,-,Q389434,way
 "Pasaje de Dios te salve María",wikidata,-,Q42203,way
@@ -820,6 +825,7 @@ M-45,wikidata,-,Q3437370,way
 "Plaza de Cristino Martos",wikidata,-,Q45900966,way
 "Plaza de Cupido",wikidata,-,Q5011,way
 "Plaza de Cuzco",wikidata,-,Q26833863,way
+"Plaza de Don Antonio de Andrés",wikidata,-,Q131349485,way
 "Plaza de Elciego",wikidata,-,Q1368834,way
 "Plaza de España",wikidata,-,Q1326261,relation+way
 "Plaza de Fonsagrada",wikidata,-,Q1465213,way
