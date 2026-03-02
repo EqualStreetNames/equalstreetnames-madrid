@@ -44,7 +44,6 @@ A-5,,,,way
 "Avenida Pablo Neruda",,,,way
 "Avenida Padre Huidobro",,,,way
 "Avenida Principal",,,,way
-"Avenida Provisional Ahijones Berrocales Cinco",,,,way
 "Avenida Provisional Gran Vía de Vicálvaro",,,,way
 "Avenida Puerta de Hierro",,,,way
 "Avenida Puerta de Toledo",,,,way
@@ -208,6 +207,7 @@ A-5,,,,way
 "Avenida de los Rosales",,,,way
 "Avenida de los Toreros",,,,way
 "Avenida de los Voluntarios de SAMUR Protección Civil",,,,way
+"Avenida de los Voluntarios de Samur Protección Civil",,,,way
 "Avenida del Aster",,,,way
 "Avenida del Campo",,,,way
 "Avenida del Campus Sur",,,,way
@@ -502,6 +502,7 @@ Bus/VAO,,,,way
 "Calle Bermúdez Cañete",,,,way
 "Calle Berna",,,,way
 "Calle Bernarda García",,,,way
+"Calle Bernardo Bonezzi",,,,way
 "Calle Bernedo",,,,way
 "Calle Berrocal",,,,way
 "Calle Berzosa de Lozoya",,,,way
@@ -760,7 +761,6 @@ Bus/VAO,,,,way
 "Calle Daoíz",,,,way
 "Calle Darwin",,,,way
 "Calle David Lara",,,,way
-"Calle De Estremera",,,,way
 "Calle Décima",,,,way
 "Calle Dehesa Vieja",,,,way
 "Calle Delmira Agustini",,,,way
@@ -1297,7 +1297,6 @@ Bus/VAO,,,,way
 "Calle Lozoyuela",,,,way
 "Calle Luis Adaro",,,,way
 "Calle Luis Calvo",,,,way
-"Calle Luis Carandell",,,,way
 "Calle Luis Esteban",,,,way
 "Calle Luis Gómez",,,,way
 "Calle Luis Gutiérrez Soto",,,,way
@@ -1696,8 +1695,27 @@ Bus/VAO,,,,way
 "Calle Proción",,,,way
 "Calle Provisional Berrocales 84",,,,way
 "Calle Provisional Cárcavas Oeste Uno",,,,way
+"Calle Provisional Carcel de Carabanchel 1",,,,way
+"Calle Provisional Carcel de Carabanchel 2",,,,way
+"Calle Provisional Carcel de Carabanchel 3",,,,way
+"Calle Provisional Carcel de Carabanchel 4",,,,way
+"Calle Provisional Carcel de Carabanchel 5",,,,way
+"Calle Provisional Carcel de Carabanchel 6",,,,way
+"Calle Provisional Carcel de Carabanchel 7",,,,way
 "Calle Provisional Cocheras Buena Vista Uno",,,,way
 "Calle Provisional Los Berrocales 122",,,,way
+"Calle Provisional Los Cerros 10",,,,way
+"Calle Provisional Los Cerros 11",,,,way
+"Calle Provisional Los Cerros 12",,,,way
+"Calle Provisional Los Cerros 13",,,,way
+"Calle Provisional Los Cerros 14",,,,way
+"Calle Provisional Los Cerros 15",,,,way
+"Calle Provisional Los Cerros 16",,,,way
+"Calle Provisional Los Cerros 3",,,,way
+"Calle Provisional Los Cerros 4",,,,way
+"Calle Provisional Los Cerros 5",,,,way
+"Calle Provisional Los Cerros 6",,,,way
+"Calle Provisional Los Cerros 7",,,,way
 "Calle Puebla de Sanabria",,,,way
 "Calle Puebla de la Sierra",,,,way
 "Calle Puente del Duero",,,,way
@@ -2428,6 +2446,7 @@ Bus/VAO,,,,way
 "Calle de Antonia Calvo",,,,way
 "Calle de Antonia Domínguez",,,,way
 "Calle de Antonia Rodríguez Sacristán",,,,way
+"Calle de Antonia Ruiz Soro",,,,way
 "Calle de Antonia Usera",,,,way
 "Calle de Antonio",,,,way
 "Calle de Antonio Acuña",,,,way
@@ -2489,7 +2508,6 @@ Bus/VAO,,,,way
 "Calle de Aráiz",,,,way
 "Calle de Arama",,,,way
 "Calle de Aramayona",,,,way
-"Calle de Aramis",,,,way
 "Calle de Aramís",,,,way
 "Calle de Arandilla",,,,way
 "Calle de Aranzueque",,,,way
@@ -3180,7 +3198,6 @@ Bus/VAO,,,,way
 "Calle de Francisca Armada",,,,way
 "Calle de Francisca Calonge",,,,way
 "Calle de Francisca Conde",,,,way
-"Calle de Francisca Condec",,,,way
 "Calle de Francisco Alcántara",,,,way
 "Calle de Francisco Altimiras",,,,way
 "Calle de Francisco Brizuela",,,,way
@@ -3714,6 +3731,7 @@ Bus/VAO,,,,way
 "Calle de Luis Buñuel",,,,way
 "Calle de Luis Cabrera",,,,way
 "Calle de Luis Calvo",,,,way
+"Calle de Luis Carandell",,,,way
 "Calle de Luis Carlos Vázquez",,,,way
 "Calle de Luis Cernuda",,,,way
 "Calle de Luis Chamizo",,,,way
@@ -3786,7 +3804,6 @@ Bus/VAO,,,,way
 "Calle de Manuel Marchamalo",,,,way
 "Calle de Manuel Maroto",,,,way
 "Calle de Manuel Montero Vallejo",,,,way
-"Calle de Manuel Muiño Arroyo",,,,way
 "Calle de Manuel Muíño Arroyo",,,,way
 "Calle de Manuel Muñoz",,,,way
 "Calle de Manuel Noya",,,,way
@@ -5569,6 +5586,7 @@ Bus/VAO,,,,way
 "Calle de las Flautas",,,,way
 "Calle de las Fraguas",,,,way
 "Calle de las Fuentes",,,,way
+"Calle de las Fuentes de San Jorge",,,,way
 "Calle de las Gardenias",,,,way
 "Calle de las Hermanas Barceló",,,,way
 "Calle de las Hierbas",,,,way
@@ -6889,7 +6907,6 @@ Camarena,,,,way
 "Enlace de O'Donnell con R-3",,,,way
 "Entrada Sala de Estudio",,,,way
 "Entrada a la Sala de Exposiciones",,,,way
-"Entrada al Parque de las Cruces",,,,way
 "Escalinata de Matilde Landa",,,,way
 "Escalinata del Fotógrafo Alfonso",,,,way
 "Espacio peatonal Mª Luisa Suárez Roldán",,,,way
@@ -7054,6 +7071,7 @@ Moncloa,,,,way
 "Parque de Buenavista",,,,way
 "Parque de Pan Bendito",,,,way
 "Parti de Carlos Martín Álvarez",,,,way
+"Particular del Olvido",,,,way
 "Pasadizo Escabroso",,,,way
 "Pasadizo de San Ginés",,,,way
 "Pasadizo del Obispo",,,,way
@@ -7422,13 +7440,14 @@ Moncloa,,,,way
 "Plaza de Juan Zorrilla",,,,way
 "Plaza de Juan de Malasaña",,,,way
 "Plaza de Julián Marías",,,,way
+"Plaza de Julio Cortázar",,,,way
 "Plaza de La Rendición de Breda",,,,way
 "Plaza de Las Hilanderas",,,,way
 "Plaza de Las Meninas",,,,way
 "Plaza de Leire",,,,way
 "Plaza de López de la Plata",,,,way
 "Plaza de Los Franciscanos",,,,way
-"Plaza de Luca de Tena",,,,relation
+"Plaza de Luca de Tena",,,,way
 "Plaza de Lucena",,,,way
 "Plaza de Manuel Gómez-Moreno",,,,way
 "Plaza de Manuel Marchamalo",,,,way
@@ -7631,6 +7650,7 @@ Moncloa,,,,way
 "Plaza del Padre Llanos",,,,relation
 "Plaza del Parterre",,,,way
 "Plaza del Perú",,,,way
+"Plaza del Pintor Lucas",,,,way
 "Plaza del Poeta Leopoldo de Luis",,,,relation
 "Plaza del Poeta Manuel del Palacio",,,,way
 "Plaza del Poeta Rioja",,,,way
@@ -7884,7 +7904,6 @@ Sendero,,,,way
 "Travesía del Conde",,,,way
 "Travesía del Conde Duque",,,,way
 "Travesía del Desfiladero",,,,way
-"Travesía del General Hierro Martínez",,,,way
 "Travesía del Horno de la Mata",,,,way
 "Travesía del Nardo",,,,way
 "Travesía del Nuncio",,,,way
@@ -7923,10 +7942,10 @@ Valdemaqueda,,,,way
 "Vía Pecuaria",,,,way
 "Vía Verde de la Gasolina",,,,way
 "Vía de Dublín",,,,way
+"Vía de Servicio A-3",,,,way
 "Vía de servicio Autovía de Colmenar",,,,way
 "Virgen de la Providencia",,,,way
 "Zona de deportes bajo el puente Pedro Bosch",,,,way
-"calle de Cocuy",,,,way
 "camino interior",,,,way
 "camino interior colonia",,,,way
 "camino privado de la colonia",,,,way
