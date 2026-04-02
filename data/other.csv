@@ -6,6 +6,7 @@ A-5,,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
 "Acceso a la Colonia Marconi",,,,way
+"Acceso peatones",,,,way
 "Acera Bici Serrano",,,,way
 "Aeropuerto T4 Salidas",,,,way
 "Anillo Distribuidor Cuatro Torres",,,,way
@@ -1051,6 +1052,7 @@ Bus/VAO,,,,way
 "Calle Guancha",,,,way
 "Calle Guaramillos",,,,way
 "Calle Guardia Civil",,,,way
+"Calle Guareña",,,,way
 "Calle Guarnicioneros",,,,way
 "Calle Guecho",,,,way
 "Calle Guernica",,,,way
@@ -5315,7 +5317,6 @@ Bus/VAO,,,,way
 "Calle de la Madre Celeste",,,,way
 "Calle de la Madre Nazaria",,,,way
 "Calle de la Maestra Felisa Lozano",,,,way
-"Calle de la Maestra Justa Ferire",,,,way
 "Calle de la Magnesia",,,,way
 "Calle de la Mahonia",,,,way
 "Calle de la Malaquita",,,,way
@@ -6789,7 +6790,6 @@ Camarena,,,,way
 "Cañada Real Galiana",,,,way
 "Cañada Real de Madrid",,,,way
 "Cañada del Molino",,,,way
-"Cañada del Santísimo",,,,way
 "Canal de Suez",,,,way
 "Carrer de la Bicicleta",,,,way
 "Carrera de San Francisco",,,,way
@@ -7192,7 +7192,6 @@ Moncloa,,,,way
 "Paseo República de Cuba",,,,way
 "Paseo Senda del Rey",,,,way
 "Paseo Vía Verde de la Gasolina",,,,way
-"Paseo Viejo",,,,way
 "Paseo de Alabarderos",,,,way
 "Paseo de Alberto Palacios",,,,way
 "Paseo de Argentina",,,,way
@@ -7203,15 +7202,18 @@ Moncloa,,,,way
 "Paseo de Chile",,,,way
 "Paseo de Circunvalación",,,,way
 "Paseo de Colombia",,,,way
+"Paseo de Damas",,,,way
 "Paseo de El Pardo",,,,way
 "Paseo de El Salvador",,,,way
 "Paseo de Federico García Lorca",,,,way
+"Paseo de Felipe V",,,,way
 "Paseo de Félix Avellar Brotero",,,,way
 "Paseo de Fernán Núñez",,,,way
 "Paseo de Ferroviarios",,,,way
 "Paseo de Garabitas",,,,way
 "Paseo de Gigantes y Cabezudos",,,,way
 "Paseo de Irlanda",,,,way
+"Paseo de Isabel II",,,,way
 "Paseo de José Ramón Monrobel",,,,way
 "Paseo de Juan XXIII",,,,way
 "Paseo de Juan de Minuart",,,,way
@@ -7266,6 +7268,8 @@ Moncloa,,,,way
 "Paseo de los Jacintos",,,,way
 "Paseo de los Jesuitas",,,,way
 "Paseo de los Melancólicos",,,,relation+way
+"Paseo de los Mosquitos",,,,way
+"Paseo de los Niveles",,,,way
 "Paseo de los Olivos",,,,way
 "Paseo de los Olmos",,,,way
 "Paseo de los Pinos de Osuna",,,,way
@@ -7286,6 +7290,7 @@ Moncloa,,,,way
 "Paseo del Robledal",,,,way
 "Paseo del Santo",,,,way
 "Paseo del Zurrón",,,,way
+"Paseo perimetral",,,,way
 "Paso Elevado de Capuchinos",,,,way
 "Pista Canicas",,,,way
 "Pista de la Perdiguera",,,,way
@@ -7750,6 +7755,7 @@ Moncloa,,,,way
 "Ronda de los toros",,,,way
 "Ronda del Caballero de la Mancha",,,,way
 "Ronda del Ingenioso Hidalgo",,,,way
+"Ronda del Lago",,,,way
 "Ronda del Tren",,,,way
 "Rotonda de Arcentales",,,,way
 "Salas 1-6",,,,way

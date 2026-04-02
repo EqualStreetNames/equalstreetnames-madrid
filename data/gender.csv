@@ -887,7 +887,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza del Conde de Barajas",wikidata,-,Q29005231,way
 "Plaza del Conde de Miranda",wikidata,-,Q52063001,way
 "Plaza del Conde del Valle de Suchil",wikidata,-,Q27244013,way
-"Plaza del Dos de Mayo",wikidata,-,Q1531008,way
+"Plaza del Dos de Mayo",wikidata,-,Q1531008;Q181146,way
 "Plaza del Rastrillo",wikidata,-,Q29834891,way
 "Plaza del Rey",wikidata,-,Q16620311,relation+way
 "Plazuela de San Javier",wikidata,-,Q43008231,way
@@ -1403,6 +1403,7 @@ Bucarest,wikidata,-,Q19660,way
 "Paseo Bajo de Casimiro Gómez Ortega",wikidata,M,Q957993,way
 "Paseo Eugenio María de Hostos",wikidata,M,Q3543841,way
 "Paseo Julio Romero de Torres",wikidata,M,Q1712402,way
+"Paseo de Ali Ben Yusuf",wikidata,M,Q552458,way
 "Paseo de Carlos III",wikidata,M,Q36234,way
 "Paseo de Eduardo Dato",wikidata,M,Q365162,way
 "Paseo de José Celestino Mutis",wikidata,M,Q731937,way
