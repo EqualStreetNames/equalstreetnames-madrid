@@ -51,6 +51,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Almadén",wikidata,-,Q465085,way
 "Calle Almarza",wikidata,-,Q828668,way
 "Calle Almuradiel",wikidata,-,Q1632554,way
+"Calle Alpedrete",wikidata,-,Q1752777,way
 "Calle Amapola",wikidata,-,Q146391,way
 "Calle Anunciación",wikidata,-,Q154326,way
 "Calle Aravaca",wikidata,-,Q26203094,way
@@ -163,7 +164,6 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Pobla de Segur",wikidata,-,Q17172,way
 "Calle Portal de Belén",wikidata,-,Q31732,way
 "Calle Portugalete",wikidata,-,Q548441,way
-"Calle Pozohalcón",wikidata,-,Q1641619,way
 "Calle Pozuelo de Zarzón",wikidata,-,Q1630861,way
 "Calle Preciados",wikidata,-,Q5552155,way
 "Calle Puente la Reina",wikidata,-,Q372556,way
@@ -443,6 +443,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Miguel Servet",wikidata,-,Q52158635,way
 "Calle de Minerva",wikidata,-,Q126916,way
 "Calle de Mira el Sol",wikidata,-,Q25265930,way
+"Calle de Mirabel",wikidata,-,Q1764584,way
 "Calle de Miranda de Arga",wikidata,-,Q1641891,way
 "Calle de Mogambo",wikidata,-,Q1122534,way
 "Calle de Mónaco",wikidata,-,Q235,way
@@ -491,6 +492,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Ponferrada",wikidata,-,Q12164,way
 "Calle de Portomarín",wikidata,-,Q849319,way
 "Calle de Poza de la Sal",wikidata,-,Q1642806,way
+"Calle de Pozohalcón",wikidata,-,Q1641619,way
 "Calle de Puentedey",wikidata,-,Q18689543,way
 "Calle de Puentelarra",wikidata,-,Q2744363,way
 "Calle de Puerto Rico",wikidata,-,Q1183,way
@@ -975,6 +977,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
 "Calle de la Infanta Mercedes",wikidata,F,Q218879,way
 "Calle de la Princesa de Kapurtala",wikidata,F,Q3394222,way
+"Calle del Cabo de Infantería Idoia Rodríguez Buján",wikidata,F,Q117021492,way
 "Glorieta de María de Villota",wikidata,F,Q236914,way
 "Glorieta de Pilar Miró",wikidata,F,Q75004,way
 "Paseo de la Reina Cristina",wikidata,F,Q538125,way
@@ -1289,6 +1292,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Ramírez de Prado",wikidata,M,Q1870229,way
 "Calle de Ramón Areces",wikidata,M,Q3329044,way
 "Calle de Ricardo Goizueta",wikidata,M,Q23778347,way
+"Calle de Robert Capa",wikidata,M,Q152524,way
 "Calle de Rodrigo de Triana",wikidata,M,Q552774,way
 "Calle de Rodríguez Ayuso",wikidata,M,Q892696,way
 "Calle de Rodríguez Jaén",wikidata,M,Q11705060,way
@@ -1355,6 +1359,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Conde de la Cimera",wikidata,M,Q30045782,way
 "Calle del Doctor Castelo",wikidata,M,Q57779199,way
 "Calle del Doctor Esquerdo",wikidata,M,Q9014392,way
+"Calle del Doctor Fidel Pagés Miravé",wikidata,M,Q1344339,way
 "Calle del Doctor Fleming",wikidata,M,Q37064,way
 "Calle del Doctor Gómez Ulla",wikidata,M,Q5997764,way
 "Calle del Doctor Juan José López Ibor",wikidata,M,Q9015676,way
@@ -1388,6 +1393,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Príncipe Carlos",wikidata,M,Q159817,way
 "Calle del Príncipe de Vergara",wikidata,M,Q434529,way
 "Calle del Teniente Coronel Noreña",wikidata,M,Q21971324,way
+"Calle del Teniente General José de Querol Lombardero",wikidata,M,Q109327368,way
 "Glorieta Marqués de Vadillo",wikidata,M,Q5865116,way
 "Glorieta de Aníbal González",wikidata,M,Q2857931,way
 "Glorieta de Antonio Chenel ""Antoñete""",wikidata,M,Q601545,way

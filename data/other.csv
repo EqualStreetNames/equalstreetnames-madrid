@@ -1546,7 +1546,6 @@ Bus/VAO,,,,way
 "Calle Once",,,,way
 "Calle Orcasitas",,,,way
 "Calle Orfebrería",,,,way
-"Calle Oriana",,,,way
 "Calle Oro",,,,way
 "Calle Oroya",,,,way
 "Calle Osa Menor",,,,way
@@ -2657,6 +2656,7 @@ Bus/VAO,,,,way
 "Calle de Bernardina García",,,,way
 "Calle de Bernardino Obregón",,,,way
 "Calle de Bernardino de Antequera",,,,way
+"Calle de Bernardo Bonezzi",,,,way
 "Calle de Bernardo López García",,,,way
 "Calle de Berrioplana",,,,way
 "Calle de Berruguete",,,,way
@@ -3959,7 +3959,6 @@ Bus/VAO,,,,way
 "Calle de Mir",,,,way
 "Calle de Mira Ceti",,,,way
 "Calle de Mira el Río",,,,way
-"Calle de Mirabel",,,,way
 "Calle de Miraflores de la Sierra",,,,way
 "Calle de Mirallos",,,,way
 "Calle de Miramadrid",,,,way
@@ -4362,7 +4361,6 @@ Bus/VAO,,,,way
 "Calle de Rivas",,,,way
 "Calle de Rivas-Vaciamadrid",,,,way
 "Calle de Roa",,,,way
-"Calle de Robert Capa",,,,way
 "Calle de Robledillo de la Jara",,,,way
 "Calle de Robledo",,,,way
 "Calle de Rocafort",,,,way
@@ -5955,7 +5953,6 @@ Bus/VAO,,,,way
 "Calle del Caballero de la Triste Figura",,,,way
 "Calle del Caballero de los Espejos",,,,way
 "Calle del Caballero de los Leones",,,,way
-"Calle del Cabo Infanteria Idoia Rodríguez Buján",,,,way
 "Calle del Cabo Suceso Terrero",,,,way
 "Calle del Cachero",,,,way
 "Calle del Cactus",,,,way
@@ -6118,7 +6115,6 @@ Bus/VAO,,,,way
 "Calle del Doctor Cirajas",,,,way
 "Calle del Doctor Criado",,,,way
 "Calle del Doctor Drumen",,,,way
-"Calle del Doctor Fidel Pagés Miravé",,,,way
 "Calle del Doctor Fourquet",,,,way
 "Calle del Doctor Guiu",,,,way
 "Calle del Doctor Huertas",,,,way
@@ -6601,7 +6597,6 @@ Bus/VAO,,,,way
 "Calle del Tembleque",,,,way
 "Calle del Templo",,,,way
 "Calle del Teniente Compairet",,,,way
-"Calle del Teniente General José de Querol Lombardero",,,,way
 "Calle del Tercio",,,,way
 "Calle del Tesoro",,,,way
 "Calle del Thaler",,,,way
@@ -6996,6 +6991,7 @@ Camarena,,,,way
 "Glorieta de Rocío Durcal",,,,way
 "Glorieta de Rufino Novalvos",,,,way
 "Glorieta de Ruiz Jiménez",,,,way
+"Glorieta de Salvador Velayos Hermida",,,,way
 "Glorieta de San Antonio de la Florida",,,,way
 "Glorieta de San Víctor",,,,way
 "Glorieta de Sandro Pertini",,,,way
@@ -7060,6 +7056,7 @@ Moncloa,,,,way
 "Nudo Sur",,,,way
 "Nudo de Manoteras",,,,way
 "Olimpio López",,,,way
+PE0309,,,,way
 "Parking Express T1",,,,way
 "Parque Avenida de los Poblados",,,,way
 "Parque Daniel Zuazo",,,,way
@@ -7676,6 +7673,7 @@ Moncloa,,,,way
 "Plazuela de Lesya Ukrainka",,,,way
 "Plazuela de Lina Morgan",,,,way
 "Plazuela de Volodimir Zelensky",,,,way
+"Plazuela de la Doctora Gabriela Morreale",,,,way
 "Plazuela de la Memoria Trans",,,,way
 "Plazuela de las Comendadoras",,,,way
 "Pontona Norte Puente Toledo",,,,way
