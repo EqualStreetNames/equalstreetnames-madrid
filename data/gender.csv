@@ -938,6 +938,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Dulce Chacón",wikidata,F,Q466820,way
 "Calle de Estrellita Castro",wikidata,F,Q127643,way
 "Calle de Eugenia de Montijo",wikidata,F,Q157130,way
+"Calle de Fina de Calderón",wikidata,F,Q5449340,way
 "Calle de Francisca Moreno",wikidata,F,Q21849637,way
 "Calle de Gabriela Mistral",wikidata,F,Q80871,way
 "Calle de Imperio Argentina",wikidata,F,Q468806,way
@@ -972,6 +973,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Santa Rafaela María del Sagrado Corazón",wikidata,F,Q456796,way
 "Calle de Santa Tecla",wikidata,F,Q51885,way
 "Calle de Silvina Ocampo",wikidata,F,Q442829,way
+"Calle de Sor Ángela de la Cruz",wikidata,F,Q252055,way
 "Calle de Teresita González Quevedo",wikidata,F,Q20040146,way
 "Calle de Victoria Kent",wikidata,F,Q2743181,way
 "Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
@@ -996,6 +998,7 @@ Bucarest,wikidata,-,Q19660,way
 "Avenida de Francisco Pi y Margall",wikidata,M,Q450271,way
 "Avenida de Juan Antonio Samaranch",wikidata,M,Q171166,way
 "Avenida de Luis Aragonés",wikidata,M,Q576614,way
+"Avenida de Manuel Fraga Iribarne",wikidata,M,Q276043,way
 "Avenida de Menéndez Pelayo",wikidata,M,Q716799,way
 "Avenida de Niceto Alcalá Zamora",wikidata,M,Q313785,way
 "Avenida de Pablo Iglesias",wikidata,M,Q450299,way
@@ -1133,6 +1136,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Ercilla",wikidata,M,Q357620,way
 "Calle de Espronceda",wikidata,M,Q209077,way
 "Calle de Estanislao Figueras",wikidata,M,Q553120,way
+"Calle de Estanislao Pérez Pita",wikidata,M,Q5848799,way
 "Calle de Esteban Terradas",wikidata,M,Q4894155,way
 "Calle de Eugenio Sellés",wikidata,M,Q5850584,way
 "Calle de Evaristo San Miguel",wikidata,M,Q3816067,way
@@ -1175,6 +1179,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Guillén de Castro",wikidata,M,Q457209,way
 "Calle de Guillermo Rovirosa",wikidata,M,Q5408637,way
 "Calle de Guillermo de Osma",wikidata,M,Q9001374,way
+"Calle de Gustavo Pérez Puig",wikidata,M,Q4892919,way
 "Calle de Gutierre de Cetina",wikidata,M,Q2708001,way
 "Calle de Gutiérrez Solana",wikidata,M,Q428928,way
 "Calle de Guzmán el Bueno",wikidata,M,Q4734497,way
@@ -1190,9 +1195,12 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Jenner",wikidata,M,Q40852,way
 "Calle de Jesús Fernández Santos",wikidata,M,Q3753961,way
 "Calle de Joaquín Costa",wikidata,M,Q965602,way
+"Calle de Jordi Solé Tura",wikidata,M,Q527326,way
 "Calle de Jorge Juan",wikidata,M,Q2085725,way
 "Calle de José Abascal",wikidata,M,Q9013476,way
 "Calle de José Antonio Armona",wikidata,M,Q5547499,way
+"Calle de José Antonio Coderch",wikidata,M,Q953734,way
+"Calle de José Antonio Fernández Ordóñez",wikidata,M,Q3186163,way
 "Calle de José Donoso",wikidata,M,Q439761,way
 "Calle de José Feliú Codina",wikidata,M,Q2883060,way
 "Calle de José Gutiérrez Abascal",wikidata,M,Q17148207,way
@@ -1401,8 +1409,11 @@ Bucarest,wikidata,-,Q19660,way
 "Glorieta de Carlos Llamas",wikidata,M,Q3394154,way
 "Glorieta de Fernando Arbós",wikidata,M,Q5859195,way
 "Glorieta de Francisco Jareño",wikidata,M,Q5866077,way
+"Glorieta de José Benito de Churriguera",wikidata,M,Q637172,way
+"Glorieta de José Paz Maroto",wikidata,M,Q58040538,way
 "Glorieta de Julián Otamendi",wikidata,M,Q5956173,way
 "Glorieta de Luis Rosales",wikidata,M,Q537776,way
+"Glorieta de Manuel Alexandre",wikidata,M,Q983626,way
 "Glorieta de Paco Martínez Soria",wikidata,M,Q150576,way
 "Glorieta de Quevedo",wikidata,M,Q201315,way
 "Paseo Alto de Casimiro Gómez Ortega",wikidata,M,Q957993,way
@@ -1433,6 +1444,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza de José de Villareal",wikidata,M,Q5946383,way
 "Plaza de Juan Benet",wikidata,M,Q706516,way
 "Plaza de Juan Goytisolo",wikidata,M,Q353762,way
+"Plaza de Juan Muñoz Martín",wikidata,M,Q200476,way
 "Plaza de Manuel Becerra",wikidata,M,Q3393354,way
 "Plaza de Murillo",wikidata,M,Q192062,relation
 "Plaza de Nelson Mandela",wikidata,M,Q8023,way

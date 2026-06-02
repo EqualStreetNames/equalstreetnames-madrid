@@ -123,7 +123,6 @@ A-5,,,,way
 "Avenida de Madrid",,,,way
 "Avenida de Manoteras",,,,way
 "Avenida de Manu Leguineche",,,,way
-"Avenida de Manuel Fraga Iribarne",,,,way
 "Avenida de Marconi",,,,way
 "Avenida de Mariano Aragón García",,,,way
 "Avenida de Maruja Mallo",,,,way
@@ -954,7 +953,6 @@ Bus/VAO,,,,way
 "Calle Francisco Lastres",,,,way
 "Calle Francisco Piquer",,,,way
 "Calle Francisco Puertas",,,,way
-"Calle Francisco Remiro",,,,way
 "Calle Francisco Rodríguez",,,,way
 "Calle Francisco Sanfiz",,,,way
 "Calle Francisco Tomás y Valiente",,,,way
@@ -1183,7 +1181,6 @@ Bus/VAO,,,,way
 "Calle José María Cavero",,,,way
 "Calle José María Galván",,,,way
 "Calle José María Pemán",,,,way
-"Calle José María Sánchez Silva",,,,way
 "Calle José Martínez de Velasco",,,,way
 "Calle José Pérez",,,,way
 "Calle José Picón",,,,way
@@ -3028,6 +3025,7 @@ Bus/VAO,,,,way
 "Calle de El Greco",,,,way
 "Calle de El Huésped del Sevillano",,,,way
 "Calle de El Lucero del Alba",,,,way
+"Calle de El Parral",,,,way
 "Calle de El Paular",,,,way
 "Calle de El Pedernoso",,,,way
 "Calle de El Provencio",,,,way
@@ -3094,7 +3092,6 @@ Bus/VAO,,,,way
 "Calle de Esquilache",,,,way
 "Calle de Esquivel",,,,way
 "Calle de Estanislao Gómez",,,,way
-"Calle de Estanislao Pérez Pita",,,,way
 "Calle de Esteban Carros",,,,way
 "Calle de Esteban Collantes",,,,way
 "Calle de Esteban Mora",,,,relation+way
@@ -3178,7 +3175,6 @@ Bus/VAO,,,,way
 "Calle de Figueras",,,,way
 "Calle de Filadelfia",,,,way
 "Calle de Filipinas",,,,way
-"Calle de Fina de Calderón",,,,way
 "Calle de Flamisell",,,,way
 "Calle de Flandes",,,,way
 "Calle de Florencia",,,,way
@@ -3375,7 +3371,6 @@ Bus/VAO,,,,way
 "Calle de Guillermo Rolland",,,,way
 "Calle de Guipúzcoa",,,,way
 "Calle de Gustavo Fernández Balbuena",,,,way
-"Calle de Gustavo Pérez Puig",,,,way
 "Calle de Gutenberg",,,,way
 "Calle de Gutiérrez Canales",,,,way
 "Calle de Gutiérrez Sañudo",,,,way
@@ -3503,14 +3498,11 @@ Bus/VAO,,,,way
 "Calle de Joaquín Rivero",,,,way
 "Calle de Joaquín Turina",,,,way
 "Calle de Jordán",,,,way
-"Calle de Jordi Solé Tura",,,,way
 "Calle de Jorge Manrique",,,,way
 "Calle de José",,,,way
 "Calle de José Álvarez de Toledo",,,,way
 "Calle de José Andrés",,,,way
 "Calle de José Anduiza",,,,way
-"Calle de José Antonio Coderch",,,,way
-"Calle de José Antonio Fernández Ordóñez",,,,way
 "Calle de José Antonio Novais",,,,way
 "Calle de José Antonio Rebolledo y Palma",,,,way
 "Calle de José Arcones Gil",,,,way
@@ -4735,7 +4727,6 @@ Bus/VAO,,,,way
 "Calle de Sondica",,,,way
 "Calle de Sonseca",,,,way
 "Calle de Sopetrán",,,,way
-"Calle de Sor Ángela de la Cruz",,,,way
 "Calle de Sor María de Ágreda",,,,way
 "Calle de Sorolla",,,,way
 "Calle de Sort",,,,way
@@ -5896,7 +5887,6 @@ Bus/VAO,,,,way
 "Calle del Arroyo de los Ahijones",,,,way
 "Calle del Arroyo de los Chorrillos",,,,way
 "Calle del Arroyo de los Prados del Henar",,,,way
-"Calle del Arroyo del Canalillo",,,,way
 "Calle del Arroyo del Cañaveral",,,,way
 "Calle del Arroyo del Olivar",,,,way
 "Calle del Arroyo del Quinto",,,,way
@@ -6859,6 +6849,32 @@ Camarena,,,,way
 "Circuito El Bosque",,,,way
 "Circuito de Bicicross",,,,way
 "Claustro de las Cantigas",,,,relation
+"Cola ""Al Bosque con Diego""",,,,way
+"Cola ""Asserradero""",,,,way
+"Cola ""Cazamedusas de Patricio""",,,,way
+"Cola ""Hero Spin""",,,,way
+"Cola ""La Casa de Bob Esponja""",,,,way
+"Cola ""La Jungla""",,,,way
+"Cola ""Los Fiordos""",,,,way
+"Cola ""Los Globos Locos""",,,,way
+"Cola ""Los Rápidos""",,,,way
+"Cola ""Magneto de Jimmy Neutrón""",,,,way
+"Cola ""Nickelodeon Express""",,,,way
+"Cola ""Padrinos Voladores""",,,,way
+"Cola ""Patrulla Canina""",,,,way
+"Cola ""Rotor""",,,,way
+"Cola ""Splash Bash""",,,,way
+"Cola ""TNT - Tren de la Mina""",,,,way
+"Cola ""Tarántula""",,,,way
+"Cola ""The Walking Dead Experience""",,,,way
+"Cola ""Tifón""",,,,way
+"Cola ""Tornado""",,,,way
+"Cola ""Vértigo""",,,,way
+"Cola Speedy-Pass ""Los Rápidos""",,,,way
+"Cola mayores ""TMNT - Licencia para Conducir""",,,,way
+"Cola pequeños ""TMNT - Licencia para Conducir""",,,,way
+"Cola sillas dobles ""Sillas voladoras""",,,,way
+"Cola sillas sencillas ""Sillas voladoras""",,,,way
 "Colonia Militar de Vicálvaro",,,,way
 "Colonia Torres Garrido",,,,way
 "Colonia de Lucentum",,,,way
@@ -6953,12 +6969,10 @@ Camarena,,,,way
 "Glorieta de Javier Bellosillo",,,,way
 "Glorieta de José Antonio Egido Puerta",,,,way
 "Glorieta de José Antonio Jiménez Salas",,,,way
-"Glorieta de José Benito de Churriguera",,,,way
 "Glorieta de José Francisco de Isla",,,,way
 "Glorieta de José Luis Fernández del Amo",,,,way
 "Glorieta de José Luis Ozores",,,,way
 "Glorieta de José María García de Paredes",,,,way
-"Glorieta de José Paz Maroto",,,,way
 "Glorieta de Juan de Haro",,,,way
 "Glorieta de Leopoldo Torres Balbás",,,,way
 "Glorieta de López de Hoyos",,,,way
@@ -6972,7 +6986,6 @@ Camarena,,,,way
 "Glorieta de Luis Villalvilla",,,,way
 "Glorieta de Luxemburgo",,,,way
 "Glorieta de Málaga",,,,way
-"Glorieta de Manuel Alexandre",,,,way
 "Glorieta de Manuel Dorado Saiz",,,,way
 "Glorieta de Manuel Muñoz Monasterio",,,,way
 "Glorieta de María Reina",,,,way
@@ -7035,6 +7048,7 @@ Camarena,,,,way
 "Gran Vía de San Francisco",,,,way
 "Gran Vía de Villaverde",,,,way
 "Gran Vía del Sureste",,,,way
+Iberia,,,,way
 "Instalación Deportiva Municipal Básica Circuito de Automodelismo",,,,way
 "Instalación Deportiva Municipal Básica Parque El Calero. Circuito de bicicletas",,,,way
 "Intercambiador Casa de Campo",,,,way
@@ -7051,6 +7065,7 @@ Camarena,,,,way
 "Luis Marín",,,,way
 MadRing,,,,way
 Manresa,,,,way
+"Mirador ""Los Rápidos""",,,,way
 Moncloa,,,,way
 "Nudo Norte",,,,way
 "Nudo Sur",,,,way
@@ -7325,7 +7340,6 @@ PE0309,,,,way
 "Plaza Isla de Lanzarote",,,,way
 "Plaza Italia",,,,way
 "Plaza Joan Miró",,,,way
-"Plaza Juan Muñoz Martín",,,,way
 "Plaza Maliciosa",,,,way
 "Plaza Manuel Escobar",,,,way
 "Plaza Martínez Olmedilla",,,,way
@@ -7759,6 +7773,26 @@ PE0309,,,,way
 "Salas 1-6",,,,way
 "Salas 21-26",,,,way
 "Salas 7-20",,,,way
+"Salida ""Al Bosque con Diego""",,,,way
+"Salida ""Asserradero""",,,,way
+"Salida ""Cazamedusas de Patricio""",,,,way
+"Salida ""Hero Spin""",,,,way
+"Salida ""La Casa de Bob Esponja""",,,,way
+"Salida ""Los Fiordos""",,,,way
+"Salida ""Los Globos Locos""",,,,way
+"Salida ""Los Rápidos""",,,,way
+"Salida ""Magneto de Jimmy Neutrón""",,,,way
+"Salida ""Nickelodeon Express""",,,,way
+"Salida ""Padrinos Voladores""",,,,way
+"Salida ""Patrulla Canina""",,,,way
+"Salida ""Rotor""",,,,way
+"Salida ""Sillas voladoras""",,,,way
+"Salida ""Splash Bash""",,,,way
+"Salida ""TNT - Tren de la Mina""",,,,way
+"Salida ""Tarántula""",,,,way
+"Salida ""The Walking Dead Experience""",,,,way
+"Salida ""Tifón""",,,,way
+"Salida ""Tornado""",,,,way
 "Salida Anillo Distribuidor Cuatro Torres",,,,way
 "Salida de emergencia A-6",,,,way
 "Salida de emergencia M-40",,,,way
@@ -7779,6 +7813,15 @@ Security,,,,way
 Sendero,,,,way
 "Sendero Arboreto Montes",,,,way
 "Sifón de El Pardo",,,,way
+"Speedy Pass ""Cazamedusas de Patricio""",,,,way
+"Speedy Pass ""La Jungla""",,,,way
+"Speedy Pass ""Los Globos Locos""",,,,way
+"Speedy Pass ""Magneto de Jimmy Neutrón""",,,,way
+"Speedy Pass ""Padrinos Voladores""",,,,way
+"Speedy Pass ""Splash Bash""",,,,way
+"Speedy Pass ""Vértigo""",,,,way
+"Speedy Pass mayores ""TMNT - Licencia para Conducir""",,,,way
+"Speedy Pass pequeños ""TMNT - Licencia para Conducir""",,,,way
 "Subterráneo de Princesa a Santa Cruz de Marcenado",,,,way
 "T1 Llegadas",,,,way
 "T1 Salidas",,,,way
@@ -7890,7 +7933,6 @@ Sendero,,,,way
 "Travesía de la Sierra de Guadalupe",,,,way
 "Travesía de la Verja",,,,way
 "Travesía de las Beatas",,,,way
-"Travesía de las Encinas",,,,way
 "Travesía de las Humanitarias",,,,way
 "Travesía de las Pléyades",,,,way
 "Travesía de las Pozas",,,,way
