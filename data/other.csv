@@ -566,7 +566,7 @@ Bus/VAO,,,,way
 "Calle Cañada Real de las Merinas",,,,way
 "Calle Canal de Suez",,,,way
 "Calle Canalillo",,,,way
-"Calle Canarias",,,,way
+"Calle Canarios",,,,way
 "Calle Cañas",,,,way
 "Calle Cancer",,,,way
 "Calle Candelaria Mora",,,,way
@@ -924,7 +924,6 @@ Bus/VAO,,,,way
 "Calle Ferretería",,,,way
 "Calle Ferrocarril",,,,way
 "Calle Fidias",,,,way
-"Calle Fivé",,,,way
 "Calle Flor de Lis",,,,way
 "Calle Flor de Pascua",,,,way
 "Calle Flor del Coral",,,,way
@@ -3175,6 +3174,7 @@ Bus/VAO,,,,way
 "Calle de Figueras",,,,way
 "Calle de Filadelfia",,,,way
 "Calle de Filipinas",,,,way
+"Calle de Fivé",,,,way
 "Calle de Flamisell",,,,way
 "Calle de Flandes",,,,way
 "Calle de Florencia",,,,way
@@ -7174,6 +7174,7 @@ PE0309,,,,way
 "Pasaje del Doctor Esquerdo",,,,way
 "Pasaje del Dorado",,,,way
 "Pasaje del Lucero",,,,way
+"Pasaje del Valle de Oro",,,,way
 "Pasarela (senda de las tres culturas)",,,,way
 "Pasarela Aniceto Marinas",,,,way
 "Pasarela Arganzuela III",,,,way
@@ -7206,7 +7207,6 @@ PE0309,,,,way
 "Paseo Vía Verde de la Gasolina",,,,way
 "Paseo de Alabarderos",,,,way
 "Paseo de Alberto Palacios",,,,way
-"Paseo de Argentina",,,,way
 "Paseo de Barquillas",,,,way
 "Paseo de Bolivia",,,,way
 "Paseo de Camoens",,,,way
@@ -7245,6 +7245,7 @@ PE0309,,,,way
 "Paseo de Venezuela",,,,way
 "Paseo de Vía de Dublín",,,,way
 "Paseo de la Alameda de Osuna",,,,relation+way
+"Paseo de la Argentina",,,,way
 "Paseo de la Calle de Ribera del Sena",,,,way
 "Paseo de la Chopera",,,,way
 "Paseo de la Ciudad de Plasencia",,,,way
@@ -7591,7 +7592,7 @@ PE0309,,,,way
 "Plaza de la Virgen del Romero",,,,way
 "Plaza de las Asambleas",,,,way
 "Plaza de las Ciencias",,,,way
-"Plaza de las Comendadoras",,,,way
+"Plaza de las Comendadoras",,,,relation
 "Plaza de las Islas Azores",,,,way
 "Plaza de las Moreras",,,,way
 "Plaza de las Mujeres",,,,way
@@ -7616,6 +7617,7 @@ PE0309,,,,way
 "Plaza de los Pilares",,,,way
 "Plaza de los Pinazo",,,,way
 "Plaza de los Plátanos",,,,way
+"Plaza de los Sagrados Corazones",,,,way
 "Plaza de los Tres Olivos",,,,way
 "Plaza del Aguador",,,,way
 "Plaza del Alamillo",,,,way
@@ -7979,6 +7981,7 @@ Valdecanillas,,,,way
 Valdemaqueda,,,,way
 "Valle del Silencio",,,,way
 "Vereda de Castilla",,,,way
+"Vereda de Sor Juana Inés de la Cruz",,,,way
 "Vereda de Villaviciosa",,,,way
 "Vereda de la Elipa o Camino Viejo de Madrid",,,,way
 "Vereda de las Tapias del Monte Viñuelas",,,,way
