@@ -209,6 +209,7 @@ A-5,,,,way
 "Avenida de los Voluntarios de SAMUR Protección Civil",,,,way
 "Avenida de los Voluntarios de Samur Protección Civil",,,,way
 "Avenida del Aster",,,,way
+"Avenida del Atlético Aviación",,,,way
 "Avenida del Campo",,,,way
 "Avenida del Campus Sur",,,,way
 "Avenida del Cerro Milano",,,,way
@@ -248,7 +249,6 @@ A-5,,,,way
 Bus-VAO,,,,way
 Bus/VAO,,,,way
 "Bypass Sur",,,,way
-"C:\ProgramData\anaconda3",,,,way
 "Calle 40",,,,way
 "Calle 42",,,,way
 "Calle 44",,,,way
@@ -506,7 +506,6 @@ Bus/VAO,,,,way
 "Calle Bernedo",,,,way
 "Calle Berrocal",,,,way
 "Calle Berzosa de Lozoya",,,,way
-"Calle Betania",,,,way
 "Calle Bisutería",,,,way
 "Calle Blanca Luna",,,,way
 "Calle Blanca de Castilla",,,,way
@@ -1708,11 +1707,14 @@ Bus/VAO,,,,way
 "Calle Provisional Los Cerros 14",,,,way
 "Calle Provisional Los Cerros 15",,,,way
 "Calle Provisional Los Cerros 16",,,,way
+"Calle Provisional Los Cerros 2",,,,way
 "Calle Provisional Los Cerros 3",,,,way
 "Calle Provisional Los Cerros 4",,,,way
 "Calle Provisional Los Cerros 5",,,,way
 "Calle Provisional Los Cerros 6",,,,way
 "Calle Provisional Los Cerros 7",,,,way
+"Calle Provisional Los Cerros 8",,,,way
+"Calle Provisional Los Cerros 9",,,,way
 "Calle Puebla de Sanabria",,,,way
 "Calle Puebla de la Sierra",,,,way
 "Calle Puente del Duero",,,,way
@@ -2213,6 +2215,7 @@ Bus/VAO,,,,way
 "Calle Zumaya",,,,way
 "Calle Zumel",,,,way
 "Calle Zurgena",,,,way
+"Calle de 1903",,,,way
 "Calle de Abad Juan Catalán",,,,relation+way
 "Calle de Ábalos",,,,way
 "Calle de Abay",,,,way
@@ -2658,6 +2661,7 @@ Bus/VAO,,,,way
 "Calle de Berruguete",,,,way
 "Calle de Besolla",,,,way
 "Calle de Bet Figueras",,,,way
+"Calle de Betania",,,,way
 "Calle de Biarritz",,,,way
 "Calle de Bielsa",,,,way
 "Calle de Bigastro",,,,way
@@ -2844,7 +2848,6 @@ Bus/VAO,,,,way
 "Calle de Catalina de Austria",,,,way
 "Calle de Cauca",,,,way
 "Calle de Caunedo",,,,way
-"Calle de Cavanilles Particular",,,,way
 "Calle de Cayetano Pando",,,,way
 "Calle de Cazalegas",,,,way
 "Calle de Cebreiro",,,,way
@@ -3801,7 +3804,6 @@ Bus/VAO,,,,way
 "Calle de Manuel Muíño Arroyo",,,,way
 "Calle de Manuel Muñoz",,,,way
 "Calle de Manuel Noya",,,,way
-"Calle de Manuel Pombo Angulo",,,,way
 "Calle de Manuel Silvela",,,,way
 "Calle de Manuel Summer",,,,way
 "Calle de Manuel Vázque Montalbán",,,,way
@@ -4736,7 +4738,7 @@ Bus/VAO,,,,way
 "Calle de Soto Hidalgo",,,,way
 "Calle de Soto del Real",,,,way
 "Calle de Sotomayor",,,,way
-"Calle de Soutelos de Montes",,,,way
+"Calle de Soutelo de Montes",,,,way
 "Calle de Stuyck",,,,way
 "Calle de Suárez García",,,,way
 "Calle de Sucre",,,,way
@@ -5806,6 +5808,7 @@ Bus/VAO,,,,way
 "Calle de los Yeros",,,,way
 "Calle de septiembre",,,,way
 "Calle deTrones",,,,way
+"Calle del 26 de abril",,,,way
 "Calle del Abedul",,,,way
 "Calle del Abejaruco",,,,way
 "Calle del Abetal",,,,way
@@ -7501,10 +7504,10 @@ PE0309,,,,way
 "Plaza de Puerto Rubio",,,,way
 "Plaza de Quintana",,,,way
 "Plaza de Rabasa",,,,way
-"Plaza de Raffaella Carrà",,,,way
 "Plaza de Recajo",,,,way
 "Plaza de Remondo",,,,way
 "Plaza de Ricla",,,,way
+"Plaza de Rocío Oña y Cristina Arce",,,,way
 "Plaza de Rogelio Enríquez",,,,way
 "Plaza de Roger de Flor",,,,way
 "Plaza de Rubén Darío",,,,way
@@ -7592,7 +7595,7 @@ PE0309,,,,way
 "Plaza de la Virgen del Romero",,,,way
 "Plaza de las Asambleas",,,,way
 "Plaza de las Ciencias",,,,way
-"Plaza de las Comendadoras",,,,relation
+"Plaza de las Comendadoras",,,,relation+way
 "Plaza de las Islas Azores",,,,way
 "Plaza de las Moreras",,,,way
 "Plaza de las Mujeres",,,,way
@@ -7641,6 +7644,7 @@ PE0309,,,,way
 "Plaza del Corregidor Conde de Maceda y Taboada",,,,way
 "Plaza del Corregidor Licenciado Antonio Mena",,,,way
 "Plaza del Corregidor Sancho de Córdoba",,,,way
+"Plaza del Descubridor Diego de Ordás",,,,way
 "Plaza del Doctor Calvo Pérez",,,,way
 "Plaza del Doctor Cortés",,,,way
 "Plaza del Doctor Lozano",,,,way
@@ -7691,7 +7695,6 @@ PE0309,,,,way
 "Plazuela de Volodimir Zelensky",,,,way
 "Plazuela de la Doctora Gabriela Morreale",,,,way
 "Plazuela de la Memoria Trans",,,,way
-"Plazuela de las Comendadoras",,,,way
 "Pontona Norte Puente Toledo",,,,way
 "Presa Nº3",,,,way
 "Presa Nº4",,,,way

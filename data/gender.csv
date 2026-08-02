@@ -30,7 +30,6 @@ name,source,gender,wikidata,type
 "Avenida de la Villa de Vallecas",wikidata,-,Q1947988,way
 "Avenida de la Virgen del Carmen",wikidata,-,Q1065053,way
 "Avenida de las Fuerzas Armadas",wikidata,-,Q326991,way
-"Avenida de las Fuerzas Armadas (lateral)",wikidata,-,Q326991,way
 "Avenida de las Trece Rosas",wikidata,-,Q2663099,way
 "Avenida de los Fueros",wikidata,-,Q5870496,way
 "Avenida de los Poblados",wikidata,-,Q26795575,way
@@ -109,7 +108,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Glasgow",wikidata,-,Q4093,way
 "Calle Golf",wikidata,-,Q9739,way
 "Calle Granito",wikidata,-,Q41177,way
-"Calle Guadalcazar",wikidata,-,Q854460,way
+"Calle Guadalcázar",wikidata,-,Q854460,way
 "Calle Guarromán",wikidata,-,Q1313369,way
 "Calle Guisona",wikidata,-,Q984645,way
 "Calle Historias de la Radio",wikidata,-,Q11682550;Q384397,way
@@ -314,6 +313,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Castalia",wikidata,-,Q170053,way
 "Calle de Cástor y Pólux",wikidata,-,Q190103,way
 "Calle de Cavanilles",wikidata,-,Q29051443,way
+"Calle de Cavanilles Particular",wikidata,-,Q29051443,way
 "Calle de Cazorla",wikidata,-,Q518339,way
 "Calle de Cedaceros",wikidata,-,Q27051021,way
 "Calle de Cenicientos",wikidata,-,Q685764,way
@@ -986,6 +986,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza María Pignatelli",wikidata,F,Q52271507,way
 "Plaza Santa Bárbara",wikidata,F,Q192816,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
+"Plaza de Raffaella Carrà",wikidata,F,Q266640,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
 "Plaza de la Madre Molas",wikidata,F,Q445228,way
 "Plazuela de Ana Diosdado",wikidata,F,Q5673728,way
@@ -1248,6 +1249,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Manuel Luna",wikidata,M,Q5993525,way
 "Calle de Manuel María Arrillaga",wikidata,M,Q110795001,way
 "Calle de Manuel Montilla",wikidata,M,Q100233965,way
+"Calle de Manuel Pombo Angulo",wikidata,M,Q5994040,way
 "Calle de Marceliano Santa María",wikidata,M,Q5995562,way
 "Calle de Mariano Benlliure",wikidata,M,Q2402329,way
 "Calle de Mario Moreno ""Cantinflas""",wikidata,M,Q195371,way
