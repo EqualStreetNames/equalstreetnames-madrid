@@ -6,6 +6,7 @@ A-5,,,,way
 "Acceso M-45-A-3 a Gran Vía del Sureste",,,,way
 "Acceso Parque de la Elipa",,,,way
 "Acceso a la Colonia Marconi",,,,way
+"Acceso a vial",,,,way
 "Acceso peatones",,,,way
 "Acera Bici Serrano",,,,way
 "Aeropuerto T4 Salidas",,,,way
@@ -571,7 +572,6 @@ Bus/VAO,,,,way
 "Calle Candelaria Mora",,,,way
 "Calle Candeleda",,,,way
 "Calle Cándido Mateos",,,,way
-"Calle Canencia de la Sierra",,,,way
 "Calle Canet de Mar",,,,way
 "Calle Cangas de Narcea",,,,way
 "Calle Cangas de Onís",,,,way
@@ -761,6 +761,7 @@ Bus/VAO,,,,way
 "Calle Darwin",,,,way
 "Calle David Lara",,,,way
 "Calle Décima",,,,way
+"Calle Dédalo",,,,way
 "Calle Dehesa Vieja",,,,way
 "Calle Delmira Agustini",,,,way
 "Calle Deportividad",,,,way
@@ -847,7 +848,6 @@ Bus/VAO,,,,way
 "Calle Eladio López Vilches",,,,way
 "Calle Elche",,,,way
 "Calle Elda",,,,way
-"Calle Electra",,,,way
 "Calle Elena Fortún",,,,way
 "Calle Elgoibar",,,,way
 "Calle Eloisa de la Hera",,,,way
@@ -1607,6 +1607,7 @@ Bus/VAO,,,,way
 "Calle Peña del Cuervo",,,,way
 "Calle Peñafiel",,,,way
 "Calle Peñalara",,,,way
+"Calle Peñalara de Aravaca",,,,way
 "Calle Peñas del Arcipreste",,,,way
 "Calle Peñascales",,,,relation+way
 "Calle Peñota",,,,way
@@ -6706,9 +6707,9 @@ Camarena,,,,way
 "Camino de Hormigueras",,,,way
 "Camino de Húmera",,,,way
 "Camino de La Cañada",,,,way
+"Camino de La Leña",,,,way
 "Camino de Las Moreras",,,,way
 "Camino de Leganés",,,,way
-"Camino de Los Migueles",,,,way
 "Camino de Montoro",,,,way
 "Camino de Navahermosa",,,,way
 "Camino de Perales",,,,way
@@ -6842,7 +6843,6 @@ Camarena,,,,way
 "Carril bici Vía Carpetana -Cuña Verde",,,,way
 "Carril bici calle O'Donnell",,,,way
 "Carril bici del Paseo de la Castellana",,,,way
-"Cauce Arroyo de la Chopera",,,,way
 "Cauce Arroyo de la Zarza",,,,way
 "Cauce Arroyo del Rey",,,,way
 "Cementerio Parroquial San Sebastián Mártir",,,,way
@@ -7066,7 +7066,10 @@ Iberia,,,,way
 "La Plazoleta",,,,way
 "Las Terrazas",,,,way
 "Luis Marín",,,,way
-MadRing,,,,way
+M-203,,,,way
+M-214,,,,way
+Madring,,,,way
+"Madring pit lane",,,,way
 Manresa,,,,way
 "Mirador ""Los Rápidos""",,,,way
 Moncloa,,,,way
@@ -7236,6 +7239,7 @@ PE0309,,,,way
 "Paseo de Lanceros",,,,way
 "Paseo de Marcelino Camacho",,,,way
 "Paseo de María Teresa",,,,way
+"Paseo de México",,,,way
 "Paseo de Paraguay",,,,way
 "Paseo de Perales",,,,way
 "Paseo de Plata y Castañar",,,,way
@@ -7774,6 +7778,8 @@ PE0309,,,,way
 "Ronda del Ingenioso Hidalgo",,,,way
 "Ronda del Lago",,,,way
 "Ronda del Tren",,,,way
+"Rotonda M-203",,,,way
+"Rotonda M-203 sobre M45",,,,way
 "Rotonda de Arcentales",,,,way
 "Salas 1-6",,,,way
 "Salas 21-26",,,,way
@@ -7799,8 +7805,10 @@ PE0309,,,,way
 "Salida ""Tifón""",,,,way
 "Salida ""Tornado""",,,,way
 "Salida Anillo Distribuidor Cuatro Torres",,,,way
+"Salida Camiones de Bomberos",,,,way
 "Salida de emergencia A-6",,,,way
 "Salida de emergencia M-40",,,,way
+"Salida y entrada Parque de Bomberos",,,,way
 "Salón del Estanque",,,,way
 "San Millán de la Cogolla",,,,way
 "Santa Escolastica",,,,way
