@@ -13,26 +13,32 @@ name,source,gender,wikidata,type
 "Avenida de Betanzos",wikidata,-,Q671341,way
 "Avenida de Buenos Aires",wikidata,-,Q1486,way
 "Avenida de Daroca",wikidata,-,Q978587,way
+"Avenida de Europa",wikidata,-,Q46,way
 "Avenida de Filipinas",wikidata,-,Q928,way
 "Avenida de Guadalajara",wikidata,-,Q11953,way
 "Avenida de Jaca",wikidata,-,Q49581,relation+way
 "Avenida de La Gavia",wikidata,-,Q5706141,way
 "Avenida de Logroño",wikidata,-,Q14325,relation+way
+"Avenida de Madrid",wikidata,-,Q2807,way
 "Avenida de Monforte de Lemos",wikidata,-,Q818341,way
 "Avenida de Nazaret",wikidata,-,Q430776,way
 "Avenida de Niza",wikidata,-,Q33959,way
 "Avenida de Nuestra Señora de Fátima",wikidata,-,Q719524,relation+way
 "Avenida de Orcasur",wikidata,-,Q10341270,way
+"Avenida de Portugal",wikidata,-,Q45,way
 "Avenida de Santo Domingo de la Calzada",wikidata,-,Q646564,way
 "Avenida de Valladolid",wikidata,-,Q8356,way
 "Avenida de la Ciudad de Barcelona",wikidata,-,Q1492,way
+"Avenida de la Constitución",wikidata,-,Q847664,way
 "Avenida de la Gran Vía de Hortaleza",wikidata,-,Q1928529,way
+"Avenida de la Paz",wikidata,-,Q454,way
 "Avenida de la Villa de Vallecas",wikidata,-,Q1947988,way
 "Avenida de la Virgen del Carmen",wikidata,-,Q1065053,way
 "Avenida de las Fuerzas Armadas",wikidata,-,Q326991,way
 "Avenida de las Trece Rosas",wikidata,-,Q2663099,way
 "Avenida de los Fueros",wikidata,-,Q5870496,way
 "Avenida de los Poblados",wikidata,-,Q26795575,way
+"Avenida de los Reyes Católicos",wikidata,-,Q186851,way
 "Avenida del Parque de Palomeras Bajas",wikidata,-,Q10343902,way
 "Avenida del Planetario",wikidata,-,Q17622122,way
 "Bajos de Argüelles",wikidata,-,Q6392595,way
@@ -44,6 +50,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Alabastro",wikidata,-,Q143447,way
 "Calle Alberche",wikidata,-,Q16513,way
 "Calle Aldea del Fresno",wikidata,-,Q607467,way
+"Calle Alemania",wikidata,-,Q183,way
 "Calle Alfa",wikidata,-,Q9659,way
 "Calle Algete",wikidata,-,Q472604,way
 "Calle Aljarafe",wikidata,-,Q1323868,way
@@ -82,7 +89,6 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Castiello de Jaca",wikidata,-,Q784295,way
 "Calle Catania",wikidata,-,Q1903,way
 "Calle Cazorla",wikidata,-,Q518339,way
-"Calle Cervantes",wikidata,-,Q20014008,way
 "Calle Cervera",wikidata,-,Q847011,way
 "Calle Charlie",wikidata,-,Q9820,way
 "Calle Chirivel",wikidata,-,Q1048769,way
@@ -141,6 +147,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Monte de Montjuich",wikidata,-,Q1122701,way
 "Calle Montiel",wikidata,-,Q1610078,way
 "Calle Morena Clara",wikidata,-,Q22000247,way
+"Calle Música",wikidata,-,Q638,way
 "Calle Navaleno",wikidata,-,Q516654,way
 "Calle Navarra",wikidata,-,Q4018,way
 "Calle Navarrete",wikidata,-,Q916230,way
@@ -161,6 +168,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Picos de Europa",wikidata,-,Q1141172,way
 "Calle Pinar del Rey",wikidata,-,Q10349788,way
 "Calle Pobla de Segur",wikidata,-,Q17172,way
+"Calle Polonia",wikidata,-,Q36,way
 "Calle Portal de Belén",wikidata,-,Q31732,way
 "Calle Portugalete",wikidata,-,Q548441,way
 "Calle Pozuelo de Zarzón",wikidata,-,Q1630861,way
@@ -185,6 +193,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Ruidera",wikidata,-,Q1657922,way
 "Calle Sabiote",wikidata,-,Q1641690,way
 "Calle San Esteban de Gormaz",wikidata,-,Q487352,way
+"Calle San Miguel",wikidata,-,Q45581,way
 "Calle Sansón Carrasco",wikidata,-,Q6120178,way
 "Calle Santa María Real de Nieva",wikidata,-,Q139988,way
 "Calle Santo Domingo de Silos",wikidata,-,Q1766072,way
@@ -239,6 +248,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Alicún",wikidata,-,Q1358253,way
 "Calle de Almansa",wikidata,-,Q13930,way
 "Calle de Almorox",wikidata,-,Q326948,way
+"Calle de Alonso Quijano",wikidata,-,Q944201,way
 "Calle de Alozaina",wikidata,-,Q1630229,way
 "Calle de Altea",wikidata,-,Q436491,way
 "Calle de Álvarez Gato",wikidata,-,Q20908815,way
@@ -248,6 +258,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Ambroz",wikidata,-,Q11905294;Q3393309,way
 "Calle de Añastro",wikidata,-,Q10751118,way
 "Calle de Andalucía",wikidata,-,Q5783,way
+"Calle de Andorra",wikidata,-,Q228,way
 "Calle de Antequera",wikidata,-,Q572041,way
 "Calle de Aquiles",wikidata,-,Q41746,way
 "Calle de Aquitania",wikidata,-,Q1179,way
@@ -268,7 +279,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Bacares",wikidata,-,Q1157977,way
 "Calle de Bailén",wikidata,-,Q1364346,way
 "Calle de Barbastro",wikidata,-,Q502975,way
-"Calle de Barcelona",wikidata,-,Q27048338,way
+"Calle de Barcelona",wikidata,-,Q1492,way
 "Calle de Barranca",wikidata,-,Q2476592,way
 "Calle de Batres",wikidata,-,Q1647095,way
 "Calle de Beasain",wikidata,-,Q847130,way
@@ -333,6 +344,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Denia",wikidata,-,Q646725,way
 "Calle de Deva",wikidata,-,Q1611504,way
 "Calle de Diana",wikidata,-,Q132543,way
+"Calle de Don Quijote",wikidata,-,Q944201,way
 "Calle de Dúrcal",wikidata,-,Q559839,way
 "Calle de Echegaray",wikidata,-,Q15788209,way
 "Calle de Écija",wikidata,-,Q273413,way
@@ -353,6 +365,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Etreros",wikidata,-,Q5850183,way
 "Calle de Etruria",wikidata,-,Q206730,way
 "Calle de Eunate",wikidata,-,Q115941845,way
+"Calle de Europa",wikidata,-,Q46,way
 "Calle de Fantasía",wikidata,-,Q943192,way
 "Calle de Finisterre",wikidata,-,Q732090,way
 "Calle de Finlandia",wikidata,-,Q33,way
@@ -386,7 +399,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Ichaso",wikidata,-,Q1110918,way
 "Calle de Illora",wikidata,-,Q291752,way
 "Calle de Irún",wikidata,-,Q200201,way
-"Calle de Italia",wikidata,-,Q108019,way
+"Calle de Italia",wikidata,-,Q38,way
 "Calle de Játiva",wikidata,-,Q738013,way
 "Calle de Jemenuño",wikidata,-,Q5929139,way
 "Calle de Jovellanos",wikidata,-,Q50227806,way
@@ -419,7 +432,6 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Loja",wikidata,-,Q332989,way
 "Calle de Londres",wikidata,-,Q84,way
 "Calle de Longares",wikidata,-,Q1650702,way
-"Calle de Lope de Vega",wikidata,-,Q19800989,way
 "Calle de Lorca",wikidata,-,Q47571,way
 "Calle de Los Alpes",wikidata,-,Q1286,way
 "Calle de Los Madrazo",wikidata,-,Q29345542,way
@@ -461,6 +473,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Navamures",wikidata,-,Q6038953,way
 "Calle de Navascués",wikidata,-,Q776592,way
 "Calle de Nerja",wikidata,-,Q13149,way
+"Calle de Nicaragua",wikidata,-,Q811,way
 "Calle de Normandía",wikidata,-,Q15878,way
 "Calle de Noruega",wikidata,-,Q20,way
 "Calle de Novecento",wikidata,-,Q124697,way
@@ -565,7 +578,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Valcarlos",wikidata,-,Q524479,way
 "Calle de Valderribas",wikidata,-,Q29051503,way
 "Calle de Valderrobres",wikidata,-,Q1641285,way
-"Calle de Valencia",wikidata,-,Q26810468,way
+"Calle de Valencia",wikidata,-,Q8818,way
 "Calle de Vallehermoso",wikidata,-,Q6122685,way
 "Calle de Valonia",wikidata,-,Q231,way
 "Calle de Vélez Rubio",wikidata,-,Q1110343,way
@@ -623,10 +636,13 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de la Isla del Hierro",wikidata,-,Q1036287,way
 "Calle de la Lagartera",wikidata,-,Q1631982,way
 "Calle de la Lechuga",wikidata,-,Q24647167,way
+"Calle de la Libertad",wikidata,-,Q2979,way
+"Calle de la Luna",wikidata,-,Q405,way
 "Calle de la Madre de Dios",wikidata,-,Q849693,way
 "Calle de la Magdalena",wikidata,-,Q17181780,way
 "Calle de la Montera",wikidata,-,Q5740928,way
 "Calle de la Paloma",wikidata,-,Q20908836,way
+"Calle de la Paz",wikidata,-,Q454,way
 "Calle de la Primavera",wikidata,-,Q28662708,way
 "Calle de la Princesa",wikidata,-,Q5740935,way
 "Calle de la Provenza",wikidata,-,Q101081,way
@@ -681,6 +697,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Butrón",wikidata,-,Q12255566,way
 "Calle del Caballero de Gracia",wikidata,-,Q5740985,way
 "Calle del Cabo Machichaco",wikidata,-,Q669894,way
+"Calle del Calvario",wikidata,-,Q170516,way
 "Calle del Canal de la Mancha",wikidata,-,Q34640,way
 "Calle del Canal del Bósforo",wikidata,-,Q35958,way
 "Calle del Cañón del Río Lobos",wikidata,-,Q3385422,way
@@ -760,6 +777,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle del Segura",wikidata,-,Q532136,way
 "Calle del Siete de Julio",wikidata,-,Q26777545,way
 "Calle del Simca",wikidata,-,Q173357,way
+"Calle del Sol",wikidata,-,Q525,way
 "Calle del Solara",wikidata,-,Q964709,way
 "Calle del Talbot",wikidata,-,Q173151,way
 "Calle del Torcal",wikidata,-,Q1013353,way
@@ -809,6 +827,7 @@ Bucarest,wikidata,-,Q19660,way
 "Paseo del Prado",wikidata,-,Q2079615,way
 "Paseo del Uruguay",wikidata,-,Q77,way
 "Plaza General Vara del Rey",wikidata,-,Q6080424,way
+"Plaza Italia",wikidata,-,Q38,way
 "Plaza Mayor",wikidata,-,Q1123493,relation+way
 "Plaza República del Ecuador",wikidata,-,Q736,way
 "Plaza Villalcázar de Sirga",wikidata,-,Q1010261,way
@@ -829,11 +848,10 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza de Cuzco",wikidata,-,Q26833863,way
 "Plaza de Don Antonio de Andrés",wikidata,-,Q131349485,way
 "Plaza de Elciego",wikidata,-,Q1368834,way
-"Plaza de España",wikidata,-,Q1326261,relation+way
+"Plaza de España",wikidata,-,Q1326261;Q29,relation+way
 "Plaza de Fonsagrada",wikidata,-,Q1465213,way
 "Plaza de Herradores",wikidata,-,Q28534650,way
 "Plaza de Isabel II",wikidata,-,Q6079993,way
-"Plaza de Jacinto Benavente",wikidata,-,Q6080004,way
 "Plaza de Jaizquíbel",wikidata,-,Q576888,way
 "Plaza de Jesús",wikidata,-,Q26796200,way
 "Plaza de Lavapiés",wikidata,-,Q6080017,relation+way
@@ -855,8 +873,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza de Ribadeo",wikidata,-,Q824076,way
 "Plaza de San Francisco",wikidata,-,Q24493632,way
 "Plaza de San Martín",wikidata,-,Q30578759,way
-"Plaza de San Miguel",wikidata,-,Q52051752,relation+way
-"Plaza de Santa Ana",wikidata,-,Q740210,way
+"Plaza de San Miguel",wikidata,-,Q45581;Q52051752,relation+way
 "Plaza de Santa Bárbara",wikidata,-,Q24481510,relation+way
 "Plaza de Santa Catalina de los Donados",wikidata,-,Q16576203,way
 "Plaza de Santa Cruz",wikidata,-,Q6080086,way
@@ -868,6 +885,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza de la Asamblea de Madrid",wikidata,-,Q139971,way
 "Plaza de la Cebada",wikidata,-,Q9060972,way
 "Plaza de la Cibeles",wikidata,-,Q1537446,way
+"Plaza de la Constitución",wikidata,-,Q847664,way
 "Plaza de la Independencia",wikidata,-,Q4967671,way
 "Plaza de la Lealtad",wikidata,-,Q6080203,way
 "Plaza de la Platería de Martínez",wikidata,-,Q6080240,way
@@ -934,6 +952,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Beatriz Galindo",wikidata,F,Q1708316,way
 "Calle de Carmen Cobeña",wikidata,F,Q5752487,way
 "Calle de Carolina Coronado",wikidata,F,Q941605,way
+"Calle de Clara Campoamor",wikidata,F,Q3321142,way
 "Calle de Concepción Arenal",wikidata,F,Q671852,way
 "Calle de Dulce Chacón",wikidata,F,Q466820,way
 "Calle de Estrellita Castro",wikidata,F,Q127643,way
@@ -964,7 +983,9 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Pastora Imperio",wikidata,F,Q3742020,way
 "Calle de Pilar Millán Astray",wikidata,F,Q18224305,way
 "Calle de Princesa de Éboli",wikidata,F,Q457676,way
+"Calle de Rosalía de Castro",wikidata,F,Q464264,way
 "Calle de Rosario Pino",wikidata,F,Q6112403,way
+"Calle de Santa Ana",wikidata,F,Q164294,way
 "Calle de Santa Casilda",wikidata,F,Q1236283,way
 "Calle de Santa Elena",wikidata,F,Q170164,way
 "Calle de Santa Francisca Javier Cabrini",wikidata,F,Q238983,way
@@ -976,17 +997,20 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Sor Ángela de la Cruz",wikidata,F,Q252055,way
 "Calle de Teresita González Quevedo",wikidata,F,Q20040146,way
 "Calle de Victoria Kent",wikidata,F,Q2743181,way
+"Calle de Zenobia Camprubí",wikidata,F,Q3346493,way
 "Calle de la Filósofa Simone Weil",wikidata,F,Q157309,way
 "Calle de la Infanta Mercedes",wikidata,F,Q218879,way
 "Calle de la Princesa de Kapurtala",wikidata,F,Q3394222,way
 "Calle del Cabo de Infantería Idoia Rodríguez Buján",wikidata,F,Q117021492,way
 "Glorieta de María de Villota",wikidata,F,Q236914,way
 "Glorieta de Pilar Miró",wikidata,F,Q75004,way
+"Pasaje Subterráneo al Centro Cultural Emilia Pardo Bazán",wikidata,F,Q275929,way
 "Paseo de la Reina Cristina",wikidata,F,Q538125,way
 "Plaza María Pignatelli",wikidata,F,Q52271507,way
 "Plaza Santa Bárbara",wikidata,F,Q192816,way
 "Plaza de Margaret Thatcher",wikidata,F,Q7416,way
 "Plaza de Raffaella Carrà",wikidata,F,Q266640,way
+"Plaza de Santa Ana",wikidata,F,Q164294,way
 "Plaza de Santa María Soledad Torres Acosta",wikidata,F,Q459189,way
 "Plaza de la Madre Molas",wikidata,F,Q445228,way
 "Plazuela de Ana Diosdado",wikidata,F,Q5673728,way
@@ -994,18 +1018,22 @@ Bucarest,wikidata,-,Q19660,way
 "Avenida Blas de Lezo",wikidata,M,Q881760,way
 "Avenida Felipe II",wikidata,M,Q34417,way
 "Avenida Miguel Delibes",wikidata,M,Q157326,way
+"Avenida Miguel Hernández",wikidata,M,Q332088,way
 "Avenida de Alberto Alcocer",wikidata,M,Q3813689,way
+"Avenida de Camilo José Cela",wikidata,M,Q132589,way
 "Avenida de Felipe II",wikidata,M,Q34417,way
 "Avenida de Francisco Pi y Margall",wikidata,M,Q450271,way
 "Avenida de Juan Antonio Samaranch",wikidata,M,Q171166,way
 "Avenida de Luis Aragonés",wikidata,M,Q576614,way
 "Avenida de Manuel Fraga Iribarne",wikidata,M,Q276043,way
 "Avenida de Menéndez Pelayo",wikidata,M,Q716799,way
+"Avenida de Miguel Hernández",wikidata,M,Q332088,way
 "Avenida de Niceto Alcalá Zamora",wikidata,M,Q313785,way
 "Avenida de Pablo Iglesias",wikidata,M,Q450299,way
 "Avenida de Pablo Neruda",wikidata,M,Q34189,way
 "Avenida de Pi i Margall",wikidata,M,Q450271,way
 "Avenida de Pío XII",wikidata,M,Q2604,relation+way
+"Avenida de Rafael Alberti",wikidata,M,Q118936,way
 "Avenida de Ramón y Cajal",wikidata,M,Q150526,way
 "Avenida de San Fermín",wikidata,M,Q468206,way
 "Avenida de San Luis",wikidata,M,Q346,way
@@ -1030,6 +1058,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Bolívar",wikidata,M,Q8605,way
 "Calle Bretón de los Herreros",wikidata,M,Q3774440,way
 "Calle Casado del Alisal",wikidata,M,Q1403817,way
+"Calle Cervantes",wikidata,M,Q5682,way
 "Calle César Manrique",wikidata,M,Q581285,way
 "Calle Daniel Urrabieta",wikidata,M,Q627132,way
 "Calle Divino Vallés",wikidata,M,Q5484026,way
@@ -1062,10 +1091,12 @@ Bucarest,wikidata,-,Q19660,way
 "Calle Padre Llanos",wikidata,M,Q9014535,way
 "Calle Paravicino",wikidata,M,Q648396,way
 "Calle Payaso Fofó",wikidata,M,Q3645440,way
+"Calle Pedro Salinas",wikidata,M,Q379789,way
 "Calle Profesor Martín Almagro Basch",wikidata,M,Q3571486,way
 "Calle Profesor Waksman",wikidata,M,Q232308,way
 "Calle Ruiz de Alarcón",wikidata,M,Q356532,way
 "Calle San Martín de Porres",wikidata,M,Q313293,way
+"Calle San Pedro",wikidata,M,Q33923,way
 "Calle Santiago Bernabéu",wikidata,M,Q223156,way
 "Calle Tomás Borrás",wikidata,M,Q9088237,way
 "Calle Watteau",wikidata,M,Q183221,way
@@ -1108,6 +1139,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Bernardino de Pantorba",wikidata,M,Q17187077,way
 "Calle de Blasco de Garay",wikidata,M,Q881771,way
 "Calle de Bravo Murillo",wikidata,M,Q200476,way
+"Calle de Calderón de la Barca",wikidata,M,Q170800,way
 "Calle de Carlos Arniches",wikidata,M,Q1042706,way
 "Calle de Carlos II",wikidata,M,Q36174,way
 "Calle de Carlos III",wikidata,M,Q36234,way
@@ -1115,6 +1147,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Carlos Maurrás",wikidata,M,Q3048,way
 "Calle de Castelló",wikidata,M,Q6068454,way
 "Calle de Cea Bermúdez",wikidata,M,Q963367,way
+"Calle de Cervantes",wikidata,M,Q5682,way
 "Calle de Cirilo Martínez Novillo",wikidata,M,Q5404429,way
 "Calle de Claudio Coello",wikidata,M,Q332466,way
 "Calle de Colón",wikidata,M,Q7322,way
@@ -1231,6 +1264,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Linneo",wikidata,M,Q1043,way
 "Calle de Lombia",wikidata,M,Q5950703,way
 "Calle de Lope de Rueda",wikidata,M,Q52206,way
+"Calle de Lope de Vega",wikidata,M,Q165257,way
 "Calle de López de Hoyos",wikidata,M,Q3072117,way
 "Calle de Lucano",wikidata,M,Q188646,way
 "Calle de Lucio del Valle",wikidata,M,Q5982356,way
@@ -1266,6 +1300,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Mesonero Romanos",wikidata,M,Q1545524,way
 "Calle de Miguel Ángel",wikidata,M,Q5592,way
 "Calle de Miguel Ángel Asturias",wikidata,M,Q75603,way
+"Calle de Miguel de Unamuno",wikidata,M,Q185085,way
 "Calle de Modesto Lafuente",wikidata,M,Q627987,way
 "Calle de Morejón",wikidata,M,Q5698624,way
 "Calle de Moreno Nieto",wikidata,M,Q9014607,way
@@ -1313,12 +1348,14 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Sagasta",wikidata,M,Q379779,way
 "Calle de Salas Barbadillo",wikidata,M,Q3893270,way
 "Calle de Salustiano Olózaga",wikidata,M,Q959518,way
+"Calle de San Antonio",wikidata,M,Q167477,way
 "Calle de San Eloy",wikidata,M,Q360798,way
 "Calle de San Eulogio",wikidata,M,Q2358257,way
 "Calle de San Felipe Neri",wikidata,M,Q217791,way
 "Calle de San Hilario",wikidata,M,Q44344,way
 "Calle de San Isidoro de Sevilla",wikidata,M,Q166876,way
 "Calle de San Jorge",wikidata,M,Q48438,way
+"Calle de San José",wikidata,M,Q128267,way
 "Calle de San Juan de la Salle",wikidata,M,Q312758,way
 "Calle de San Marcos",wikidata,M,Q31966,way
 "Calle de San Narciso",wikidata,M,Q828609,way
@@ -1335,6 +1372,7 @@ Bucarest,wikidata,-,Q19660,way
 "Calle de Sebastián Elcano",wikidata,M,Q201510,way
 "Calle de Serrano",wikidata,M,Q515741,way
 "Calle de Sinesio Delgado",wikidata,M,Q6129194,way
+"Calle de Sorolla",wikidata,M,Q351746,way
 "Calle de Timoteo Domingo",wikidata,M,Q55837075,way
 "Calle de Timoteo Pérez Rubio",wikidata,M,Q6147067,way
 "Calle de Tomás Bretón",wikidata,M,Q722623,way
@@ -1418,6 +1456,7 @@ Bucarest,wikidata,-,Q19660,way
 "Glorieta de Manuel Alexandre",wikidata,M,Q983626,way
 "Glorieta de Paco Martínez Soria",wikidata,M,Q150576,way
 "Glorieta de Quevedo",wikidata,M,Q201315,way
+"Pasaje San Pedro",wikidata,M,Q33923,way
 "Paseo Alto de Casimiro Gómez Ortega",wikidata,M,Q957993,way
 "Paseo Bajo de Casimiro Gómez Ortega",wikidata,M,Q957993,way
 "Paseo Eugenio María de Hostos",wikidata,M,Q3543841,way
@@ -1425,6 +1464,7 @@ Bucarest,wikidata,-,Q19660,way
 "Paseo de Ali Ben Yusuf",wikidata,M,Q552458,way
 "Paseo de Carlos III",wikidata,M,Q36234,way
 "Paseo de Eduardo Dato",wikidata,M,Q365162,way
+"Paseo de Federico García Lorca",wikidata,M,Q41408,way
 "Paseo de José Celestino Mutis",wikidata,M,Q731937,way
 "Paseo de José Quer",wikidata,M,Q957879,way
 "Paseo de Mariano Lagasca",wikidata,M,Q891966,way
@@ -1442,6 +1482,7 @@ Bucarest,wikidata,-,Q19660,way
 "Plaza de Eurípides",wikidata,M,Q48305,way
 "Plaza de Francisco Morano",wikidata,M,Q8962505,way
 "Plaza de Ignacio Villalonga",wikidata,M,Q3148227,way
+"Plaza de Jacinto Benavente",wikidata,M,Q83184,way
 "Plaza de José Moreno Villa",wikidata,M,Q981658,way
 "Plaza de José de Villareal",wikidata,M,Q5946383,way
 "Plaza de Juan Benet",wikidata,M,Q706516,way
